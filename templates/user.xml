@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="logger" value="private final Logger logger = LoggerFactory.getLogger(getClass());" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>Splitter.onPattern (com.google.common.base)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("onPattern").withParameters("java.lang.String").definedInClass("com.google.common.base.Splitter"))]]></place>
+    </injection>
+  </component>
+</application>
