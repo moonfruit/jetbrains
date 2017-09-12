@@ -90,13 +90,19 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="72" column="110" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/VfsManager.java" timestamp="1505208040885">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="45" />
-        <mark key="^" line="48" column="45" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.1/commons-vfs2-2.1-sources.jar!/org/apache/commons/vfs2/FileType.java" timestamp="1505211275094" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/VfsManager.java" timestamp="1505211259899">
+        <mark key="[" line="82" column="13" />
+        <mark key="]" line="81" column="68" />
+        <mark key="." line="81" column="68" />
+        <mark key="^" line="81" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505207226284">
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal-batch/gal-batch-ri/src/main/java/com/gingkoo/gal/batch/file/VfsFileTransfer.java" timestamp="1505210794284">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505211475515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -108,6 +114,7 @@
         <mark key="^" line="30" column="46" />
         <mark key="." line="26" column="53" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/src/init.properties" timestamp="1505211511649" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccService.java" timestamp="1504773858477">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="60" />
@@ -131,6 +138,7 @@
         <mark key="^" line="188" column="85" />
         <mark key="." line="188" column="85" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/spring/applicationContext.xml" timestamp="1505211492214" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/pom.xml" timestamp="1504850573273">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -157,11 +165,11 @@
       <jump line="33" column="121" filename="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>String</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsZU9iamVjdCk7Cg==</text>
@@ -173,28 +181,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZXN0RmlsZU9iamVjdC5nZXRUeXBlKCkuaGFzQ29udGVudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaHR0cGNsaWVudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1odHRwY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+b3B0aW9uYWw8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc3RGaWxlT2JqZWN0LmdldFBhcmVudCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBwYXNzd29yZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBnZXRQYXNzd29yZCgpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbW1vbnMtaHR0cGNsaWVudDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y29tbW9ucy1odHRwY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8c2NvcGU+b3B0aW9uYWw8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFzc3dvcmQgIT0gbnVsbCB8fCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0eXBlPnBvbTwvdHlwZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldFVzZXJEaXJJc1Jvb3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
