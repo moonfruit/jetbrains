@@ -23,6 +23,9 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="70" />
       </file>
+      <file name="/a.dummy" timestamp="1505195425413">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccRestClient.java" timestamp="1505117876579">
         <mark key="[" line="36" column="106" />
         <mark key="]" line="37" column="11" />
@@ -58,10 +61,10 @@
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SftpUserInfo.java" timestamp="1505187793020">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SftpUserInfo.java" timestamp="1505195107557">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FileSystemConfigurer.java" timestamp="1504855442783">
         <mark key="[" line="6" column="4" />
@@ -87,17 +90,23 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="72" column="110" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/VfsManager.java" timestamp="1505187696615">
-        <mark key="[" line="77" column="88" />
-        <mark key="]" line="77" column="88" />
-        <mark key="." line="77" column="88" />
-        <mark key="^" line="77" column="99" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/VfsManager.java" timestamp="1505195526796">
+        <mark key="[" line="77" column="79" />
+        <mark key="]" line="77" column="82" />
+        <mark key="." line="77" column="82" />
+        <mark key="^" line="77" column="82" />
       </file>
       <file name="/Dummy.txt" timestamp="1505119424497">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FtpOptions.java" timestamp="1505195457856">
+        <mark key="[" line="30" column="85" />
+        <mark key="]" line="31" column="51" />
+        <mark key="^" line="31" column="51" />
+        <mark key="." line="31" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccService.java" timestamp="1504773858477">
         <mark key="[" line="16" column="46" />
@@ -119,6 +128,7 @@
         <mark key="." line="188" column="85" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.1/commons-vfs2-2.1-sources.jar!/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java" timestamp="1505187837645" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.1/commons-vfs2-2.1-sources.jar!/org/apache/commons/vfs2/provider/ftp/FtpFileSystemConfigBuilder.java" timestamp="1505195335991" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/pom.xml" timestamp="1504850573273">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -144,44 +154,44 @@
       <jump line="33" column="121" filename="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8ocyArICIgLSBBbnN3ZXI6IEZhbHNlIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsZU9iamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8ocyArICIgLSBBbnN3ZXI6IEZhbHNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldFVzZXJEaXJJc1Jvb3QoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8ocyArICIgLSBBbnN3ZXI6IEZhbHNlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFzc3BocmFzZSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFzc3BocmFzZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBwYXNzd29yZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBnZXRQYXNzd29yZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBwYXNzd29yZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsZU9iamVjdC4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBnZXRQYXNzd29yZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlT2JqZWN0IGZpbGVPYmplY3QgPSB2ZnNNYW5hZ2VyLnJlc29sdmUoInNmdHA6Ly86YnVpbGRlckAxMC4xLjMuMTEvZXRjL2FwcC5lbnYiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsZU9iamVjdC4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlT2JqZWN0IGZpbGVPYmplY3QgPSB2ZnNNYW5hZ2VyLnJlc29sdmUoInNmdHA6Ly86YnVpbGRlckAxMC4xLjMuMTEvZXRjL2FwcC5lbnYiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
