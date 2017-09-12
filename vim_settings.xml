@@ -3,12 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1505119424497">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.1/commons-vfs2-2.1-sources.jar!/org/apache/commons/vfs2/provider/sftp/TrustEveryoneUserInfo.java" timestamp="1505187741391" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/UserInfo.java" timestamp="1504859999314">
         <mark key="[" line="58" column="9" />
         <mark key="]" line="59" column="7" />
@@ -21,17 +16,12 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/nio/charset/StandardCharsets.java" timestamp="1505187198584" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccServiceImpl.java" timestamp="1504773331997">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccService.java" timestamp="1504773858477">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="60" />
-        <mark key="^" line="16" column="60" />
-        <mark key="." line="16" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccRestClient.java" timestamp="1505117876579">
         <mark key="[" line="36" column="106" />
@@ -45,7 +35,6 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="117" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/www4j/schedule/JobScheduler.java" timestamp="1505184117835" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/pom.xml" timestamp="1504860122380">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -63,29 +52,16 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/support/EpccMessageHelper.java" timestamp="1504774757362">
-        <mark key="[" line="28" column="86" />
-        <mark key="]" line="29" column="102" />
-        <mark key="^" line="29" column="102" />
-        <mark key="." line="29" column="102" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1504858777431">
-        <mark key="[" line="188" column="61" />
-        <mark key="]" line="188" column="85" />
-        <mark key="^" line="188" column="85" />
-        <mark key="." line="188" column="85" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/body/SequenceResponse.java" timestamp="1504774908322">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="12" />
         <mark key="^" line="42" column="12" />
         <mark key="." line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SftpUserInfo.java" timestamp="1504861383471">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="96" column="9" />
-        <mark key="^" line="66" column="76" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SftpUserInfo.java" timestamp="1505187793020">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FileSystemConfigurer.java" timestamp="1504855442783">
         <mark key="[" line="6" column="4" />
@@ -105,6 +81,44 @@
         <mark key="^" line="57" column="61" />
         <mark key="." line="57" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" timestamp="1504772620461">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="110" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/VfsManager.java" timestamp="1505187696615">
+        <mark key="[" line="77" column="88" />
+        <mark key="]" line="77" column="88" />
+        <mark key="." line="77" column="88" />
+        <mark key="^" line="77" column="99" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505119424497">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccService.java" timestamp="1504773858477">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="60" />
+        <mark key="^" line="16" column="60" />
+        <mark key="." line="16" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/www4j/schedule/JobScheduler.java" timestamp="1505184117835" />
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/support/EpccMessageHelper.java" timestamp="1504774757362">
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="29" column="102" />
+        <mark key="^" line="29" column="102" />
+        <mark key="." line="29" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1504858777431">
+        <mark key="[" line="188" column="61" />
+        <mark key="]" line="188" column="85" />
+        <mark key="^" line="188" column="85" />
+        <mark key="." line="188" column="85" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.1/commons-vfs2-2.1-sources.jar!/org/apache/commons/vfs2/provider/sftp/SftpClientFactory.java" timestamp="1505187837645" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/pom.xml" timestamp="1504850573273">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -112,12 +126,6 @@
         <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/captcha/SessionCaptchaManager.java" timestamp="1505184129187" />
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" timestamp="1504772620461">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="110" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/bean/RandomHelperTest.java" timestamp="1504756730771">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="52" column="35" />
@@ -130,83 +138,47 @@
         <mark key="." line="617" column="41" />
         <mark key="^" line="617" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/VfsManager.java" timestamp="1505184120632">
-        <mark key="[" line="74" column="93" />
-        <mark key="]" line="75" column="36" />
-        <mark key="^" line="75" column="36" />
-        <mark key="." line="75" column="36" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
       <jump line="33" column="121" filename="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SystemUtils.getUserDir());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8ocyArICIgLSBBbnN3ZXI6IEZhbHNlIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SystemUtils.getUserDir());</text>
+        <text>false</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsZU9iamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8ocyArICIgLSBBbnN3ZXI6IEZhbHNlIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvcmVDb25maWcuZ2V0SG9tZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFzc3BocmFzZSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRQYXNzd29yZCgpIHsKICAgICAgICAgICAgcmV0dXJuIHBhc3N3b3JkOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5zZXRVc2VySW5mbyhvcHRpb25zLCBuZXcgY29tLmpjcmFmdC5qc2MK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBwYXNzd29yZDsK</text>
       </register>
-      <register name="6" type="4">
-        <text>h.UserInfo() {
-                @Override
-                public String getPassphrase() {
-                    return passphrase;
-                }
-
-                @Override
-                public String getPassword() {
-                    return password;
-                }
-
-                @Override
-                public boolean promptPassword(String message) {
-                    return false;
-                }
-
-                @Override
-                public boolean promptPassphrase(String message) {
-                    return false;
-                }
-
-                @Override
-                public boolean promptYesNo(String message) {
-                    return false;
-                }
-
-                @Override
-                public void showMessage(String message) {
-                    logger.debug(message);
-                }
-            });</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBnZXRQYXNzd29yZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsZU9iamVjdC4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlT2JqZWN0IGZpbGVPYmplY3QgPSB2ZnNNYW5hZ2VyLnJlc29sdmUoInNmdHA6Ly86YnVpbGRlckAxMC4xLjMuMTEvZXRjL2FwcC5lbnYiKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
