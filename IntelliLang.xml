@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="java">
+      <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
+    </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>Splitter.onPattern (com.google.common.base)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("onPattern").withParameters("java.lang.String").definedInClass("com.google.common.base.Splitter"))]]></place>
