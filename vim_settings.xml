@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/service/BaseUserService.java" timestamp="1505463991962">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/LockConfig.java" timestamp="1505354387229">
         <mark key="[" line="20" column="80" />
         <mark key="]" line="22" column="30" />
@@ -39,7 +33,6 @@
         <mark key="^" line="43" column="65" />
         <mark key="." line="43" column="65" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/security/SecureRandom.java" timestamp="1505443838769" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/test/java/com/gingkoo/epcc/test/FileExample.java" timestamp="1505381367112">
         <mark key="[" line="109" column="49" />
         <mark key="]" line="109" column="48" />
@@ -58,9 +51,6 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/control/EpccControlCodeRefresher.java" timestamp="1505460878894" />
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/crypto/params/ECPrivateKeyParameters.java" timestamp="1505445327011" />
-      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/prov/src/main/java/org/bouncycastle/jcajce/provider/asymmetric/dstu/KeyPairGeneratorSpi.java" timestamp="1505454213710" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/zoo/clear.xml" timestamp="1505376846866">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -73,8 +63,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherWrapper.java" timestamp="1505444647493" />
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/crypto/test/SM2EngineTest.java" timestamp="1505455564463" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/SimpleLock.java" timestamp="1505355086094">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="7" column="3" />
@@ -87,7 +75,6 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/crypto/params/ECPublicKeyParameters.java" timestamp="1505453683155" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/CacheLockManager.java" timestamp="1505288932422">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="13" column="32" />
@@ -99,12 +86,6 @@
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/web/support/BaseUserArgumentResolver.java" timestamp="1505465863092">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/bean/RandomHelperTest.java" timestamp="1504756730771">
         <mark key="[" line="51" column="25" />
@@ -130,7 +111,6 @@
         <mark key="^" line="55" column="48" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/db/table/mapper/BaseUserMapper.java" timestamp="1505462015916" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.java" timestamp="1505297437650">
         <mark key="[" line="37" column="53" />
         <mark key="]" line="37" column="53" />
@@ -143,7 +123,6 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/IteratorHelper.java" timestamp="1505447461618" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/secutiry/SecurityHelper.java" timestamp="1505456795396">
         <mark key="[" line="36" column="55" />
         <mark key="]" line="37" column="11" />
@@ -156,7 +135,6 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/web/advice/BaseUserControllerAdvice.java" timestamp="1505463961236" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/file/ClearInfoFile.java" timestamp="1505379219308">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="22" />
@@ -205,7 +183,6 @@
         <mark key="." line="89" column="8" />
         <mark key="^" line="89" column="32" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/security/interfaces/ECPublicKey.java" timestamp="1505453847706" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/ssh/SshInitializer.java" timestamp="1505272255675">
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="23" />
@@ -248,14 +225,12 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/asn1/gm/GMNamedCurves.java" timestamp="1505447914515" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SftpUserInfo.java" timestamp="1505208142015">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="115" column="24" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/crypto/AsymmetricCipherKeyPair.java" timestamp="1505453552780" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FileSystemConfigurer.java" timestamp="1504855442783">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="7" />
@@ -280,7 +255,6 @@
         <mark key="^" line="47" column="17" />
         <mark key="." line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/prov/src/main/java/org/bouncycastle/jcajce/provider/asymmetric/ec/GMSignatureSpi.java" timestamp="1505454306901" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccControlCodeRefresher.java" timestamp="1505374941793">
         <mark key="[" line="48" column="11" />
         <mark key="]" line="48" column="11" />
@@ -329,15 +303,12 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="80" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/asymmetric/ec/BCECPrivateKey.java" timestamp="1505453928552" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/exception/EpccErrorCode.java" timestamp="1505374488153">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="51" column="82" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/asymmetric/RSA.java" timestamp="1505443868269" />
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jce/interfaces/ECPublicKey.java" timestamp="1505453769708" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/BeanTypeNotPresent.java" timestamp="1505288484336">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -362,7 +333,6 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/core/src/main/java/org/bouncycastle/util/test/TestRandomBigInteger.java" timestamp="1505454933545" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/zoo/summary.xml" timestamp="1505381317355">
         <mark key="[" line="73" column="72" />
         <mark key="]" line="74" column="15" />
@@ -387,8 +357,6 @@
         <mark key="^" line="186" column="8" />
         <mark key="." line="186" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/core/src/test/java/org/bouncycastle/crypto/test/SM2EngineTest.java" timestamp="1505454918513" />
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/asymmetric/rsa/CipherSpi.java" timestamp="1505443896037" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/WithSystemResponse.java" timestamp="1504774214301">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="9" />
@@ -401,9 +369,6 @@
         <mark key="." line="76" column="76" />
         <mark key="^" line="76" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/asymmetric/util/ECUtil.java" timestamp="1505456331336" />
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/util/AsymmetricKeyInfoConverter.java" timestamp="1505454047660" />
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/asymmetric/ec/BCECPublicKey.java" timestamp="1505453875997" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" timestamp="1504772620461">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -416,7 +381,7 @@
         <mark key="^" line="11" column="87" />
         <mark key="." line="11" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505463463618">
+      <file name="/Dummy.txt" timestamp="1505491234434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -428,19 +393,12 @@
         <mark key="^" line="25" column="22" />
         <mark key="." line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/service/BaseUserServiceImpl.java" timestamp="1505464070303">
-        <mark key="[" line="45" column="36" />
-        <mark key="]" line="46" column="14" />
-        <mark key="." line="46" column="14" />
-        <mark key="^" line="46" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FtpOptions.java" timestamp="1505207925648">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
         <mark key="^" line="30" column="46" />
         <mark key="." line="26" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/jcajce/provider/asymmetric/ec/KeyPairGeneratorSpi.java" timestamp="1505454014288" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/resources/configs/application.yaml" timestamp="1505287927658">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="26" />
@@ -459,18 +417,18 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="204" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/prov/src/test/java/org/bouncycastle/jce/provider/test/SM2SignatureTest.java" timestamp="1505454272582" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/digest/DigestBuilder.java" timestamp="1505457185475">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="38" column="8" />
         <mark key="^" line="38" column="8" />
         <mark key="." line="38" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1505356379275">
-        <mark key="[" line="627" column="0" />
-        <mark key="]" line="627" column="0" />
-        <mark key="^" line="323" column="24" />
-        <mark key="." line="627" column="0" />
+      <file name="/pom.xml" timestamp="1505491133803" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1505491223089">
+        <mark key="[" line="883" column="25" />
+        <mark key="]" line="884" column="11" />
+        <mark key="^" line="884" column="11" />
+        <mark key="." line="884" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1505461032592">
         <mark key="[" line="0" column="0" />
@@ -491,43 +449,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIEJhc2VVc2VyLmNsYXNzLmlzQXNzaWduYWJsZUZyb20ocGFyYW1ldGVyLmdldFBhcmFtZXRlclR5cGUoKSk7Cg==</text>
+        <text encoding="base64">QnVnIGZpeAo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJVbnVzZWRSZXR1cm5WYWx1ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIEJhc2VVc2VyLmNsYXNzLmlzQXNzaWduYWJsZUZyb20ocGFyYW1ldGVyLmdldFBhcmFtZXRlclR5cGUoKSk7Cg==</text>
+        <text encoding="base64">QnVnIGZpeAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2F2ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZVVzZXJSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIEJhc2VVc2VyLmNsYXNzLmlzQXNzaWduYWJsZUZyb20ocGFyYW1ldGVyLmdldFBhcmFtZXRlclR5cGUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0UmVwb3NpdG9yeShDb3JlVXNlclJlcG9zaXRvcnk8VD4gY29yZVVzZXJSZXBvc2l0b3J5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZVVzZXJSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb3JlVXNlclJlcG9zaXRvcnkg55So5oi35LuT5bqTCg==</text>
+        <text encoding="base64">ICAgIHZvaWQgc2V0UmVwb3NpdG9yeShDb3JlVXNlclJlcG9zaXRvcnk8VD4gY29yZVVzZXJSZXBvc2l0b3J5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIOiuvue9rueUqOaIt+S7k+W6kwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb3JlVXNlclJlcG9zaXRvcnkg55So5oi35LuT5bqTCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOiuvue9rueUqOaIt+S7k+W6kwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
