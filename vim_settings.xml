@@ -39,6 +39,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="78" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/asn1/gm/GMNamedCurves.java" timestamp="1505447914515" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/body/SequenceResponse.java" timestamp="1504774908322">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="12" />
@@ -106,6 +107,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/SM2Helper.java" timestamp="1505446057833">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherWrapper.java" timestamp="1505444647493" />
       <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.58/bcprov-jdk15on-1.58-sources.jar!/org/bouncycastle/crypto/test/SM2EngineTest.java" timestamp="1505441344364" />
@@ -196,11 +203,11 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/BouncyCastleTest.java" timestamp="1505445074987">
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="70" column="86" />
-        <mark key="^" line="70" column="86" />
-        <mark key="." line="70" column="86" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/BouncyCastleTest.java" timestamp="1505448029489">
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="79" column="60" />
+        <mark key="." line="79" column="60" />
+        <mark key="^" line="79" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/DataSourceService.java" timestamp="1505275707861">
         <mark key="[" line="35" column="65" />
@@ -269,6 +276,7 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/IteratorHelper.java" timestamp="1505447461618" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/secutiry/SecurityHelper.java" timestamp="1505395709633">
         <mark key="[" line="36" column="55" />
         <mark key="]" line="37" column="11" />
@@ -343,6 +351,13 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="16" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/ECHelper.java" timestamp="1505447009863">
+        <mark key="'" line="30" column="60" />
+        <mark key="[" line="61" column="37" />
+        <mark key="]" line="61" column="41" />
+        <mark key="^" line="61" column="41" />
+        <mark key="." line="61" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/datetime/DateConstants.java" timestamp="1505275300121">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -398,13 +413,14 @@
       <jump line="33" column="121" filename="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" />
       <jump line="37" column="56" filename="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/support/EpccMessageHelper.java" />
       <jump line="385" column="8" filename="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/file/ReconcileSummaryFile.java" />
+      <jump line="6" column="60" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/ECHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new byte[0];</text>
+        <text>());</text>
       </register>
       <register name="-" type="4">
-        <text>new byte[0];</text>
+        <text>());</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuaXNOdWxsKHB1YmxpY0tleSwgIkEge3B1YmxpY0tleX0gbXVzdCBiZSBzZXQiKTsK</text>
@@ -416,28 +432,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFNlY3VyaXR5SGVscGVyLlBST1ZJREVSKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJ2ZVRhYmxlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFQ05hbWVkQ3VydmVUYWJsZSBjdXJ2ZVRhYmxlID0gbmV3IEVDTmFtZWRDdXJ2ZVRhYmxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAQ29udHJhY3QocHVyZSA9IHRydWUpCiAgICBwdWJsaWMgc3RhdGljIFJhbmRvbSBnZXRSYW5kb20oKSB7CiAgICAgICAgcmV0dXJuIHJhbmRvbTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBFQ05hbWVkQ3VydmVUYWJsZSBjdXJ2ZVRhYmxlID0gbmV3IEVDTmFtZWRDdXJ2ZVRhYmxlKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc2V0UmFuZG9tKFJhbmRvbSByYW5kb20pIHsKICAgICAgICBSYW5kb21IZWxwZXIucmFuZG9tID0gcmFuZG9tOwogICAgfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgRUNLZXlQYWlyR2VuZXJhdG9yIGtleVBhaXJHZW5lcmF0b3IgPSBFQ0hlbHBlci5idWlsZERlZmF1bHRTTTJLZXlQYWlyR2VuZXJhdG9yKCk7CiAgICAgICAgQXN5bW1ldHJpY0NpcGhlcktleVBhaXIga2V5UGFpciA9IGtleVBhaXJHZW5lcmF0b3IuZ2VuZXJhdGVLZXlQYWlyKCk7CgogICAgICAgIGJ5dGVbXSBvcmlnaW5hbCA9ICJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWiIuZ2V0Qnl0ZXMoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3JpZ2luYWwubGVuZ3RoKTsKCiAgICAgICAgU00yRW5naW5lIGVuZ2luZSA9IG5ldyBTTTJFbmdpbmUoKTsKCiAgICAgICAgZW5naW5lLmluaXQodHJ1ZSwgbmV3IFBhcmFtZXRlcnNXaXRoUmFuZG9tKGtleVBhaXIuZ2V0UHVibGljKCksIG5ldyBTZWN1cmVSYW5kb20oKSkpOwoKICAgICAgICBieXRlW10gZW5jcnlwdGVkID0gZW5naW5lLnByb2Nlc3NCbG9jayhvcmlnaW5hbCwgMCwgb3JpZ2luYWwubGVuZ3RoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW5jcnlwdGVkLmxlbmd0aCk7CgogICAgICAgIGVuZ2luZS5pbml0KGZhbHNlLCBrZXlQYWlyLmdldFByaXZhdGUoKSk7CgogICAgICAgIGJ5dGVbXSBleHBlY3RlZCA9IGVuZ2luZS5wcm9jZXNzQmxvY2soZW5jcnlwdGVkLCAwLCBlbmNyeXB0ZWQubGVuZ3RoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXhwZWN0ZWQubGVuZ3RoKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5lcXVhbHMob3JpZ2luYWwsIGV4cGVjdGVkKSk7CgogICAgICAgIElPVXRpbHMud3JpdGUoZW5jcnlwdGVkLCBGaWxlcy5uZXdPdXRwdXRTdHJlYW0oUGF0aHMuZ2V0KCJ6b28vc20yZW5jcnlwdGVkLmRhdGEiKSkpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgc2V0U2VjdXJlUmFuZG9tKFNlY3VyZVJhbmRvbSBzZWN1cmVSYW5kb20pIHsKICAgICAgICBSYW5kb21IZWxwZXIuc2VjdXJlUmFuZG9tID0gc2VjdXJlUmFuZG9tOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUmFuZG9tIGdldFJhbmRvbSgpIHsKICAgICAgICAKICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCiAgICBwdWJsaWMgc3RhdGljIEFzeW1tZXRyaWNDaXBoZXJLZXlQYWlyIGdlbmVyYXRlS2V5UGFpcigpIHsKICAgICAgICBFQ0tleVBhaXJHZW5lcmF0b3Iga2V5UGFpckdlbmVyYXRvciA9IEVDSGVscGVyLmJ1aWxkRUNLZXlQYWlyR2VuZXJhdG9yKEVDSGVscGVyLmJ1aWxkRGVmYXVsdFNNMkRvbWFpbigpKTsKICAgICAgICByZXR1cm4ga2V5UGFpckdlbmVyYXRvci5nZW5lcmF0ZUtleVBhaXIoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
