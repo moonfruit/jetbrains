@@ -102,6 +102,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="id" value="a7036630-9e1f-4c0c-9a37-b474f8243b10" />
                       <option name="style">
