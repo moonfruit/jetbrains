@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunnerFactory.java" timestamp="1505699413218">
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="67" column="50" />
-        <mark key="^" line="67" column="50" />
-        <mark key="." line="67" column="50" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunnerFactory.java" timestamp="1505700986044">
+        <mark key="[" line="68" column="46" />
+        <mark key="]" line="68" column="77" />
+        <mark key="^" line="68" column="77" />
+        <mark key="." line="68" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/UserInfo.java" timestamp="1505198454141">
         <mark key="[" line="58" column="9" />
@@ -117,11 +117,11 @@
         <mark key="." line="48" column="11" />
         <mark key="^" line="63" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannel.java" timestamp="1505699721921">
-        <mark key="[" line="39" column="77" />
-        <mark key="]" line="39" column="79" />
-        <mark key="." line="39" column="79" />
-        <mark key="^" line="39" column="79" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannel.java" timestamp="1505701387748">
+        <mark key="[" line="49" column="61" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/zoo/clear.xml" timestamp="1505376846866">
         <mark key="[" line="60" column="0" />
@@ -146,6 +146,12 @@
         <mark key="]" line="67" column="23" />
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeConstants.java" timestamp="1505701329034">
+        <mark key="[" line="8" column="82" />
+        <mark key="]" line="8" column="96" />
+        <mark key="." line="8" column="96" />
+        <mark key="^" line="8" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/SimpleLock.java" timestamp="1505355086094">
         <mark key="[" line="6" column="5" />
@@ -351,11 +357,11 @@
         <mark key="^" line="1" column="89" />
         <mark key="." line="1" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505491234434">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1505701540084">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/spel/SpelParser.java" timestamp="1505275766523">
         <mark key="[" line="25" column="23" />
@@ -466,43 +472,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>Destroy channel on unregister</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Destroy channel on unregister</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJVbnVzZWRSZXR1cm5WYWx1ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QnVnIGZpeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2F2ZQo=</text>
+        <text encoding="base64">QnVnIGZpeAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIEJhc2VVc2VyLmNsYXNzLmlzQXNzaWduYWJsZUZyb20ocGFyYW1ldGVyLmdldFBhcmFtZXRlclR5cGUoKSk7Cg==</text>
+        <text encoding="base64">U2F2ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIEJhc2VVc2VyLmNsYXNzLmlzQXNzaWduYWJsZUZyb20ocGFyYW1ldGVyLmdldFBhcmFtZXRlclR5cGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZVVzZXJSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgc2V0UmVwb3NpdG9yeShDb3JlVXNlclJlcG9zaXRvcnk8VD4gY29yZVVzZXJSZXBvc2l0b3J5KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29yZVVzZXJSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgc2V0UmVwb3NpdG9yeShDb3JlVXNlclJlcG9zaXRvcnk8VD4gY29yZVVzZXJSZXBvc2l0b3J5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb3JlVXNlclJlcG9zaXRvcnkg55So5oi35LuT5bqTCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIOiuvue9rueUqOaIt+S7k+W6kwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb3JlVXNlclJlcG9zaXRvcnkg55So5oi35LuT5bqTCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
