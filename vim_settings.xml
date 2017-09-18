@@ -217,6 +217,12 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeFactory.java" timestamp="1505702421028">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/pom.xml" timestamp="1505703958641">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="78" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/exception/EpccErrorCode.java" timestamp="1505374488153">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -463,7 +469,7 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/pom.xml" timestamp="1505702346177">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/pom.xml" timestamp="1505703923994">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="20" />
@@ -494,16 +500,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkIGpwdXNoCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd3dzRqLW5vdGljZS1jaGFuLWpwdXNoPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>RELEASE</text>
+        <text>jzsms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJVbnVzZWRSZXR1cm5WYWx1ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkIGpwdXNoCg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd3dzRqLW5vdGljZS1jaGFuLWpwdXNoPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -512,25 +518,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4zLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">QWRkIGpwdXNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmp6LnNtczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anpzbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4zLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QnVnIGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmp6LnNtczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anpzbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U2F2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgcmV0dXJuIEJhc2VVc2VyLmNsYXNzLmlzQXNzaWduYWJsZUZyb20ocGFyYW1ldGVyLmdldFBhcmFtZXRlclR5cGUoKSk7Cg==</text>
+        <text encoding="base64">QnVnIGZpeAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2F2ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
