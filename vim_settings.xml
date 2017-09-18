@@ -447,10 +447,10 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505723510075">
-        <mark key="[" line="89" column="5" />
-        <mark key="]" line="91" column="3" />
-        <mark key="." line="91" column="3" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505726206948">
+        <mark key="[" line="87" column="77" />
+        <mark key="]" line="87" column="77" />
+        <mark key="." line="87" column="77" />
         <mark key="^" line="91" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/zoo/summary.xml" timestamp="1505381317355">
@@ -608,10 +608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>adddress</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>adddress</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFR01FTlQgPSAiU0VHTUVOVDoiOwo=</text>
