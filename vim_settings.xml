@@ -131,6 +131,7 @@
         <mark key="." line="15" column="77" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/HttpStatusReturningLogoutSuccessHandler.java" timestamp="1505714525746" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-ri/src/main/java/com/gingkoo/zoo/loan/ZooLoanRawServiceImpl.java" timestamp="1505719471786" />
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/model/notification/Notification.java" timestamp="1505713915365" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/bean/RandomHelperTest.java" timestamp="1504756730771">
         <mark key="[" line="51" column="25" />
@@ -280,6 +281,7 @@
         <mark key="." line="26" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannelFactory.java" timestamp="1505718935748" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1505719750739" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/LogoutConfig.java" timestamp="1505715022119">
         <mark key="[" line="48" column="12" />
         <mark key="]" line="48" column="37" />
@@ -348,6 +350,9 @@
         <mark key="]" line="8" column="96" />
         <mark key="." line="8" column="96" />
         <mark key="^" line="8" column="96" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-rong360-web-parent/zoo-rong360-web/src/main/java/com/gingkoo/zoo/rong360/web/service/ZooRongQueueService.java" timestamp="1505719799901">
+        <mark key="[" line="55" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/repository/BaseUserRepository.java" timestamp="1505464057774">
         <mark key="[" line="32" column="15" />
@@ -551,6 +556,7 @@
         <mark key="^" line="38" column="8" />
         <mark key="." line="38" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-rabbit/2.0.0-RELEASE/www4j-rabbit-2.0.0-RELEASE.jar!/com/gingkoo/www4j/rabbit/QueueHelper.class" timestamp="1505719618157" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1505704693252">
         <mark key="[" line="923" column="25" />
         <mark key="]" line="923" column="25" />
