@@ -236,6 +236,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="52" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/model/notification/Notification.java" timestamp="1505713915365" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/bean/RandomHelperTest.java" timestamp="1504756730771">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="52" column="35" />
@@ -266,10 +267,11 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505707723996">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505714174998">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccServiceImpl.java" timestamp="1504773331997">
         <mark key="[" line="136" column="0" />
@@ -451,6 +453,7 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannel.java" timestamp="1505713359510" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/digest/DigestBuilder.java" timestamp="1505457185475">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="38" column="8" />
@@ -499,43 +502,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpZW5jZS4K</text>
       </register>
       <register name="-" type="4">
-        <text>jPushClient</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1hc3RlclNlY3JldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpZW5jZS4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNZXNzYWdlKE1lc3NhZ2UubmV3QnVpbGRlcigpLnNldFRpdGxlKHRpdGxlKS5zZXRNc2dDb250ZW50KGNvbnRlbnQpLmJ1aWxkKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKUHVzaE5vdGljZUNoYW5uZWwoKSB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjbGllbnQuc2VuZFB1c2gocGF5bG9hZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmpQdXNoQ2xpZW50ID0galB1c2hDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSlB1c2hDbGllbnQgalB1c2hDbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3VhdmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd1YXZhPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rml4IHZlcnNpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd3dzRqLW5vdGljZS1jaGFuLWpwdXNoPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
