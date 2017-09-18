@@ -130,9 +130,7 @@
         <mark key="^" line="15" column="77" />
         <mark key="." line="15" column="77" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/HttpStatusReturningLogoutSuccessHandler.java" timestamp="1505714525746" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-ri/src/main/java/com/gingkoo/zoo/loan/ZooLoanRawServiceImpl.java" timestamp="1505719471786" />
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/model/notification/Notification.java" timestamp="1505713915365" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.3.RELEASE/spring-rabbit-1.7.3.RELEASE-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java" timestamp="1505720792082" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/bean/RandomHelperTest.java" timestamp="1504756730771">
         <mark key="[" line="51" column="25" />
         <mark key="]" line="52" column="35" />
@@ -157,7 +155,6 @@
         <mark key="^" line="55" column="48" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushHelper.java" timestamp="1505718497671" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.java" timestamp="1505297437650">
         <mark key="[" line="37" column="53" />
         <mark key="]" line="37" column="53" />
@@ -236,7 +233,6 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannel.java" timestamp="1505713359510" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/pom.xml" timestamp="1504850573273">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -261,7 +257,6 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/ForwardAuthenticationFailureHandler.java" timestamp="1505716937585" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccRestClient.java" timestamp="1505382411978">
         <mark key="[" line="37" column="106" />
         <mark key="]" line="38" column="11" />
@@ -280,8 +275,6 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannelFactory.java" timestamp="1505718935748" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1505719750739" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/LogoutConfig.java" timestamp="1505715022119">
         <mark key="[" line="48" column="12" />
         <mark key="]" line="48" column="37" />
@@ -312,6 +305,7 @@
         <mark key="." line="111" column="100" />
         <mark key="^" line="111" column="100" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.3.RELEASE/spring-amqp-1.7.3.RELEASE.jar!/org/springframework/amqp/core/DirectExchange.class" timestamp="1505720966457" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/cipher/SM2CipherTest.java" timestamp="1505456961605">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="16" column="57" />
@@ -324,21 +318,18 @@
         <mark key="^" line="47" column="17" />
         <mark key="." line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/pom.xml" timestamp="1505702324397" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccControlCodeRefresher.java" timestamp="1505374941793">
         <mark key="[" line="48" column="11" />
         <mark key="]" line="48" column="11" />
         <mark key="." line="48" column="11" />
         <mark key="^" line="63" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1.jar!/cn/jpush/api/JPushClient.class" timestamp="1505707613801" />
       <file name="$USER_HOME$/Documents/Workspace/java/bc-java/core/src/test/java/org/bouncycastle/crypto/test/SM2SignerTest.java" timestamp="1505454260030">
         <mark key="[" line="54" column="75" />
         <mark key="]" line="54" column="7" />
         <mark key="." line="54" column="7" />
         <mark key="^" line="54" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/LogoutConfigurer.java" timestamp="1505716170019" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/control/MemoryServerRepository.java" timestamp="1505375291330">
         <mark key="[" line="67" column="11" />
         <mark key="]" line="67" column="23" />
@@ -351,8 +342,10 @@
         <mark key="." line="8" column="96" />
         <mark key="^" line="8" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-rong360-web-parent/zoo-rong360-web/src/main/java/com/gingkoo/zoo/rong360/web/service/ZooRongQueueService.java" timestamp="1505719799901">
-        <mark key="[" line="55" column="6" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-rong360-web-parent/zoo-rong360-web/src/main/java/com/gingkoo/zoo/rong360/web/service/ZooRongQueueService.java" timestamp="1505720560824">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/repository/BaseUserRepository.java" timestamp="1505464057774">
         <mark key="[" line="32" column="15" />
@@ -378,7 +371,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/LogoutFilter.java" timestamp="1505714486651" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServicePool.java" timestamp="1505275368180">
         <mark key="[" line="58" column="37" />
         <mark key="]" line="58" column="37" />
@@ -421,7 +413,6 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/DelegatingLogoutSuccessHandler.java" timestamp="1505717110902" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/BouncyCastleTest.java" timestamp="1505455415846">
         <mark key="[" line="51" column="46" />
         <mark key="]" line="51" column="46" />
@@ -488,6 +479,7 @@
         <mark key="." line="76" column="76" />
         <mark key="^" line="76" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.3.RELEASE/spring-amqp-1.7.3.RELEASE.jar!/org/springframework/amqp/core/Binding.class" timestamp="1505720631688" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" timestamp="1504772620461">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -500,7 +492,6 @@
         <mark key="^" line="11" column="87" />
         <mark key="." line="11" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/servlet/RequestHelper.java" timestamp="1505715972825" />
       <file name="/Dummy.txt" timestamp="1505717452741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -537,7 +528,6 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/JsonNoticeChannelFactory.java" timestamp="1505718907178" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/configs/jdbc.yaml" timestamp="1505699602425">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="37" />
@@ -556,7 +546,6 @@
         <mark key="^" line="38" column="8" />
         <mark key="." line="38" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-rabbit/2.0.0-RELEASE/www4j-rabbit-2.0.0-RELEASE.jar!/com/gingkoo/www4j/rabbit/QueueHelper.class" timestamp="1505719618157" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1505704693252">
         <mark key="[" line="923" column="25" />
         <mark key="]" line="923" column="25" />
@@ -580,34 +569,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NoticeC</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>NoticeC</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFR01FTlQgPSAiU0VHTUVOVDoiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2lkID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIEBSYWJiaXRMaXN0ZW5lcihxdWV1ZXMgPSAiMTIzMTIiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2lkID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDaWQobWVzc2FnZS5nZXRNZXNzYWdlSWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRDaWQobWVzc2FnZS5nZXRNZXNzYWdlSWQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpZW5jZSBhdWRpZW5jZTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdWRpZW5jZSBhdWRpZW5jZTsKCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -616,7 +605,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpZW5jZSBhdWRpZW5jZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
