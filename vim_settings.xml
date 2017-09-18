@@ -136,7 +136,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1.jar!/cn/jpush/api/JPushClient.class" timestamp="1505706621348" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1.jar!/cn/jpush/api/JPushClient.class" timestamp="1505707613801" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/SM2Helper.java" timestamp="1505446057833">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -266,11 +266,10 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505702401470">
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505707723996">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccServiceImpl.java" timestamp="1504773331997">
         <mark key="[" line="136" column="0" />
@@ -500,40 +499,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3VhdmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd1YXZhPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>jPushClient</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJVbnVzZWRSZXR1cm5WYWx1ZSIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1hc3RlclNlY3JldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3VhdmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd1YXZhPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rml4IHZlcnNpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd3dzRqLW5vdGljZS1jaGFuLWpwdXNoPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKUHVzaE5vdGljZUNoYW5uZWwoKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmpQdXNoQ2xpZW50ID0galB1c2hDbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRkIGpwdXNoCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSlB1c2hDbGllbnQgalB1c2hDbGllbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuZ3VhdmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmd1YXZhPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My4zLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">Rml4IHZlcnNpb25zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmp6LnNtczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anpzbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd3dzRqLW5vdGljZS1jaGFuLWpwdXNoPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
