@@ -9,7 +9,7 @@
         <mark key="^" line="68" column="77" />
         <mark key="." line="68" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/application.yaml" timestamp="1505804139983">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/application.yaml" timestamp="1505804754912">
         <mark key="[" line="163" column="21" />
         <mark key="]" line="164" column="19" />
         <mark key="^" line="164" column="19" />
@@ -110,6 +110,7 @@
         <mark key="^" line="41" column="46" />
         <mark key="." line="41" column="46" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer.java" timestamp="1505805061136" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/SimpleLock.java" timestamp="1505355086094">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="7" column="3" />
@@ -165,7 +166,7 @@
         <mark key="^" line="55" column="48" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecuritySessionConfig.java" timestamp="1505803383370">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecuritySessionConfig.java" timestamp="1505804846785">
         <mark key="[" line="57" column="5" />
         <mark key="]" line="63" column="41" />
         <mark key="^" line="63" column="41" />
@@ -534,7 +535,7 @@
         <mark key="^" line="186" column="8" />
         <mark key="." line="186" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1505793267614">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1505804689722">
         <mark key="[" line="133" column="67" />
         <mark key="]" line="133" column="106" />
         <mark key="^" line="133" column="106" />
@@ -551,11 +552,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityWebConfig.java" timestamp="1505716136102">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="^" line="205" column="61" />
-        <mark key="." line="206" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityWebConfig.java" timestamp="1505805039600">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/spring/EpccWebConfig.java" timestamp="1504770756989">
         <mark key="[" line="76" column="76" />
@@ -654,9 +654,6 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1505794097773">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/codec/Codecs.java" timestamp="1505457156764">
         <mark key="[" line="64" column="53" />
         <mark key="]" line="64" column="63" />
@@ -674,22 +671,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpbmdrb28uem9vPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD56b28tbG9hbi1kYjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBnZXRVcmwocmVnaXN0cnksICIiKS5ub3QoKS5hY2Nlc3MoIiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>access</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFR01FTlQgPSAiU0VHTUVOVDoiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpbmdrb28uem9vPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD56b28tbG9hbi1kYjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBnZXRVcmwocmVnaXN0cnksICIiKS5ub3QoKS5hY2Nlc3MoIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpbmdrb28uem9vPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD56b28tbG9hbi1kYjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -698,16 +695,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmdldExhc3RBY2Nlc3NlZFRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRoZW50aWNhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIEF1dGhlbnRpY2F0aW9uQXJndW1lbnRSZXNvbHZlciBhdXRoZW50aWNhdGlvbkFyZ3VtZW50UmVzb2x2ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBBdXRoZW50aWNhdGlvbkFyZ3VtZW50UmVzb2x2ZXIoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFkZEFyZ3VtZW50UmVzb2x2ZXJzKExpc3Q8SGFuZGxlck1ldGhvZEFyZ3VtZW50UmVzb2x2ZXI+IGFyZ3VtZW50UmVzb2x2ZXJzKSB7CiAgICAgICAgYXJndW1lbnRSZXNvbHZlcnMuYWRkKGF1dGhlbnRpY2F0aW9uQXJndW1lbnRSZXNvbHZlcigpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLmdldExhc3RBY2Nlc3NlZFRpbWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5hZGRBcmd1bWVudFJlc29sdmVycyhhcmd1bWVudFJlc29sdmVycyk7Cg==</text>
+        <text encoding="base64">CiAgICBAQmVhbgogICAgcHVibGljIEF1dGhlbnRpY2F0aW9uQXJndW1lbnRSZXNvbHZlciBhdXRoZW50aWNhdGlvbkFyZ3VtZW50UmVzb2x2ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBBdXRoZW50aWNhdGlvbkFyZ3VtZW50UmVzb2x2ZXIoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFkZEFyZ3VtZW50UmVzb2x2ZXJzKExpc3Q8SGFuZGxlck1ldGhvZEFyZ3VtZW50UmVzb2x2ZXI+IGFyZ3VtZW50UmVzb2x2ZXJzKSB7CiAgICAgICAgYXJndW1lbnRSZXNvbHZlcnMuYWRkKGF1dGhlbnRpY2F0aW9uQXJndW1lbnRSZXNvbHZlcigpKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlci5hZGRBcmd1bWVudFJlc29sdmVycyhhcmd1bWVudFJlc29sdmVycyk7Cg==</text>
