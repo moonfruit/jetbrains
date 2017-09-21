@@ -48,6 +48,12 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/api/controller/OmsManagerApiController.java" timestamp="1505987030391">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+      </file>
       <file name="/a.sql" timestamp="1505960230822">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,6 +62,12 @@
         <mark key="]" line="37" column="53" />
         <mark key="^" line="37" column="56" />
         <mark key="." line="37" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/test/resources/configs/generator.yaml" timestamp="1505986937911">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/address/UserAddressResolver.java" timestamp="1505983856975">
         <mark key="[" line="5" column="0" />
@@ -105,11 +117,17 @@
         <mark key="^" line="67" column="59" />
         <mark key="." line="102" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/pom.xml" timestamp="1505985996431">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="37" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/pom.xml" timestamp="1505986871568">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="39" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="37" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-webapp/src/main/resources/configs/jdbc.yaml" timestamp="1505986914859">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushCidStore.java" timestamp="1505980084953">
         <mark key="[" line="7" column="25" />
@@ -134,7 +152,7 @@
       <file name="/dummy.sql" timestamp="1505985365667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505986138256">
+      <file name="/Dummy.txt" timestamp="1505987088224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="6" />
@@ -142,8 +160,19 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/model/PushPayload.java" timestamp="1505984466386" />
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/PushClient.java" timestamp="1505976504387" />
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-webapp/pom.xml" timestamp="1505986900673">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/APIConnectionException.java" timestamp="1505983316199" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/main/java/com/gingkoo/spring/NoticeClientConfig.java" timestamp="1505980063601" />
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/api/bean/TestResponse.java" timestamp="1505987048834">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushBatchNoticeChannel.java" timestamp="1505984978121">
         <mark key="[" line="9" column="93" />
         <mark key="]" line="9" column="93" />
@@ -165,8 +194,8 @@
       <jump line="15" column="27" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>oms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLm9tcy53ZWIuYXBpLmJlYW4uVGVzdFJlc3BvbnNlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>oms</text>
@@ -175,34 +204,34 @@
         <text encoding="base64">ICAgIHZvaWQgYWxpYXMoTm90aWNlVXNlciB1c2VyLCBTdHJpbmcgYWxpYXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8ZmluYWxOYW1lPm9tczwvZmluYWxOYW1lPgogICAgPC9idWlsZD4KCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLm9tcy53ZWIuYXBpLmJlYW4uVGVzdFJlc3BvbnNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8ZmluYWxOYW1lPm9tcy1tYW5hZ2VyPC9maW5hbE5hbWU+CiAgICA8L2J1aWxkPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChBUElDb25uZWN0aW9uRXhjZXB0aW9uIHwgQVBJUmVxdWVzdEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgIDxidWlsZD4KICAgICAgICA8ZmluYWxOYW1lPm9tczwvZmluYWxOYW1lPgogICAgPC9idWlsZD4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkKHJlcXVpcmVkID0gZmFsc2UpCiAgICBAU3VwcHJlc3NXYXJuaW5ncygiU3ByaW5nSmF2YUF1dG93aXJlZE1lbWJlcnNJbnNwZWN0aW9uIikKICAgIHB1YmxpYyB2b2lkIHNldFRocmVhZEhvbGRlcihUaHJlYWRIb2xkZXI8Tm90aWNlTWVzc2FnZT4gdGhyZWFkSG9sZGVyKSB7CiAgICAgICAgdGhpcy50aHJlYWRIb2xkZXIgPSB0aHJlYWRIb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChBUElDb25uZWN0aW9uRXhjZXB0aW9uIHwgQVBJUmVxdWVzdEV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFRocmVhZEhvbGRlcjxOb3RpY2VNZXNzYWdlPiB0aHJlYWRIb2xkZXI7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhyZWFkSG9sZGVyICE9IG51bGwpIHsKICAgICAgICAgICAgTm90aWNlTWVzc2FnZSBtZXNzYWdlID0gdGhyZWFkSG9sZGVyLmdldCgpOwogICAgICAgICAgICBpZiAobWVzc2FnZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLnNldENpZChtZXNzYWdlLmdldE1lc3NhZ2VJZCgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkKHJlcXVpcmVkID0gZmFsc2UpCiAgICBAU3VwcHJlc3NXYXJuaW5ncygiU3ByaW5nSmF2YUF1dG93aXJlZE1lbWJlcnNJbnNwZWN0aW9uIikKICAgIHB1YmxpYyB2b2lkIHNldFRocmVhZEhvbGRlcihUaHJlYWRIb2xkZXI8Tm90aWNlTWVzc2FnZT4gdGhyZWFkSG9sZGVyKSB7CiAgICAgICAgdGhpcy50aHJlYWRIb2xkZXIgPSB0aHJlYWRIb2xkZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QExhenkK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFRocmVhZEhvbGRlcjxOb3RpY2VNZXNzYWdlPiB0aHJlYWRIb2xkZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhyZWFkSG9sZGVyICE9IG51bGwpIHsKICAgICAgICAgICAgTm90aWNlTWVzc2FnZSBtZXNzYWdlID0gdGhyZWFkSG9sZGVyLmdldCgpOwogICAgICAgICAgICBpZiAobWVzc2FnZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBidWlsZGVyLnNldENpZChtZXNzYWdlLmdldE1lc3NhZ2VJZCgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
