@@ -42,7 +42,7 @@
         <mark key="^" line="43" column="65" />
         <mark key="." line="43" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505965804074">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505968742645">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -414,7 +414,7 @@
         <mark key="." line="11" column="87" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/ArrayBlockingQueue.java" timestamp="1505966883294" />
-      <file name="/dummy.sql" timestamp="1505965793444">
+      <file name="/dummy.sql" timestamp="1505968738898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1505959514309">
@@ -488,11 +488,11 @@
         <mark key="." line="67" column="86" />
         <mark key="^" line="67" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushClientFactory.java" timestamp="1505966874332">
-        <mark key="[" line="50" column="55" />
-        <mark key="]" line="50" column="78" />
-        <mark key="." line="50" column="78" />
-        <mark key="^" line="50" column="78" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushClientFactory.java" timestamp="1505968753076">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="58" />
+        <mark key="." line="65" column="58" />
+        <mark key="^" line="65" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionRememberMeFilter.java" timestamp="1505815717853">
         <mark key="[" line="16" column="17" />
@@ -929,11 +929,11 @@
       <jump line="35" column="34" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionTrustResolver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ArrayDeque</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayDeque</text>
+        <text>1000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgYWxpYXMoTm90aWNlVXNlciB1c2VyLCBTdHJpbmcgYWxpYXMpOwo=</text>
@@ -945,28 +945,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBRdWV1ZTxTdHJpbmc+IHF1ZXVlID0gaW5mby5nZXRDaWRRdWV1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKUHVzaEluZm8gaW5mbyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWV1ZTxTdHJpbmc+IHF1ZXVlID0gaW5mby5nZXRDaWRRdWV1ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICBKUHVzaEluZm8gaW5mbyA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jaWRRdWV1ZSA9IGNpZFF1ZXVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgSlB1c2hDbGllbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
