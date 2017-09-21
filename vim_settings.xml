@@ -3,26 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunnerFactory.java" timestamp="1505961951363">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="67" column="51" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/application.yaml" timestamp="1505903696735">
+        <mark key="[" line="100" column="18" />
+        <mark key="]" line="100" column="18" />
+        <mark key="^" line="100" column="18" />
+        <mark key="." line="100" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/address/NoticeJPushRawServiceImpl.java" timestamp="1505898247154">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannelFactory.java" timestamp="1505889153102">
-        <mark key="[" line="16" column="94" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannelFactory.java" timestamp="1505961985332">
+        <mark key="[" line="6" column="10" />
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityChannelConfig.java" timestamp="1505716609464">
+        <mark key="[" line="66" column="73" />
+        <mark key="]" line="67" column="86" />
+        <mark key="." line="67" column="86" />
+        <mark key="^" line="67" column="86" />
+      </file>
       <file name="/a.dummy" timestamp="1505902096726">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionRememberMeFilter.java" timestamp="1505815717853">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/LockConfig.java" timestamp="1505354387229">
+        <mark key="[" line="20" column="80" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-core/src/main/java/com/gingkoo/www4j/base/sequence/MemorySequenceGenerator.java" timestamp="1505275859897">
         <mark key="[" line="10" column="84" />
         <mark key="]" line="10" column="11" />
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/service/jpush/NoticeJPushRawService.java" timestamp="1505891988110">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="12" column="46" />
+        <mark key="." line="12" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccSecurityServiceMock.java" timestamp="1505383226965">
         <mark key="[" line="77" column="0" />
@@ -36,19 +72,60 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/AudienceBuilder.java" timestamp="1505718304754">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/constant/EpccConstants.java" timestamp="1505380781621">
         <mark key="[" line="43" column="66" />
         <mark key="]" line="43" column="65" />
         <mark key="^" line="43" column="65" />
         <mark key="." line="43" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.1/jackson-core-2.9.1-sources.jar!/com/fasterxml/jackson/core/JsonParser.java" timestamp="1505879187337" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/repository/NoticeRepository.java" timestamp="1505888910921" />
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/body/SequenceResponse.java" timestamp="1504774908322">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/test/java/com/gingkoo/epcc/test/FileExample.java" timestamp="1505381367112">
+        <mark key="[" line="109" column="49" />
+        <mark key="]" line="109" column="48" />
+        <mark key="^" line="109" column="48" />
+        <mark key="." line="109" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/control/EpccServerRepository.java" timestamp="1505375332007">
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="1" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="27" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505963861020">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/bean/RandomHelper.java" timestamp="1505444237835">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/db/mapper/JPushMapper.java" timestamp="1505890120292">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="49" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelLoader.java" timestamp="1505961585358" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8.jar!/cn/jiguang/common/connection/NativeHttpClient.class" timestamp="1505962179406" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannel.java" timestamp="1505816102634">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
+        <mark key="^" line="35" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/NoticeJPushService.java" timestamp="1505891503163">
         <mark key="[" line="2" column="37" />
@@ -68,12 +145,23 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/model/audience/Audience.java" timestamp="1505879711886" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushAudienceNoticeChannel.java" timestamp="1505901320446">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="61" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="35" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/pom.xml" timestamp="1505898962402">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="41" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/ProxyRemoteNoticeChannel.java" timestamp="1505899398955">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/ClassPresent.java" timestamp="1505893456635">
         <mark key="[" line="21" column="0" />
@@ -87,17 +175,53 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/repository/CoreUserRepository.java" timestamp="1505464045146">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/CacheLockManager.java" timestamp="1505288932422">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
         <mark key="^" line="13" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/support/AudienceDeserialer.java" timestamp="1505878791763">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8.jar!/cn/jiguang/common/resp/BaseResult.class" timestamp="1505962912700" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/ApiAccessDeniedHandler.java" timestamp="1505716833419">
         <mark key="[" line="15" column="67" />
         <mark key="]" line="15" column="77" />
         <mark key="^" line="15" column="77" />
         <mark key="." line="15" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/support/EpccMessageHelper.java" timestamp="1505460792157">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="17" column="9" />
+        <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/RememberMeConfig.java" timestamp="1505815674180">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/com/gingkoo/spring/www4j-notice-jpush-server.xml" timestamp="1505899112051">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/pom.xml" timestamp="1505959496681">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/main/java/com/gingkoo/spring/NoticeJPushClientConfig.java" timestamp="1505898626914">
         <mark key="[" line="12" column="59" />
@@ -129,6 +253,18 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/resources/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.xml" timestamp="1505892370477">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="64" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/JacksonBuilder.java" timestamp="1505896266576">
+        <mark key="[" line="126" column="53" />
+        <mark key="]" line="127" column="62" />
+        <mark key="^" line="127" column="62" />
+        <mark key="." line="127" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecuritySessionConfig.java" timestamp="1505815587168">
         <mark key="[" line="72" column="50" />
         <mark key="]" line="72" column="49" />
@@ -147,15 +283,39 @@
         <mark key="." line="25" column="31" />
         <mark key="^" line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1505794025067">
+        <mark key="[" line="115" column="93" />
+        <mark key="]" line="116" column="58" />
+        <mark key="^" line="116" column="58" />
+        <mark key="." line="116" column="58" />
+      </file>
+      <file name="/a.sql" timestamp="1505960230822">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/bc-java/.gitignore" timestamp="1505400264898">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.1/jackson-databind-2.9.1-sources.jar!/com/fasterxml/jackson/databind/Module.java" timestamp="1505878163412" />
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/model/audience/AudienceTarget.java" timestamp="1505879677144" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/jackson2/SecurityJackson2Modules.java" timestamp="1505877288839" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.java" timestamp="1505297437650">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="53" />
+        <mark key="^" line="37" column="56" />
+        <mark key="." line="37" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/address/UserAddressResolver.java" timestamp="1505959413141">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/secutiry/SecurityHelper.java" timestamp="1505456795396">
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/db/mapper/BaseUserExtMapper.java" timestamp="1505462035621">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="8" column="13" />
@@ -192,428 +352,23 @@
         <mark key="^" line="1" column="89" />
         <mark key="." line="1" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1505901866620">
+        <mark key="[" line="28" column="91" />
+        <mark key="]" line="28" column="92" />
+        <mark key="^" line="28" column="92" />
+        <mark key="." line="28" column="92" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/AbstractLockManager.java" timestamp="1505287688593">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="6" column="64" />
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/util/ClassUtils.java" timestamp="1505893442897" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/PathDeserializer.java" timestamp="1505892821457" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/converter/json/SpringHandlerInstantiator.java" timestamp="1505895319890" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/datetime/DateConstants.java" timestamp="1505275300121">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="38" column="104" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/FormConfig.java" timestamp="1505896553912" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/ProxyMapSet.java" timestamp="1505286167127">
-        <mark key="[" line="89" column="8" />
-        <mark key="]" line="89" column="8" />
-        <mark key="." line="89" column="8" />
-        <mark key="^" line="89" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeService.java" timestamp="1505876833746">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="9" column="57" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/CoreAppConfig.java" timestamp="1505896434648">
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="69" />
-        <mark key="^" line="83" column="69" />
-        <mark key="." line="83" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/ssh/SshInitializer.java" timestamp="1505272255675">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="19" />
-        <mark key="." line="21" column="23" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1505888605550" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/converter/json/Jackson2ObjectMapperBuilder.java" timestamp="1505878420500" />
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccSecurityService.java" timestamp="1505399160963">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushAddressResolver.java" timestamp="1505722993557">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-        <mark key="^" line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccRestClient.java" timestamp="1505382411978">
-        <mark key="[" line="37" column="106" />
-        <mark key="]" line="38" column="11" />
-        <mark key="." line="38" column="11" />
-        <mark key="^" line="38" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/db/table/bean/BaseUser.java" timestamp="1505462308162">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="11" column="63" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannelParas.java" timestamp="1505889076800">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.1/jackson-databind-2.9.1-sources.jar!/com/fasterxml/jackson/databind/module/SimpleModule.java" timestamp="1505895698664" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/channel/SessionChannelFilter.java" timestamp="1505716856527">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="47" column="94" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccSecurityServiceImpl.java" timestamp="1505383186837">
-        <mark key="[" line="111" column="17" />
-        <mark key="]" line="111" column="100" />
-        <mark key="." line="111" column="100" />
-        <mark key="^" line="111" column="100" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/cipher/SM2CipherTest.java" timestamp="1505456961605">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="16" column="57" />
-        <mark key="^" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/component/Amount.java" timestamp="1505380262446">
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="47" column="17" />
-        <mark key="^" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccControlCodeRefresher.java" timestamp="1505374941793">
-        <mark key="[" line="48" column="11" />
-        <mark key="]" line="48" column="11" />
-        <mark key="." line="48" column="11" />
-        <mark key="^" line="63" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/NoticeServiceImpl.java" timestamp="1505891934509" />
-      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/core/src/test/java/org/bouncycastle/crypto/test/SM2SignerTest.java" timestamp="1505454260030">
-        <mark key="[" line="54" column="75" />
-        <mark key="]" line="54" column="7" />
-        <mark key="." line="54" column="7" />
-        <mark key="^" line="54" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" timestamp="1505887510992">
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="67" column="59" />
-        <mark key="^" line="67" column="59" />
-        <mark key="." line="67" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/control/MemoryServerRepository.java" timestamp="1505375291330">
-        <mark key="[" line="67" column="11" />
-        <mark key="]" line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-        <mark key="." line="67" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/ssh/SshLogger.java" timestamp="1505271788026">
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/WebRequestMatcher.java" timestamp="1505716061603">
-        <mark key="[" line="4" column="58" />
-        <mark key="]" line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/BeforeAllAppConfig.java" timestamp="1505897177115">
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="62" />
-        <mark key="^" line="38" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/exception/NoticeErrorCode.java" timestamp="1505887886721">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="48" />
-        <mark key="^" line="40" column="48" />
-        <mark key="." line="40" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/LoginUrlSuccessHandler.java" timestamp="1505716852157">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="88" />
-        <mark key="^" line="23" column="71" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/PropertyHashChild.java" timestamp="1505893318593" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/BeanTypeNotPresent.java" timestamp="1505893334614">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="52" column="11" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-core/2.1.0-SNAPSHOT/www4j-core-2.1.0-20170920.084752-14.jar!/com/gingkoo/www4j/core/spring/condition/ClassPresent.class" timestamp="1505898828632" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/AuthenticationArgumentResolver.java" timestamp="1505794140359">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="30" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/zoo/summary.xml" timestamp="1505381317355">
-        <mark key="[" line="73" column="72" />
-        <mark key="]" line="74" column="15" />
-        <mark key="^" line="74" column="15" />
-        <mark key="." line="74" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/file/ClearInfo.java" timestamp="1505379258973">
-        <mark key="[" line="80" column="33" />
-        <mark key="]" line="80" column="38" />
-        <mark key="^" line="80" column="38" />
-        <mark key="." line="80" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/file/ReconcileDetail.java" timestamp="1505380603043">
-        <mark key="[" line="183" column="62" />
-        <mark key="]" line="186" column="8" />
-        <mark key="^" line="186" column="8" />
-        <mark key="." line="186" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1505810708471">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="133" column="31" />
-        <mark key="^" line="133" column="31" />
-        <mark key="." line="133" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/com/gingkoo/spring/www4j-notice-server.xml" timestamp="1505893236084">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-        <mark key="." line="11" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/spring/EpccWebConfig.java" timestamp="1504770756989">
-        <mark key="[" line="76" column="76" />
-        <mark key="]" line="76" column="76" />
-        <mark key="." line="76" column="76" />
-        <mark key="^" line="76" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" timestamp="1504772620461">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="110" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SshInitializer.java" timestamp="1505271159064">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="87" />
-        <mark key="^" line="11" column="87" />
-        <mark key="." line="11" column="87" />
-      </file>
-      <file name="/dummy.sql" timestamp="1505904433258">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505903445632">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush-api/pom.xml" timestamp="1505898137004">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="39" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FtpOptions.java" timestamp="1505207925648">
-        <mark key="[" line="26" column="53" />
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="30" column="46" />
-        <mark key="." line="26" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccService.java" timestamp="1504773858477">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="60" />
-        <mark key="^" line="16" column="60" />
-        <mark key="." line="16" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionRememberMeServices.java" timestamp="1505813964882">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="51" />
-        <mark key="^" line="12" column="51" />
-        <mark key="." line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/spring/RedisAppConfig.java" timestamp="1505354091313">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="204" column="24" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1505901162891" />
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.1/jackson-databind-2.9.1-sources.jar!/com/fasterxml/jackson/databind/module/SimpleSerializers.java" timestamp="1505893984864" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/digest/DigestBuilder.java" timestamp="1505457185475">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="38" column="8" />
-        <mark key="^" line="38" column="8" />
-        <mark key="." line="38" column="8" />
-      </file>
-      <file name="/fragment.java" timestamp="1505899297137">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunnerFactory.java" timestamp="1505901123810">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="67" column="51" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/application.yaml" timestamp="1505903696735">
-        <mark key="[" line="100" column="18" />
-        <mark key="]" line="100" column="18" />
-        <mark key="^" line="100" column="18" />
-        <mark key="." line="100" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityChannelConfig.java" timestamp="1505716609464">
-        <mark key="[" line="66" column="73" />
-        <mark key="]" line="67" column="86" />
-        <mark key="." line="67" column="86" />
-        <mark key="^" line="67" column="86" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionRememberMeFilter.java" timestamp="1505815717853">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/LockConfig.java" timestamp="1505354387229">
-        <mark key="[" line="20" column="80" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/service/jpush/NoticeJPushRawService.java" timestamp="1505891988110">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/AudienceBuilder.java" timestamp="1505718304754">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/body/SequenceResponse.java" timestamp="1504774908322">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="12" />
-        <mark key="^" line="42" column="12" />
-        <mark key="." line="42" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/test/java/com/gingkoo/epcc/test/FileExample.java" timestamp="1505381367112">
-        <mark key="[" line="109" column="49" />
-        <mark key="]" line="109" column="48" />
-        <mark key="^" line="109" column="48" />
-        <mark key="." line="109" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/control/EpccServerRepository.java" timestamp="1505375332007">
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="1" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="27" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/bean/RandomHelper.java" timestamp="1505444237835">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannel.java" timestamp="1505816102634">
-        <mark key="[" line="34" column="13" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
-        <mark key="^" line="35" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/pom.xml" timestamp="1505898962402">
-        <mark key="[" line="41" column="42" />
-        <mark key="]" line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServiceFactory.java" timestamp="1505901764610" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/ProxyRemoteNoticeChannel.java" timestamp="1505899398955">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/repository/CoreUserRepository.java" timestamp="1505464045146">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/support/AudienceDeserialer.java" timestamp="1505878791763">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/address/DubboAddressResolver.java" timestamp="1505889309968" />
-      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/support/EpccMessageHelper.java" timestamp="1505460792157">
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/RememberMeConfig.java" timestamp="1505815674180">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="32" />
-        <mark key="." line="34" column="32" />
-        <mark key="^" line="34" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/com/gingkoo/spring/www4j-notice-jpush-server.xml" timestamp="1505899112051">
-        <mark key="[" line="11" column="45" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/pom.xml" timestamp="1505898908390">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="50" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/ConditionContext.java" timestamp="1505893404384" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/resources/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.xml" timestamp="1505892370477">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/JacksonBuilder.java" timestamp="1505896266576">
-        <mark key="[" line="126" column="53" />
-        <mark key="]" line="127" column="62" />
-        <mark key="^" line="127" column="62" />
-        <mark key="." line="127" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1505794025067">
-        <mark key="[" line="115" column="93" />
-        <mark key="]" line="116" column="58" />
-        <mark key="^" line="116" column="58" />
-        <mark key="." line="116" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.java" timestamp="1505297437650">
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="53" />
-        <mark key="^" line="37" column="56" />
-        <mark key="." line="37" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/secutiry/SecurityHelper.java" timestamp="1505456795396">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1505901866620">
-        <mark key="[" line="28" column="91" />
-        <mark key="]" line="28" column="92" />
-        <mark key="^" line="28" column="92" />
-        <mark key="." line="28" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/CardniuConfig.java" timestamp="1505897085703">
         <mark key="[" line="32" column="5" />
@@ -627,17 +382,28 @@
         <mark key="^" line="46" column="37" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/test/java/com/gingkoo/www4j/notice/NoticeTest.java" timestamp="1505898900835">
-        <mark key="[" line="23" column="49" />
-        <mark key="]" line="23" column="49" />
-        <mark key="^" line="23" column="49" />
-        <mark key="." line="23" column="49" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/test/java/com/gingkoo/www4j/notice/NoticeTest.java" timestamp="1505961159763">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/ProxyMapSet.java" timestamp="1505286167127">
+        <mark key="[" line="89" column="8" />
+        <mark key="]" line="89" column="8" />
+        <mark key="." line="89" column="8" />
+        <mark key="^" line="89" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/main/resources/com/gingkoo/spring/www4j-notice-jpush-client.xml" timestamp="1505899088463">
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeService.java" timestamp="1505876833746">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/address/JPushAddressResolver.java" timestamp="1505876359952">
         <mark key="[" line="6" column="0" />
@@ -651,12 +417,25 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/CoreAppConfig.java" timestamp="1505896434648">
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="69" />
+        <mark key="^" line="83" column="69" />
+        <mark key="." line="83" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/ssh/SshInitializer.java" timestamp="1505272255675">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannel.java" timestamp="1505901494877">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="61" />
         <mark key="^" line="20" column="74" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/JPushClient.java" timestamp="1505962119438" />
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/pom.xml" timestamp="1504850573273">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="30" />
@@ -668,6 +447,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="31" column="14" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccSecurityService.java" timestamp="1505399160963">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/address/JPushAliasAddressResolver.java" timestamp="1505900049558">
         <mark key="[" line="25" column="0" />
@@ -681,11 +466,10 @@
         <mark key="^" line="16" column="65" />
         <mark key="." line="16" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/pom.xml" timestamp="1505898188370">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/pom.xml" timestamp="1505961015192">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/support/AudienceDeserializer.java" timestamp="1505889116091">
         <mark key="[" line="22" column="93" />
@@ -705,13 +489,37 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushAddressResolver.java" timestamp="1505722993557">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/service/jpush/NoticeJPushService.java" timestamp="1505892599150">
         <mark key="[" line="19" column="66" />
         <mark key="]" line="19" column="66" />
         <mark key="." line="19" column="66" />
         <mark key="^" line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannelFactory.java" timestamp="1505901789428" />
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccRestClient.java" timestamp="1505382411978">
+        <mark key="[" line="37" column="106" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/db/table/bean/BaseUser.java" timestamp="1505462308162">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/spring/NoticeAppConfig.java" timestamp="1505961968633" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannelParas.java" timestamp="1505960725483">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/LogoutConfig.java" timestamp="1505715022119">
         <mark key="[" line="48" column="12" />
         <mark key="]" line="48" column="37" />
@@ -724,17 +532,65 @@
         <mark key="^" line="115" column="24" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/channel/SessionChannelFilter.java" timestamp="1505716856527">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="47" column="94" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FileSystemConfigurer.java" timestamp="1504855442783">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccSecurityServiceImpl.java" timestamp="1505383186837">
+        <mark key="[" line="111" column="17" />
+        <mark key="]" line="111" column="100" />
+        <mark key="." line="111" column="100" />
+        <mark key="^" line="111" column="100" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/cipher/SM2CipherTest.java" timestamp="1505456961605">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/message/component/Amount.java" timestamp="1505380262446">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="47" column="17" />
+        <mark key="^" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/ResourceDeserializer.java" timestamp="1505896144800">
         <mark key="[" line="19" column="51" />
         <mark key="]" line="19" column="50" />
         <mark key="^" line="19" column="50" />
         <mark key="." line="19" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccControlCodeRefresher.java" timestamp="1505374941793">
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+        <mark key="^" line="63" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/bc-java/core/src/test/java/org/bouncycastle/crypto/test/SM2SignerTest.java" timestamp="1505454260030">
+        <mark key="[" line="54" column="75" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" timestamp="1505887510992">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="67" column="59" />
+        <mark key="^" line="67" column="59" />
+        <mark key="." line="67" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/control/MemoryServerRepository.java" timestamp="1505375291330">
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="23" />
+        <mark key="^" line="67" column="23" />
+        <mark key="." line="67" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeConstants.java" timestamp="1505701329034">
         <mark key="[" line="8" column="82" />
@@ -748,18 +604,35 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/NoticeService.java" timestamp="1505876763765" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/repository/BaseUserRepository.java" timestamp="1505464057774">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="28" />
         <mark key="^" line="32" column="28" />
         <mark key="." line="32" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/ssh/SshLogger.java" timestamp="1505271788026">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/WebRequestMatcher.java" timestamp="1505716061603">
+        <mark key="[" line="4" column="58" />
+        <mark key="]" line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/test/java/com/gingkoo/epcc/test/FIleExample.java" timestamp="1505375989911">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/BeforeAllAppConfig.java" timestamp="1505897177115">
+        <mark key="[" line="40" column="62" />
+        <mark key="]" line="40" column="62" />
+        <mark key="." line="40" column="62" />
+        <mark key="^" line="38" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServicePool.java" timestamp="1505275368180">
         <mark key="[" line="58" column="37" />
@@ -779,17 +652,22 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="1" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/exception/NoticeErrorCode.java" timestamp="1505887886721">
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="40" column="48" />
+        <mark key="^" line="40" column="48" />
+        <mark key="." line="40" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/CaptchaConfig.java" timestamp="1505896997974">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="28" />
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/pom.xml" timestamp="1505898204497">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="52" />
-        <mark key="^" line="44" column="57" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/pom.xml" timestamp="1505959468242">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/exception/EpccErrorCode.java" timestamp="1505374488153">
         <mark key="[" line="51" column="0" />
@@ -797,11 +675,29 @@
         <mark key="^" line="51" column="82" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/LoginUrlSuccessHandler.java" timestamp="1505716852157">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="88" />
+        <mark key="^" line="23" column="71" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/BeanTypeNotPresent.java" timestamp="1505893334614">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="52" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccServerRepository.java" timestamp="1504773537979">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/AuthenticationArgumentResolver.java" timestamp="1505794140359">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/BouncyCastleTest.java" timestamp="1505455415846">
         <mark key="[" line="51" column="46" />
@@ -815,11 +711,17 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505901314725">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1505963349615">
+        <mark key="[" line="77" column="12" />
+        <mark key="]" line="77" column="50" />
+        <mark key="." line="77" column="50" />
+        <mark key="^" line="77" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/zoo/summary.xml" timestamp="1505381317355">
+        <mark key="[" line="73" column="72" />
+        <mark key="]" line="74" column="15" />
+        <mark key="^" line="74" column="15" />
+        <mark key="." line="74" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/RemoteBatchNoticeChannel.java" timestamp="1505899439347">
         <mark key="[" line="8" column="48" />
@@ -827,18 +729,29 @@
         <mark key="^" line="8" column="72" />
         <mark key="." line="8" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/file/ClearInfo.java" timestamp="1505379258973">
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="38" />
+        <mark key="^" line="80" column="38" />
+        <mark key="." line="80" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/ApiLogoutSuccessHandler.java" timestamp="1505715142552">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="14" column="11" />
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/CoreConfig.java" timestamp="1505896596033" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/AbstractBatchNoticeChannel.java" timestamp="1505888106497">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/bean/file/ReconcileDetail.java" timestamp="1505380603043">
+        <mark key="[" line="183" column="62" />
+        <mark key="]" line="186" column="8" />
+        <mark key="^" line="186" column="8" />
+        <mark key="." line="186" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/pom.xml" timestamp="1505287872332">
         <mark key="[" line="26" column="30" />
@@ -852,7 +765,18 @@
         <mark key="^" line="18" column="55" />
         <mark key="." line="18" column="55" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java" timestamp="1505901094928" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1505810708471">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="133" column="31" />
+        <mark key="^" line="133" column="31" />
+        <mark key="." line="133" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/com/gingkoo/spring/www4j-notice-server.xml" timestamp="1505893236084">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="46" />
+        <mark key="^" line="11" column="46" />
+        <mark key="." line="11" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/constant/SecurityConfigConstants.java" timestamp="1505815098929">
         <mark key="[" line="87" column="81" />
         <mark key="]" line="87" column="89" />
@@ -865,13 +789,51 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.1/jackson-databind-2.9.1-sources.jar!/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1505879524232" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule-dubbo/src/main/java/com/gingkoo/www4j/schedule/dubbo/RemoteJobScheduler.java" timestamp="1505895490015" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1505960542203">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/spring/EpccWebConfig.java" timestamp="1504770756989">
+        <mark key="[" line="76" column="76" />
+        <mark key="]" line="76" column="76" />
+        <mark key="." line="76" column="76" />
+        <mark key="^" line="76" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/test/resources/configs/application.yaml" timestamp="1505960837538" />
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/MemoryServerRepository.java" timestamp="1504772620461">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="110" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/SshInitializer.java" timestamp="1505271159064">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="87" />
+        <mark key="^" line="11" column="87" />
+        <mark key="." line="11" column="87" />
+      </file>
+      <file name="/dummy.sql" timestamp="1505964143059">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505959514309">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/LoginUrlFailureHandler.java" timestamp="1505716948985">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="27" column="71" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush-api/pom.xml" timestamp="1505898137004">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/spel/SpelParser.java" timestamp="1505275766523">
         <mark key="[" line="25" column="23" />
@@ -885,11 +847,23 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/FtpOptions.java" timestamp="1505207925648">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="53" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="26" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/resources/configs/application.yaml" timestamp="1505287927658">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="26" />
         <mark key="^" line="22" column="26" />
         <mark key="." line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/epcc/epcc-web-parent/epcc-web/src/main/java/com/gingkoo/epcc/web/service/EpccService.java" timestamp="1504773858477">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="60" />
+        <mark key="^" line="16" column="60" />
+        <mark key="." line="16" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/BatchNoticeChannel.java" timestamp="1505899267090">
         <mark key="[" line="8" column="8" />
@@ -897,18 +871,46 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-base/src/main/java/com/gingkoo/www4j/notice/channel/email/smtp/SmtpEmailNoticeChannel.java" timestamp="1505900020469" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/configs/jdbc.yaml" timestamp="1505699602425">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="37" />
-        <mark key="^" line="20" column="37" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/PushClient.java" timestamp="1505964213254" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushCidPool.java" timestamp="1505964165335">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionRememberMeServices.java" timestamp="1505813964882">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/main/resources/configs/jdbc.yaml" timestamp="1505961540716">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/spring/RedisAppConfig.java" timestamp="1505354091313">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="204" column="24" />
+      </file>
+      <file name="src:table:/d40302fc/daac0524-48ac-4a2c-bcf0-8f75360386c1/zoo.notice_message" timestamp="1505963689567" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/digest/DigestBuilder.java" timestamp="1505457185475">
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="38" column="8" />
+        <mark key="^" line="38" column="8" />
+        <mark key="." line="38" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushBatchNoticeChannel.java" timestamp="1505888770389">
         <mark key="[" line="9" column="93" />
         <mark key="]" line="9" column="93" />
         <mark key="^" line="9" column="93" />
         <mark key="." line="9" column="93" />
+      </file>
+      <file name="/fragment.java" timestamp="1505961846230">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1505704693252">
         <mark key="[" line="923" column="25" />
@@ -933,44 +935,44 @@
       <jump line="35" column="34" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/support/SessionTrustResolver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RJQ0VfSlBVU0hfUFJFRklYID0gUFJFRklYICsgImpwdXNoLiI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RJQ0VfSlBVU0hfRU5BQkxFID0gUFJFRklYICsgImVuYWJsZSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.substring(BATCH_PREFIX.length())));</text>
+        <text>o</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgYWxpYXMoTm90aWNlVXNlciB1c2VyLCBTdHJpbmcgYWxpYXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RJQ0VfSlBVU0hfUFJFRklYID0gUFJFRklYICsgImpwdXNoLiI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBOT1RJQ0VfSlBVU0hfRU5BQkxFID0gUFJFRklYICsgImVuYWJsZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnN0YXR1c0NvZGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhQXV0b3dpcmVkTWVtYmVyc0luc3BlY3Rpb24iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhQXV0b3dpcmVkTWVtYmVyc0luc3BlY3Rpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnN0YXR1c0NvZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAUG9zdENvbnN0cnVjdAogICAgcHVibGljIHZvaWQgaW5pdCgpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImluaXQiKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuc3RhdHVzQ29kZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgRHViYm9Ob3RpY2VDaGFubmVsKFJlbW90ZU5vdGljZUNoYW5uZWwgY2hhbm5lbCwgVGhyZWFkSG9sZGVyPE5vdGljZU1lc3NhZ2U+IHRocmVhZEhvbGRlcikgewogICAgICAgIHRoaXMuY2hhbm5lbCA9IGNoYW5uZWw7CiAgICAgICAgdGhpcy50aHJlYWRIb2xkZXIgPSB0aHJlYWRIb2xkZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgVGhyZWFkSG9sZGVyPE5vdGljZU1lc3NhZ2U+IHRocmVhZEhvbGRlcjsKCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoInRhZ3MgPSB7fSIsIHJlc3VsdC50YWdzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbCA9IChjb20uZ2luZ2tvby53d3c0ai5ub3RpY2UuY2hhbm5lbC5Ob3RpY2VDaGFubmVsKSBiZWFuRmFjdG9yeS5jb25maWd1cmVCZWFuKGNoYW5uZWwsIG5vdGljZUNoYW5uZWwuZ2V0Q2hsSWQoKSArIE5PVElDRV9DSEFOTkVMKTsK</text>
+        <text encoding="base64">ICAgICAgICBUYWdMaXN0UmVzdWx0IHJlc3VsdCA9IGNsaWVudC5nZXRUYWdMaXN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFmdGVyUHJvcGVydGllc1NldCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW5pdCIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBuZXcgSlB1c2hDbGllbnQobWFzdGVyU2VjcmV0LCBhcHBLZXksIG51bGwsIENsaWVudENvbmZpZy5nZXRJbnN0YW5jZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
