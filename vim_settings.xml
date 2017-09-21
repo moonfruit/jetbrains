@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1505966201542">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505968742645">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -38,9 +35,6 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
-      </file>
-      <file name="/a.sql" timestamp="1505960230822">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/address/UserAddressResolver.java" timestamp="1505983856975">
         <mark key="[" line="5" column="0" />
@@ -102,9 +96,7 @@
         <mark key="." line="16" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/APIRequestException.java" timestamp="1505983039945" />
-      <file name="/dummy.sql" timestamp="1505985365667">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/authentication/rememberme/AbstractRememberMeServices.java" timestamp="1505988592576" />
       <file name="/Dummy.txt" timestamp="1505987470882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -119,9 +111,6 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/APIConnectionException.java" timestamp="1505983316199" />
-      <file name="/fragment.java" timestamp="1505983141272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunnerFactory.java" timestamp="1505984253950">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -140,6 +129,12 @@
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/RememberMeConfig.java" timestamp="1505988494854">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/risk-server/risk-core-parent/risk-core-db/src/test/resources/configs/generator.yaml" timestamp="1505987499402">
         <mark key="[" line="2" column="12" />
