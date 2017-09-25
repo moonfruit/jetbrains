@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/utils/ZooRiskUtil.java" timestamp="1506067632679">
         <mark key="[" line="32" column="72" />
       </file>
-      <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/java/org/drools/examples/DroolsExamplesApp.java" timestamp="1506075492140" />
+      <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/java/org/drools/examples/sudoku/Sudoku.java" timestamp="1506305485210" />
       <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/resources/META-INF/kmodule.xml" timestamp="1506074796204">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="52" />
@@ -43,7 +43,6 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="21" />
       </file>
-      <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/resources/org/drools/examples/helloworld/HelloWorld.drl" timestamp="1506074879176" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/datetime/DateHelper.java" timestamp="1506065634741">
         <mark key="[" line="201" column="48" />
         <mark key="]" line="201" column="53" />
@@ -56,6 +55,7 @@
         <mark key="^" line="74" column="67" />
         <mark key="." line="70" column="38" />
       </file>
+      <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/resources/org/drools/examples/sudoku/validate.drl" timestamp="1506305523880" />
       <file name="/dummy.sql" timestamp="1506067052361">
         <mark key="[" line="0" column="0" />
       </file>
