@@ -69,11 +69,11 @@
       </file>
       <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/resources/org/drools/examples/sudoku/sudoku.drl" timestamp="1506310681095" />
       <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/java/org/drools/examples/sudoku/Sudoku.java" timestamp="1506305485210" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1506311540964">
-        <mark key="[" line="188" column="27" />
-        <mark key="]" line="188" column="27" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1506320652992">
+        <mark key="[" line="183" column="29" />
+        <mark key="]" line="183" column="29" />
         <mark key="^" line="188" column="28" />
-        <mark key="." line="188" column="27" />
+        <mark key="." line="183" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/datetime/DateHelperTest.java" timestamp="1506067712799">
         <mark key="[" line="70" column="37" />
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(byte) 0xE5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(byte) 0xE5</text>
       </register>
       <register name="0" type="4">
         <text />
