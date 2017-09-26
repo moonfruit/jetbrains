@@ -17,7 +17,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/FilterType.java" timestamp="1506396578374" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountExpiredException.java" timestamp="1506404423799" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/service/RiskService.java" timestamp="1506416526822" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/service/RiskService.java" timestamp="1506417678241" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-pipeline/Jenkinsfile" timestamp="1506393492972">
         <mark key="[" line="137" column="81" />
         <mark key="]" line="109" column="23" />
@@ -71,6 +71,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountStatusException.java" timestamp="1506388771089" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-ri/src/main/java/com/gingkoo/zoo/loan/ZooLoanQueueService.java" timestamp="1506417881845">
+        <mark key="[" line="93" column="17" />
+        <mark key="]" line="93" column="17" />
+        <mark key="." line="93" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1506397695866">
         <mark key="[" line="65" column="32" />
         <mark key="]" line="68" column="63" />
@@ -182,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>APP_ID</text>
+        <text>B</text>
       </register>
       <register name="-" type="4">
-        <text>APP_ID</text>
+        <text>B</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihJbW11dGFibGVNYXAub2YoRGlzYWJsZWRFeGNlcHRpb24uY2xhc3MsIFVTRVJfRElTQUJMRSkpOwo=</text>
