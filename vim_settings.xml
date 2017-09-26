@@ -4,6 +4,33 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/application.yaml" timestamp="1506388531208" />
+      <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/java/org/drools/examples/helloworld/HelloWorldExample.java" timestamp="1506074845447">
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="80" column="31" />
+        <mark key="." line="80" column="31" />
+        <mark key="^" line="80" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506389008028">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushAudienceNoticeChannel.java" timestamp="1506324245489">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="33" column="31" />
+        <mark key="^" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-pipeline/Jenkinsfile" timestamp="1506391615719">
+        <mark key="[" line="137" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/datetime/DateHelperTest.java" timestamp="1506067712799">
+        <mark key="[" line="70" column="37" />
+        <mark key="]" line="70" column="38" />
+        <mark key="^" line="74" column="67" />
+        <mark key="." line="70" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/DisabledException.java" timestamp="1506388762200" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-admin-web-parent/zoo-admin-web/src/main/java/com/gingkoo/zoo/admin/web/util/DateUtils.java" timestamp="1506067603222">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="107" column="50" />
@@ -35,12 +62,6 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/java/org/drools/examples/helloworld/HelloWorldExample.java" timestamp="1506074845447">
-        <mark key="[" line="79" column="29" />
-        <mark key="]" line="80" column="31" />
-        <mark key="." line="80" column="31" />
-        <mark key="^" line="80" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-wxmp-parent/zoo-wxmp-db/src/main/java/com/gingkoo/zoo/wxmp/db/mapper/WeChatMapper.java" timestamp="1506306555340">
         <mark key="[" line="58" column="42" />
         <mark key="]" line="59" column="21" />
@@ -53,27 +74,16 @@
         <mark key="^" line="201" column="53" />
         <mark key="." line="203" column="15" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506389008028">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/web/advice/BaseUserControllerAdvice.java" timestamp="1506388673431">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="36" />
         <mark key="^" line="55" column="36" />
         <mark key="." line="55" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushAudienceNoticeChannel.java" timestamp="1506324245489">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="33" column="31" />
-      </file>
       <file name="/dummy.sql" timestamp="1506389002529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506334644762">
+      <file name="/Dummy.txt" timestamp="1506391696432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -100,13 +110,6 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/datetime/DateHelperTest.java" timestamp="1506067712799">
-        <mark key="[" line="70" column="37" />
-        <mark key="]" line="70" column="38" />
-        <mark key="^" line="74" column="67" />
-        <mark key="." line="70" column="38" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/DisabledException.java" timestamp="1506388762200" />
       <file name="/fragment.java" timestamp="1506335507026">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,8 +125,8 @@
       <jump line="15" column="27" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RW5oYW5jZW1lbnQK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -132,34 +135,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RW5oYW5jZW1lbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlVXNlciB1c2VyID0gbnVsbDsKCg==</text>
+        <text encoding="base64">RW5oYW5jZW1lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IGJhc2VVc2VyU2VydmljZS5sb2FkVXNlcihhdXRoZW50aWNhdGlvbi5nZXROYW1lKCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICBCYXNlVXNlciB1c2VyID0gbnVsbDsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXV0aGVudGljYXRpb24gIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IGJhc2VVc2VyU2VydmljZS5sb2FkVXNlcihhdXRoZW50aWNhdGlvbi5nZXROYW1lKCkpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC5sb2dvdXQoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFNlcnZsZXRFeGNlcHRpb24gaWdub3JlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXV0aGVudGljYXRpb24gIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
