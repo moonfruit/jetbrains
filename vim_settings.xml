@@ -57,6 +57,11 @@
         <mark key="^" line="11" column="81" />
         <mark key="." line="11" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/channel/SessionChannelInstallFilter.java" timestamp="1506419161652">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/pom.xml" timestamp="1506410438437">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="38" />
@@ -110,7 +115,7 @@
         <mark key="^" line="76" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-security/2.0.0-RELEASE/www4j-security-2.0.0-RELEASE.jar!/com/gingkoo/www4j/security/userpass/UserPassAuthenticationProvider.class" timestamp="1506408786881" />
-      <file name="/dummy.sql" timestamp="1506416075275">
+      <file name="/dummy.sql" timestamp="1506419218198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -186,8 +191,8 @@
       <jump line="15" column="27" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>B</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>B</text>
@@ -196,18 +201,24 @@
         <text encoding="base64">ICAgICAgICBzdXBlcihJbW11dGFibGVNYXAub2YoRGlzYWJsZWRFeGNlcHRpb24uY2xhc3MsIFVTRVJfRElTQUJMRSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QnVnIGZpeCBmb3IgIzU1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFBhcmFtZXRlcigpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">QnVnIGZpeCBmb3IgIzU1Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGRkCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>ImmutableMap.of(
                 DisabledException.class, USER_DISABLE,
                 LockedException.class, USER_LOCKED,
@@ -215,20 +226,14 @@
                 CredentialsExpiredException.class, USER_PASSWORD_EXPIRED
         )</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCYXNlVXNlckFyZ3VtZW50UmVzb2x2ZXIgYmFzZVVzZXJIYW5kbGVyTWV0aG9kQXJndW1lbnRSZXNvbHZlcigpIHsKICAgICAgICByZXR1cm4gbmV3IEJhc2VVc2VyQXJndW1lbnRSZXNvbHZlcigpOwogICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihJbW11dGFibGVNYXAub2YoRGlzYWJsZWRFeGNlcHRpb24uY2xhc3MsIFVTRVJfRElTQUJMRSkpOwo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
