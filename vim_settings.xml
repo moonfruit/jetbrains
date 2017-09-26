@@ -17,6 +17,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/FilterType.java" timestamp="1506396578374" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountExpiredException.java" timestamp="1506404423799" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/service/RiskService.java" timestamp="1506416526822" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-pipeline/Jenkinsfile" timestamp="1506393492972">
         <mark key="[" line="137" column="81" />
         <mark key="]" line="109" column="23" />
@@ -104,18 +105,19 @@
         <mark key="^" line="76" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-security/2.0.0-RELEASE/www4j-security-2.0.0-RELEASE.jar!/com/gingkoo/www4j/security/userpass/UserPassAuthenticationProvider.class" timestamp="1506408786881" />
-      <file name="/dummy.sql" timestamp="1506411382689">
+      <file name="/dummy.sql" timestamp="1506416075275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506410909148">
+      <file name="/Dummy.txt" timestamp="1506416136327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-api/src/main/java/com/gingkoo/zoo/risk/constant/RiskQueueMessages.java" timestamp="1506416687487" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java" timestamp="1506396969797" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/advice/MessageTranslator.java" timestamp="1506398881953">
         <mark key="[" line="3" column="1" />
