@@ -3,13 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/application.yaml" timestamp="1506388531208" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoSecurityController.java" timestamp="1506404854410">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/spring/NoticeAppConfig.java" timestamp="1506393672283" />
       <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/java/org/drools/examples/helloworld/HelloWorldExample.java" timestamp="1506074845447">
         <mark key="[" line="79" column="29" />
         <mark key="]" line="80" column="31" />
@@ -27,20 +25,23 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/FilterType.java" timestamp="1506396578374" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-wxmp-parent/zoo-wxmp-ri/src/main/java/com/gingkoo/zoo/wxmp/schedule/UserInfoRefresher.java" timestamp="1506306324801">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountExpiredException.java" timestamp="1506404423799" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushAudienceNoticeChannel.java" timestamp="1506324245489">
         <mark key="[" line="33" column="12" />
         <mark key="]" line="33" column="31" />
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/service/RiskService.java" timestamp="1506417678241" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherWrapper.java" timestamp="1506477216617">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-pipeline/Jenkinsfile" timestamp="1506393492972">
         <mark key="[" line="137" column="81" />
         <mark key="]" line="109" column="23" />
@@ -52,7 +53,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-core/src/main/java/com/gingkoo/spring/BaseAppConfig.java" timestamp="1506404544547" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/exception/SecurityErrorCode.java" timestamp="1506409688743">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="51" />
@@ -64,7 +64,6 @@
         <mark key="]" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/entry/SecurityAuthenticationEntryPoint.java" timestamp="1506394889576" />
       <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1506422587545">
         <mark key="[" line="1029" column="0" />
         <mark key="]" line="1029" column="0" />
@@ -76,21 +75,18 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/www4j/schedule/job/JobRunner.java" timestamp="1506411365433" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/datetime/DateHelperTest.java" timestamp="1506067712799">
         <mark key="[" line="70" column="37" />
         <mark key="]" line="70" column="38" />
         <mark key="^" line="74" column="67" />
         <mark key="." line="70" column="38" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/DisabledException.java" timestamp="1506388762200" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-core/src/main/java/com/gingkoo/www4j/base/exception/BaseErrorCode.java" timestamp="1506397869405">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="49" />
         <mark key="^" line="7" column="49" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-base-user/2.0.0-RELEASE/www4j-base-user-2.0.0-RELEASE.jar!/com/gingkoo/www4j/base/user/security/BaseUserDetailsService.class" timestamp="1506408893352" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-admin-web-parent/zoo-admin-web/src/main/java/com/gingkoo/zoo/admin/web/util/DateUtils.java" timestamp="1506067603222">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="107" column="50" />
@@ -131,7 +127,6 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/www4j/schedule/job/caller/SpelJobCaller.java" timestamp="1506411343533" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1506332433977">
         <mark key="[" line="154" column="104" />
         <mark key="]" line="155" column="56" />
@@ -144,7 +139,6 @@
         <mark key="^" line="42" column="60" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountStatusException.java" timestamp="1506388771089" />
       <file name="$USER_HOME$/Downloads/drools-distribution-7.3.0.Final/examples/sources/src/main/resources/META-INF/kmodule.xml" timestamp="1506074796204">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="52" />
@@ -186,36 +180,31 @@
         <mark key="^" line="17" column="9" />
         <mark key="." line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/userpass/UserPassAuthenticationProvider.java" timestamp="1506409296650" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/exception/ApiHelper.java" timestamp="1506409109635">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="34" column="37" />
         <mark key="^" line="34" column="37" />
         <mark key="." line="34" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountStatusUserDetailsChecker.java" timestamp="1506409949653" />
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-security/2.0.0-RELEASE/www4j-security-2.0.0-RELEASE.jar!/com/gingkoo/www4j/security/controller/SecurityController.class" timestamp="1506408667797" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/web/advice/BaseUserControllerAdvice.java" timestamp="1506410451103">
         <mark key="[" line="75" column="91" />
         <mark key="]" line="76" column="56" />
         <mark key="." line="76" column="56" />
         <mark key="^" line="76" column="56" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-security/2.0.0-RELEASE/www4j-security-2.0.0-RELEASE.jar!/com/gingkoo/www4j/security/userpass/UserPassAuthenticationProvider.class" timestamp="1506408786881" />
       <file name="/dummy.sql" timestamp="1506421722059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/security/spec/AlgorithmParameterSpec.java" timestamp="1506477204885" />
       <file name="/Dummy.txt" timestamp="1506422623355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-api/src/main/java/com/gingkoo/zoo/risk/constant/RiskQueueMessages.java" timestamp="1506416687487" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.10.RELEASE/spring-context-4.3.10.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java" timestamp="1506396969797" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/advice/RequestBindingTranslator.java" timestamp="1506398646075">
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="41" />
@@ -240,17 +229,12 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/utils/ZooRiskUtil.java" timestamp="1506067632679">
-        <mark key="[" line="32" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/controller/SecurityController.java" timestamp="1506395132782" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/exception/SecurityAuthenticationException.java" timestamp="1506409594438">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="28" column="34" />
         <mark key="^" line="28" column="34" />
         <mark key="." line="28" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeService.java" timestamp="1506393685721" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/advice/MapTranslator.java" timestamp="1506398612157">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="22" />
@@ -287,9 +271,6 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1506409550776">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1506422563343">
         <mark key="[" line="1137" column="31" />
         <mark key="]" line="1137" column="32" />
@@ -309,48 +290,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4KICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnJlbGVhc2U8L2lkPgogICAgICAgICAgICA8bmFtZT5HaW5na29vIFJlbGVhc2UgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vMTI3LjAuMC4xL25leHVzL3JlcG9zaXRvcnkvcmVsZWFzZXM8L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNuYXBzaG90PC9pZD4KICAgICAgICAgICAgPG5hbWU+R2luZ2tvbyBTbmFwc2hvdCBSZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly8xMjcuMC4wLjEvbmV4dXMvcmVwb3NpdG9yeS9zbmFwc2hvdHM8L3VybD4KICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4KICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
+        <text encoding="base64">ICAgIEl2UGFyYW1ldGVyU3BlYyBpdiA9IG5ldyBJdlBhcmFtZXRlclNwZWMobmV3IGJ5dGVbMl0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>intVectorBytes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihJbW11dGFibGVNYXAub2YoRGlzYWJsZWRFeGNlcHRpb24uY2xhc3MsIFVTRVJfRElTQUJMRSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4KICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnJlbGVhc2U8L2lkPgogICAgICAgICAgICA8bmFtZT5HaW5na29vIFJlbGVhc2UgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vMTI3LjAuMC4xL25leHVzL3JlcG9zaXRvcnkvcmVsZWFzZXM8L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNuYXBzaG90PC9pZD4KICAgICAgICAgICAgPG5hbWU+R2luZ2tvbyBTbmFwc2hvdCBSZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly8xMjcuMC4wLjEvbmV4dXMvcmVwb3NpdG9yeS9zbmFwc2hvdHM8L3VybD4KICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4KICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
+        <text encoding="base64">ICAgIEl2UGFyYW1ldGVyU3BlYyBpdiA9IG5ldyBJdlBhcmFtZXRlclNwZWMobmV3IGJ5dGVbMl0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2lwaGVyLmluaXQoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gVGhpcmQgUGFydHkgLS0+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm9qZGJjNzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEyLjEuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5pYm0uZGIyPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZGIyamNjNDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjQuMTkuMjY8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1pY3Jvc29mdC5zcWxzZXJ2ZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcWxqZGJjNDI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj40LjIuNjQyMC4xMDA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi5tb29uZnJ1aXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5Vc2VyQWdlbnRVdGlsczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmp6LnNtczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmp6c21zPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MjAxNTAzPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICA8ZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4KICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnJlbGVhc2U8L2lkPgogICAgICAgICAgICA8bmFtZT5HaW5na29vIFJlbGVhc2UgUmVwb3NpdG9yeTwvbmFtZT4KICAgICAgICAgICAgPHVybD5odHRwOi8vMTI3LjAuMC4xL25leHVzL3JlcG9zaXRvcnkvcmVsZWFzZXM8L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnNuYXBzaG90PC9pZD4KICAgICAgICAgICAgPG5hbWU+R2luZ2tvbyBTbmFwc2hvdCBSZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly8xMjcuMC4wLjEvbmV4dXMvcmVwb3NpdG9yeS9zbmFwc2hvdHM8L3VybD4KICAgICAgICA8L3NuYXBzaG90UmVwb3NpdG9yeT4KICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFBhcmFtZXRlcigpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gVGhpcmQgUGFydHkgLS0+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm9qZGJjNzwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEyLjEuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPmNvbS5pYm0uZGIyPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZGIyamNjNDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjQuMTkuMjY8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm1pY3Jvc29mdC5zcWxzZXJ2ZXI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcWxqZGJjNDI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj40LjIuNjQyMC4xMDA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpdGh1Yi5tb29uZnJ1aXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5Vc2VyQWdlbnRVdGlsczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuMjE8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmp6LnNtczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmp6c21zPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MjAxNTAzPC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QnVnIGZpeCBmb3IgIzU1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFBhcmFtZXRlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">QnVnIGZpeCBmb3IgIzU1Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ImmutableMap.of(
-                DisabledException.class, USER_DISABLE,
-                LockedException.class, USER_LOCKED,
-                AccountExpiredException.class, USER_EXPIRED,
-                CredentialsExpiredException.class, USER_PASSWORD_EXPIRED
-        )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
