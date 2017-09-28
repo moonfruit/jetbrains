@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunnerFactory.java" timestamp="1506564840912" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/AbstractCipherWrapper.java" timestamp="1506499587476">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -18,6 +19,12 @@
         <mark key="^" line="99" column="60" />
         <mark key="." line="99" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianSignature.java" timestamp="1506505662606">
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianCipher.java" timestamp="1506504152336">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="27" column="17" />
@@ -29,6 +36,9 @@
         <mark key="]" line="44" column="69" />
         <mark key="." line="44" column="69" />
         <mark key="^" line="44" column="52" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1506563787431">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianErrorCode.java" timestamp="1506505381821">
         <mark key="[" line="12" column="45" />
@@ -42,19 +52,42 @@
         <mark key="^" line="35" column="44" />
         <mark key="." line="35" column="44" />
       </file>
+      <file name="/dummy.sql" timestamp="1506564371537">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherWrapper.java" timestamp="1506499897703">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
         <mark key="^" line="76" column="4" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1506502053357" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/config/XiaoqiangConfig.java" timestamp="1506503165059" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherBuilder.java" timestamp="1506499829260">
+        <mark key="[" line="176" column="67" />
+        <mark key="]" line="177" column="15" />
+        <mark key="." line="177" column="15" />
+        <mark key="^" line="177" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1506508458604">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" timestamp="1506564637603" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/utils/ZooRiskUtil.java" timestamp="1506067632679">
+        <mark key="[" line="32" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherWrapper2.java" timestamp="1506498700617">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianService.java" timestamp="1506508592060">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1506502344855">
         <mark key="[" line="42" column="13" />
@@ -68,72 +101,42 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/codec/CodecHandler.java" timestamp="1506497459009">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="24" column="47" />
-        <mark key="^" line="24" column="47" />
-        <mark key="." line="24" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/controller/ZooApiController.java" timestamp="1506502446525" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-cchub-parent/zoo-cchub-ri/src/main/java/com/gingkoo/zoo/cchub/utils/LogUtil.java" timestamp="1506506026801" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/bean/jiedianqian/RegisterResponse.java" timestamp="1506506615118">
-        <mark key="[" line="65" column="49" />
-        <mark key="]" line="65" column="49" />
-        <mark key="." line="65" column="49" />
-        <mark key="^" line="65" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianSignature.java" timestamp="1506505662606">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="44" />
-        <mark key="^" line="29" column="44" />
-        <mark key="." line="29" column="44" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/security/GeneralSecurityException.java" timestamp="1506498890742" />
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.5.0/mongo-java-driver-3.5.0.jar!/org/bson/Document.class" timestamp="1506505929777" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/signature/SignatureBuilder.java" timestamp="1506497521019" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherBuilder.java" timestamp="1506499829260">
-        <mark key="[" line="176" column="67" />
-        <mark key="]" line="177" column="15" />
-        <mark key="." line="177" column="15" />
-        <mark key="^" line="177" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1506508458604">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/config/ZooWebParamsConfig.java" timestamp="1506499994973" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/utils/ZooRiskUtil.java" timestamp="1506067632679">
-        <mark key="[" line="32" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianService.java" timestamp="1506508592060">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/config/JieDianQianConfig.java" timestamp="1506503397279">
         <mark key="[" line="30" column="86" />
         <mark key="]" line="31" column="53" />
         <mark key="^" line="31" column="53" />
         <mark key="." line="31" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/jiedianqian.yaml" timestamp="1506508548389" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/Codec.java" timestamp="1506500561274">
         <mark key="[" line="192" column="36" />
         <mark key="]" line="192" column="54" />
         <mark key="^" line="192" column="54" />
         <mark key="." line="192" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1506506835384" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/codec/CodecHandler.java" timestamp="1506497459009">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="24" column="47" />
+        <mark key="^" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/bean/jiedianqian/ApplyInfo.java" timestamp="1506504441455">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="57" column="17" />
         <mark key="^" line="57" column="17" />
         <mark key="." line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/digest/DigestBuilder.java" timestamp="1506497510620" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRegistryImpl.java" timestamp="1506564768556">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="61" column="49" />
+        <mark key="^" line="61" column="49" />
+        <mark key="." line="61" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/bean/jiedianqian/RegisterResponse.java" timestamp="1506506615118">
+        <mark key="[" line="65" column="49" />
+        <mark key="]" line="65" column="49" />
+        <mark key="." line="65" column="49" />
+        <mark key="^" line="65" column="49" />
+      </file>
       <file name="/fragment.java" timestamp="1506504366146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,7 +159,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLnd3dzRqLmJhc2UudXNlci5kYi50YWJsZS5tYXBwZXIuQmFzZVVzZXJNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIgPSBydW5uZQo=</text>
       </register>
       <register name="-" type="4">
         <text>userMobileAddressResolver</text>
@@ -165,16 +168,16 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgSmllRGlhblFpYW5FcnJvckNvZGUgU1VDQ0VTUyA9IG5ldyBKaWVEaWFuUWlhbkVycm9yQ29kZSgiMCIsICJubyBlcnJvciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLnd3dzRqLmJhc2UudXNlci5kYi50YWJsZS5tYXBwZXIuQmFzZVVzZXJNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIgPSBydW5uZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXJNYXAuY2xlYXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLnd3dzRqLmJhc2UudXNlci5kYi50YWJsZS5tYXBwZXIuQmFzZVVzZXJNYXBwZXI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
