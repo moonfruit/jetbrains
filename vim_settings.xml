@@ -30,7 +30,7 @@
         <mark key="." line="27" column="17" />
         <mark key="^" line="27" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/util/UrlUtils.java" timestamp="1506582188838" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE-sources.jar!/org/springframework/security/web/util/UrlUtils.java" timestamp="1506594085922" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/cipher/JieDianQianCipher.java" timestamp="1506497285760">
         <mark key="[" line="44" column="69" />
         <mark key="]" line="44" column="69" />
@@ -67,8 +67,8 @@
         <mark key="." line="177" column="15" />
         <mark key="^" line="177" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506582241473">
-        <mark key="[" line="0" column="15" />
+      <file name="/Dummy.txt" timestamp="1506594029759">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="15" />
@@ -83,12 +83,6 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianService.java" timestamp="1506581763506">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppInitializer.java" timestamp="1506577681216" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1506581811995">
         <mark key="[" line="42" column="13" />
@@ -102,11 +96,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/config/JieDianQianConfig.java" timestamp="1506582217250">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="8" />
-        <mark key="^" line="43" column="97" />
-        <mark key="." line="45" column="8" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/config/JieDianQianConfig.java" timestamp="1506594079537">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="12" />
+        <mark key="^" line="45" column="12" />
+        <mark key="." line="45" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/Codec.java" timestamp="1506500561274">
         <mark key="[" line="192" column="36" />
@@ -173,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>upport fot JieDianQian Register</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>upport fot JieDianQian Register</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgSmllRGlhblFpYW5FcnJvckNvZGUgU1VDQ0VTUyA9IG5ldyBKaWVEaWFuUWlhbkVycm9yQ29kZSgiMCIsICJubyBlcnJvciIpOwo=</text>
