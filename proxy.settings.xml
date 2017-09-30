@@ -7,6 +7,6 @@
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="PROXY_EXCEPTIONS" value="localhost, 192.168.*, 10.*, *.gingkoo" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="https://coding.net/u/moonfruit/p/pac/git/raw/master/pac.js" />
+    <option name="PAC_URL" value="https://coding.net/u/moonfruit/p/pac/git/raw/master/local.pac.js" />
   </component>
 </application>
