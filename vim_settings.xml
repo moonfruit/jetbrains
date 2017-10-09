@@ -24,6 +24,7 @@
         <mark key="." line="16" column="41" />
         <mark key="^" line="16" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/db/table/bean/NoticeEvent.java" timestamp="1507538326575" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianCipher.java" timestamp="1506504152336">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="27" column="17" />
@@ -45,8 +46,8 @@
         <mark key="^" line="12" column="60" />
         <mark key="." line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/DubboCleaner.java" timestamp="1507534834233">
-        <mark key="[" line="35" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/DubboCleaner.java" timestamp="1507538670469">
+        <mark key="[" line="37" column="34" />
         <mark key="]" line="35" column="47" />
         <mark key="." line="35" column="0" />
       </file>
@@ -73,6 +74,9 @@
         <mark key="]" line="22" column="11" />
         <mark key="^" line="76" column="4" />
         <mark key="." line="22" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" timestamp="1507538548995">
+        <mark key="." line="136" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/DubboHolder.java" timestamp="1507534558087">
         <mark key="[" line="14" column="0" />
@@ -121,6 +125,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1507538476573" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianSignature.java" timestamp="1506505662606">
         <mark key="[" line="29" column="44" />
         <mark key="]" line="29" column="44" />
@@ -131,6 +136,7 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/resources/com/gingkoo/spring/www4j-dubbo.xml" timestamp="1507534466218">
         <mark key="[" line="14" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.1/jpush-client-3.3.1-sources.jar!/cn/jpush/api/push/PushResult.java" timestamp="1507538480830" />
       <file name="/dummy.sql" timestamp="1507536033568">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,6 +164,7 @@
         <mark key="^" line="44" column="30" />
         <mark key="." line="44" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/test/java/com/gingkoo/www4j/db/table/TableGenerator.java" timestamp="1507538260646" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-risk-parent/zoo-risk-ri/src/main/java/com/gingkoo/zoo/risk/utils/ZooRiskUtil.java" timestamp="1506067632679">
         <mark key="[" line="32" column="72" />
       </file>
