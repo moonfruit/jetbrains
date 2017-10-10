@@ -21,6 +21,7 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/main/java/org/eclipse/collections/petkata/Person.java" timestamp="1507610487147" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1507539702918">
         <mark key="[" line="67" column="9" />
         <mark key="]" line="69" column="43" />
@@ -87,6 +88,7 @@
         <mark key="^" line="66" column="27" />
         <mark key="." line="66" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pom.xml" timestamp="1507610631409" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeSchedule.java" timestamp="1507543836453">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="39" />
@@ -133,7 +135,7 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507544551865">
+      <file name="/Dummy.txt" timestamp="1507610529068">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -163,6 +165,13 @@
         <mark key="^" line="77" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/bean/NoticeUser.java" timestamp="1507607743274" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/PetDomainForKata.java" timestamp="1507610399589" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise1Test.java" timestamp="1507610464642">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="41" />
+        <mark key="." line="34" column="41" />
+        <mark key="^" line="34" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawService.java" timestamp="1507544716553">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -213,6 +222,9 @@
         <mark key="]" line="328" column="28" />
         <mark key="." line="328" column="28" />
       </file>
+      <file name="/fragment.java" timestamp="1507610578765">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -228,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IjxCQVRDSD4iOw==</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IjxCQVRDSD4iOw==</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElDRV9DSEFOTkVMX0xPQ0tfUFJFRklYID0gIm5vdGljZToiOwo=</text>
