@@ -80,6 +80,7 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-facility/2.1.0-SNAPSHOT/www4j-facility-2.1.0-20171009.095138-23.jar!/com/gingkoo/www4j/facility/collection/IteratorHelper.class" timestamp="1507605949592" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/RemoteNoticeChannel.java" timestamp="1507539514397">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="9" />
@@ -91,10 +92,11 @@
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" timestamp="1507544041652">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" timestamp="1507605972287">
+        <mark key="[" line="26" column="89" />
+        <mark key="]" line="26" column="89" />
+        <mark key="." line="26" column="89" />
+        <mark key="^" line="26" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboBatchNoticeChannel.java" timestamp="1507539755110">
         <mark key="[" line="29" column="8" />
@@ -113,13 +115,6 @@
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/resources/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.xml" timestamp="1507543698274">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="69" column="33" />
-        <mark key="]" line="72" column="7" />
-        <mark key="^" line="72" column="7" />
-        <mark key="." line="72" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/ProxyRemoteBatchNoticeChannel.java" timestamp="1507539555508">
         <mark key="[" line="25" column="8" />
@@ -151,7 +146,7 @@
         <mark key="^" line="66" column="27" />
         <mark key="." line="66" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/aspect/LogAspect.java" timestamp="1507604332839" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/aspect/LogAspect.java" timestamp="1507605843701" />
       <file name="/dummy.sql" timestamp="1507602170479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,8 +222,8 @@
       <jump line="73" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/resources/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Collections.emptyMap());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Collections.emptyMap());</text>
@@ -237,34 +232,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElDRV9DSEFOTkVMX0xPQ0tfUFJFRklYID0gIm5vdGljZToiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoYWRkcmVzc2VzLnNpemUoKSA9PSAxKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBOb3RpY2VNZXNzYWdlIG1lc3NhZ2UgPSByZXBvc2l0b3J5LmNyZWF0ZU1lc3NhZ2UoZXZlbnQsIG1lc3NhZ2VJZCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbElkLCBydW5uZXIuZ2V0VHlwZSgpLCB1c2VyLCBhZGRyZXNzLCBkYXRhKTsKCiAgICAgICAgICAgICAgICBpZiAoV0FJVElORy5uYW1lKCkuZXF1YWxzKG1lc3NhZ2UuZ2V0U3RhdHVzKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgcnVubmVyLnNlbmQobWVzc2FnZS5nZXRNZXNzYWdlSWQoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJzID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YSA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFkZHJlc3Nlcy5zdHJlYW0oKS5tYXAoYWRkcmVzcyAtPiBJbW11dGFibGVQYWlyLm9mKChOb3RpY2VVc2VyKSBudWxsLCBhZGRyZXNzKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBOb3RpY2VNZXNzYWdlIG1lc3NhZ2UgPSByZXBvc2l0b3J5LmNyZWF0ZU1lc3NhZ2UoZXZlbnQsIG1lc3NhZ2VJZCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbElkLCBydW5uZXIuZ2V0VHlwZSgpLCB1c2VyLCBhZGRyZXNzLCBkYXRhKTsKCiAgICAgICAgICAgICAgICBpZiAoV0FJVElORy5uYW1lKCkuZXF1YWxzKG1lc3NhZ2UuZ2V0U3RhdHVzKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgcnVubmVyLnNlbmQobWVzc2FnZS5nZXRNZXNzYWdlSWQoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0cy50cmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJzID09IG51bGwpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFkZHJlc3Nlcy5zdHJlYW0oKS5tYXAoYWRkcmVzcyAtPiBJbW11dGFibGVQYWlyLm9mKChOb3RpY2VVc2VyKSBudWxsLCBhZGRyZXNzKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0cy50cmEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBOb3RpY2VNZXNzYWdlIG1lc3NhZ2UgPSByZXBvc2l0b3J5LmNyZWF0ZU1lc3NhZ2UoZXZlbnQsIG1lc3NhZ2VJZCwKICAgICAgICAgICAgICAgIGNoYW5uZWxJZCwgcnVubmVyLmdldFR5cGUoKSwgdXNlciwgYWRkcmVzcywgZGF0YSk7CgogICAgICAgIGlmIChXQUlUSU5HLm5hbWUoKS5lcXVhbHMobWVzc2FnZS5nZXRTdGF0dXMoKSkpIHsKICAgICAgICAgICAgcnVubmVyLnNlbmQobWVzc2FnZS5nZXRNZXNzYWdlSWQoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
