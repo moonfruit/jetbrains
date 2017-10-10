@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" timestamp="1507553973146">
-        <mark key="[" line="65" column="38" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" timestamp="1507606150228">
+        <mark key="[" line="79" column="38" />
         <mark key="]" line="57" column="62" />
         <mark key="." line="57" column="62" />
         <mark key="^" line="57" column="62" />
@@ -15,7 +15,7 @@
         <mark key="^" line="1306" column="12" />
         <mark key="." line="1306" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeRawServiceImpl.java" timestamp="1507553943242">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeRawServiceImpl.java" timestamp="1507606120902">
         <mark key="[" line="50" column="27" />
         <mark key="]" line="50" column="32" />
         <mark key="." line="50" column="32" />
@@ -92,11 +92,11 @@
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" timestamp="1507605972287">
-        <mark key="[" line="26" column="89" />
-        <mark key="]" line="26" column="89" />
-        <mark key="." line="26" column="89" />
-        <mark key="^" line="26" column="89" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" timestamp="1507606090530">
+        <mark key="[" line="66" column="35" />
+        <mark key="]" line="66" column="35" />
+        <mark key="." line="32" column="80" />
+        <mark key="^" line="68" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboBatchNoticeChannel.java" timestamp="1507539755110">
         <mark key="[" line="29" column="8" />
@@ -222,11 +222,11 @@
       <jump line="73" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/resources/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Collections.emptyMap());</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElDRV9DSEFOTkVMX0xPQ0tfUFJFRklYID0gIm5vdGljZToiOwo=</text>
