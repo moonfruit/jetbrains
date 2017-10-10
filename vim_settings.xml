@@ -9,7 +9,7 @@
         <mark key="." line="40" column="76" />
         <mark key="^" line="40" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/main/java/org/eclipse/collections/petkata/Person.java" timestamp="1507610487147" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/main/java/org/eclipse/collections/petkata/Person.java" timestamp="1507618920605" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorPlugin.java" timestamp="1507542537631">
         <mark key="[" line="1309" column="0" />
         <mark key="]" line="1306" column="12" />
@@ -23,6 +23,8 @@
         <mark key="^" line="50" column="32" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.5/e09707750b6438c9a56dac853bb8935dcc0dece3/kotlin-stdlib-1.0.5-sources.jar!/kotlin/util/Tuples.kt" timestamp="1507613629604" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/partition/list/PartitionMutableList.java" timestamp="1507623090697" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/multimap/set/MutableSetMultimap.java" timestamp="1507619482142" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-base/src/main/java/com/gingkoo/www4j/notice/channel/noop/NoopNoticeChannel.java" timestamp="1507539770442">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="16" column="19" />
@@ -35,6 +37,7 @@
         <mark key="^" line="279" column="41" />
         <mark key="." line="279" column="41" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/list/MutableList.java" timestamp="1507620807760" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeSchedule.java" timestamp="1507543836453">
         <mark key="[" line="80" column="21" />
         <mark key="]" line="80" column="39" />
@@ -71,10 +74,13 @@
         <mark key="." line="19" column="14" />
         <mark key="^" line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/DubboHolder.java" timestamp="1507534558087">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections/9.0.0/eclipse-collections-9.0.0-sources.jar!/org/eclipse/collections/impl/list/mutable/primitive/IntArrayList.java" timestamp="1507621078613" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections/9.0.0/eclipse-collections-9.0.0.jar!/org/eclipse/collections/impl/bag/AbstractBag.class" timestamp="1507619059954" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise2Test.java" timestamp="1507618907213">
+        <mark key="[" line="48" column="53" />
+        <mark key="]" line="49" column="3" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="49" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannel.java" timestamp="1507602208054">
         <mark key="[" line="5" column="4" />
@@ -82,29 +88,31 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/PetDomainForKata.java" timestamp="1507610399589" />
-      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise1Test.java" timestamp="1507610464642">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="45" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java" timestamp="1507622338381" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/bag/Bag.java" timestamp="1507621990604" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/PetDomainForKata.java" timestamp="1507618852403">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/build.gradle" timestamp="1507607362974">
-        <mark key="[" line="28" column="73" />
-        <mark key="]" line="28" column="74" />
-        <mark key="." line="28" column="74" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise1Test.java" timestamp="1507618859905">
+        <mark key="[" line="61" column="62" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/factory/list/MutableListFactory.java" timestamp="1507622282959" />
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/i_introduction/_1_Java_To_Kotlin_Converter/JavaCode1.java" timestamp="1507620473325" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/tuple/primitive/ObjectIntPair.java" timestamp="1507622184125" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/channel/RemoteNoticeChannel.java" timestamp="1507539514397">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/test/resources/com/gingkoo/spring/www4j-notice-test.xml" timestamp="1507544620831">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/test/i_introduction/_0_Hello_World/N00StartKtTest.kt" timestamp="1507619844701" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections/9.0.0/eclipse-collections-9.0.0-sources.jar!/org/eclipse/collections/impl/factory/Lists.java" timestamp="1507622059349" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeServiceImpl.java" timestamp="1507606090530">
         <mark key="[" line="66" column="35" />
         <mark key="]" line="66" column="35" />
@@ -147,6 +155,7 @@
         <mark key="." line="11" column="61" />
         <mark key="^" line="11" column="61" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections/9.0.0/eclipse-collections-9.0.0-sources.jar!/org/eclipse/collections/impl/multimap/set/UnifiedSetMultimap.java" timestamp="1507620852629" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-server/src/test/java/com/gingkoo/www4j/notice/channel/dubbo/TestNoticeChannel.java" timestamp="1507539799822">
         <mark key="[" line="19" column="56" />
         <mark key="]" line="20" column="19" />
@@ -164,13 +173,19 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/.idea/codeStyleSettings.xml" timestamp="1507607127080" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise3Test.java" timestamp="1507620819826">
+        <mark key="[" line="124" column="113" />
+        <mark key="]" line="124" column="113" />
+        <mark key="." line="124" column="113" />
+        <mark key="^" line="124" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/constant/NoticeConstants.java" timestamp="1507607783692">
         <mark key="[" line="21" column="55" />
         <mark key="]" line="21" column="112" />
         <mark key="." line="21" column="112" />
         <mark key="^" line="21" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507614914228">
+      <file name="/Dummy.txt" timestamp="1507620417515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -188,14 +203,32 @@
         <mark key="." line="77" column="19" />
         <mark key="^" line="77" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise5Test.java" timestamp="1507623106666">
+        <mark key="[" line="33" column="60" />
+        <mark key="]" line="33" column="95" />
+        <mark key="^" line="33" column="95" />
+        <mark key="." line="33" column="95" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/bean/NoticeUser.java" timestamp="1507607743274" />
+      <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/test/java/org/eclipse/collections/petkata/Exercise4Test.java" timestamp="1507622703954">
+        <mark key="[" line="64" column="73" />
+        <mark key="]" line="64" column="73" />
+        <mark key="." line="64" column="73" />
+        <mark key="^" line="106" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/i_introduction/_1_Java_To_Kotlin_Converter/n01JavaToKotlinConverter.kt" timestamp="1507620483036" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawService.java" timestamp="1507544716553">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/i_introduction/_0_Hello_World/n00Start.kt" timestamp="1507614587257" />
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/i_introduction/_0_Hello_World/n00Start.kt" timestamp="1507619905196">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="13" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/spring/applicationContext.xml" timestamp="1507537666942">
         <mark key="[" line="72" column="74" />
         <mark key="]" line="72" column="74" />
@@ -208,23 +241,15 @@
         <mark key="." line="37" column="14" />
         <mark key="^" line="37" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/collections/eclipse-collections-api/9.0.0/eclipse-collections-api-9.0.0-sources.jar!/org/eclipse/collections/api/RichIterable.java" timestamp="1507619646304" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushBatchNoticeChannel.java" timestamp="1507539729193">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="14" />
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/ConsoleAppMain.java" timestamp="1507533508017">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1507543172067">
-        <mark key="[" line="328" column="27" />
-        <mark key="]" line="328" column="28" />
-        <mark key="." line="328" column="28" />
-      </file>
-      <file name="/fragment.java" timestamp="1507614914244">
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/README.md" timestamp="1507619686826" />
+      <file name="/fragment.java" timestamp="1507620415047">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -247,49 +272,57 @@
       <register name="-" type="4">
         <text>null</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwpXD4=</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElDRV9DSEFOTkVMX0xPQ0tfUFJFRklYID0gIm5vdGljZToiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQXNzZXJ0LmZhaWwoIlJlZmFjdG9yIHRvIEVjbGlwc2UgQ29sbGVjdGlvbnMiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElDRV9CQVRDSF9VU0VSID0gIjxCQVRDSD4iOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gcGV0QWdlcyA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBmb3IgKFBlcnNvbiBwZXJzb24gOiBwZW9wbGUpIHsKICAgICAgICAgICAgZm9yIChQZXQgcGV0IDogcGVyc29uLmdldFBldHMoKSkgewogICAgICAgICAgICAgICAgcGV0QWdlcy5hZGQocGV0LmdldEFnZSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFBlcnNvbj4gcGVvcGxlID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgcGVvcGxlLmFkZChuZXcgUGVyc29uKCJNYXJ5IiwgIlNtaXRoIikuYWRkUGV0KFBldFR5cGUuQ0FULCAiVGFiYnkiLCAyKSk7CiAgICAgICAgcGVvcGxlLmFkZChuZXcgUGVyc29uKCJCb2IiLCAiU21pdGgiKQogICAgICAgICAgICAgICAgLmFkZFBldChQZXRUeXBlLkNBVCwgIkRvbGx5IiwgMykKICAgICAgICAgICAgICAgIC5hZGRQZXQoUGV0VHlwZS5ET0csICJTcG90IiwgMikpOwogICAgICAgIHBlb3BsZS5hZGQobmV3IFBlcnNvbigiVGVkIiwgIlNtaXRoIikuYWRkUGV0KFBldFR5cGUuRE9HLCAiU3Bpa2UiLCA0KSk7CiAgICAgICAgcGVvcGxlLmFkZChuZXcgUGVyc29uKCJKYWtlIiwgIlNuYWtlIikuYWRkUGV0KFBldFR5cGUuU05BS0UsICJTZXJweSIsIDEpKTsKICAgICAgICBwZW9wbGUuYWRkKG5ldyBQZXJzb24oIkJhcnJ5IiwgIkJpcmQiKS5hZGRQZXQoUGV0VHlwZS5CSVJELCAiVHdlZXR5IiwgMikpOwogICAgICAgIHBlb3BsZS5hZGQobmV3IFBlcnNvbigiVGVycnkiLCAiVHVydGxlIikuYWRkUGV0KFBldFR5cGUuVFVSVExFLCAiU3BlZWR5IiwgMSkpOwogICAgICAgIHBlb3BsZS5hZGQobmV3IFBlcnNvbigiSGFycnkiLCAiSGFtc3RlciIpCiAgICAgICAgICAgICAgICAuYWRkUGV0KFBldFR5cGUuSEFNU1RFUiwgIkZ1enp5IiwgMSkKICAgICAgICAgICAgICAgIC5hZGRQZXQoUGV0VHlwZS5IQU1TVEVSLCAiV3V6enkiLCAxKSk7CiAgICAgICAgcGVvcGxlLmFkZChuZXcgUGVyc29uKCJKb2huIiwgIkRvZSIpKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoYWRkcmVzc2VzLnNpemUoKSA9PSAxKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gRG9uJ3QgZm9yZ2V0IHRvIGNvbW1lbnQgdGhpcyBvdXQgb3IgZGVsZXRlIGl0IHdoZW4geW91IGFyZSBkb25lCiAgICAgICAgQXNzZXJ0LmZhaWwoIlJlZmFjdG9yIHRvIEVjbGlwc2UgQ29sbGVjdGlvbnMiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBOb3RpY2VNZXNzYWdlIG1lc3NhZ2UgPSByZXBvc2l0b3J5LmNyZWF0ZU1lc3NhZ2UoZXZlbnQsIG1lc3NhZ2VJZCwKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbElkLCBydW5uZXIuZ2V0VHlwZSgpLCB1c2VyLCBhZGRyZXNzLCBkYXRhKTsKCiAgICAgICAgICAgICAgICBpZiAoV0FJVElORy5uYW1lKCkuZXF1YWxzKG1lc3NhZ2UuZ2V0U3RhdHVzKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgcnVubmVyLnNlbmQobWVzc2FnZS5nZXRNZXNzYWdlSWQoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcC5FbnRyeTxQZXRUeXBlLCBMb25nPj4gZmF2b3JpdGVzU3RyZWFtID0KICAgICAgICAgICAgICAgIHRoaXMucGVvcGxlLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwKHAgLT4gcC5nZXRQZXRzKCkuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShQZXQ6OmdldFR5cGUsIENvbGxlY3RvcnMuY291bnRpbmcoKSkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5lbnRyeVNldCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgICAgICAuc29ydGVkKENvbXBhcmF0b3IuY29tcGFyaW5nTG9uZyhlIC0+IC1lLmdldFZhbHVlKCkpKQogICAgICAgICAgICAgICAgICAgICAgICAubGltaXQoMykKICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJzID09IG51bGwpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFkZHJlc3Nlcy5zdHJlYW0oKS5tYXAoYWRkcmVzcyAtPiBJbW11dGFibGVQYWlyLm9mKChOb3RpY2VVc2VyKSBudWxsLCBhZGRyZXNzKSkuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8T2JqZWN0SW50UGFpcjxQZXRUeXBlPj50b3BQZXRUeXBlcyA9IExpc3RzLm11dGFibGUud2l0aEFsbChwZXRUeXBlQmFnLnRvcE9jY3VycmVuY2VzKDMpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDwpXD4=</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
