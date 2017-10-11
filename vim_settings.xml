@@ -22,7 +22,7 @@
         <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/i_introduction/_10_Object_Expressions/n10ObjectExpressions.kt" timestamp="1507627413179" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeRawServiceImpl.java" timestamp="1507696949151">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeRawServiceImpl.java" timestamp="1507704498687">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -178,7 +178,7 @@
         <mark key="^" line="14" column="63" />
         <mark key="." line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/CoreAppConfig.java" timestamp="1507701200592" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/CoreAppConfig.java" timestamp="1507703888792" />
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/ii_collections/n24ExtensionsOnCollections.kt" timestamp="1507631678796">
         <mark key="[" line="14" column="57" />
         <mark key="]" line="15" column="3" />
@@ -198,11 +198,11 @@
         <mark key="." line="17" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/config/AbstractRabbitListenerContainerFactory.java" timestamp="1507629545700" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" timestamp="1507696965475">
-        <mark key="[" line="97" column="74" />
-        <mark key="]" line="97" column="87" />
-        <mark key="^" line="97" column="87" />
-        <mark key="." line="97" column="87" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" timestamp="1507704649753">
+        <mark key="[" line="92" column="9" />
+        <mark key="]" line="92" column="8" />
+        <mark key="^" line="92" column="8" />
+        <mark key="." line="92" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/i_introduction/_7_Nullable_Types/JavaCode7.java" timestamp="1507626243861" />
       <file name="$USER_HOME$/Documents/Workspace/java/eclipse-collections-kata/pet-kata/src/main/java/org/eclipse/collections/petkata/Person.java" timestamp="1507618920605" />
@@ -272,7 +272,7 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507701195368">
+      <file name="/Dummy.txt" timestamp="1507704284379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -333,10 +333,11 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/README.md" timestamp="1507619686826" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1507700752042">
-        <mark key="[" line="736" column="30" />
-        <mark key="]" line="736" column="31" />
-        <mark key="." line="736" column="31" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1507704283152">
+        <mark key="[" line="317" column="25" />
+        <mark key="]" line="323" column="24" />
+        <mark key="." line="323" column="24" />
+        <mark key="^" line="323" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1507693106664">
         <mark key="[" line="0" column="0" />
@@ -356,11 +357,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>channelWithUser</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -375,25 +376,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIG5lZWROZXdNZXNzYWdlSWQgPSBjaGFubmVsV2l0aFVzZXJMaXN0LnNpemUoKSA+IDE7CiAgICAgICAgU3RyaW5nIG1lc3NhZ2VJZCA9IGV2ZW50SWQ7CiAgICAgICAgZm9yIChDaGFubmVsV2l0aFVzZXIgY2hhbm5lbFdpdGhVc2VyIDogY2hhbm5lbFdpdGhVc2VyTGlzdCkgewogICAgICAgICAgICBpZiAobmVlZE5ld01lc3NhZ2VJZCkgewogICAgICAgICAgICAgICAgbWVzc2FnZUlkID0gVXVpZEhlbHBlci5nZXRDbGVhblVwcGVyVXVpZCgpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgc2VuZE1lc3NhZ2UoZXZlbnQsIG1lc3NhZ2VJZCwgY2hhbm5lbFdpdGhVc2VyLmdldENoYW5uZWxJZCgpLAogICAgICAgICAgICAgICAgICAgICAgICBjaGFubmVsV2l0aFVzZXIuZ2V0VXNlcigpLCBudWxsLCBkYXRhKTsKCiAgICAgICAgICAgIH0gY2F0Y2ggKEJ1c2luZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci53YXJuKGZvcm1hdCgiU2VuZCBtZXNzYWdlIGVycm9yLCB7fSIsIGNoYW5uZWxXaXRoVXNlciksIGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUaGlyZCBQYXJ0eSAtLT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM3PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MTIuMS4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmlibS5kYjI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYjJqY2M0PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+NC4xOS4yNjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ubWljcm9zb2Z0LnNxbHNlcnZlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNxbGpkYmM0MjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjQuMi42NDIwLjEwMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ2l0aHViLm1vb25mcnVpdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPlVzZXJBZ2VudFV0aWxzPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MS4yMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uanouc21zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+anpzbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yMDE1MDM8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuU3RyaW5nLmZvcm1hdDsKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBUaGlyZCBQYXJ0eSAtLT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ub3JhY2xlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+b2pkYmM3PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MTIuMS4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8c2NvcGU+cnVudGltZTwvc2NvcGU+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmlibS5kYjI8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5kYjJqY2M0PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+NC4xOS4yNjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ubWljcm9zb2Z0LnNxbHNlcnZlcjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNxbGpkYmM0MjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjQuMi42NDIwLjEwMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uZ2l0aHViLm1vb25mcnVpdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPlVzZXJBZ2VudFV0aWxzPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MS4yMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20uanouc21zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+anpzbXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yMDE1MDM8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLmxhbmcuU3RyaW5nLmZvcm1hdDsKCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5LnVwZGF0ZUV2ZW50U3RhdHVzQWxvbmUoZXZlbnRJZCwgTm90aWNlU3RhdHVzLlBST0NFU1NFRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
