@@ -14,6 +14,12 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/test/java/com/gingkoo/www4j/base/user/security/GrantedAuthorityFactoryTest.java" timestamp="1507864117291">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/regex/RegexHelperTest.java" timestamp="1507861695855">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="26" column="0" />
@@ -25,11 +31,11 @@
         <mark key="]" line="148" column="48" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-core/src/main/java/com/gingkoo/www4j/base/sequence/MemorySequenceGenerator.java" timestamp="1507859363119">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="13" column="41" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-core/src/main/java/com/gingkoo/www4j/base/sequence/MemorySequenceGenerator.java" timestamp="1507863965781">
+        <mark key="[" line="9" column="87" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1507804614651">
         <mark key="[" line="58" column="0" />
@@ -47,17 +53,18 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/23.1-jre/guava-23.1-jre-sources.jar!/com/google/common/collect/TreeMultimap.java" timestamp="1507864427034" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-base/src/main/java/com/gingkoo/www4j/notice/channel/noop/NoopNoticeChannel.java" timestamp="1507777164524">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="9" column="55" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/repository/NoticeRepository.java" timestamp="1507780413015">
-        <mark key="[" line="87" column="61" />
-        <mark key="]" line="88" column="99" />
-        <mark key="." line="88" column="99" />
-        <mark key="^" line="88" column="99" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/repository/NoticeRepository.java" timestamp="1507864707026">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="296" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/bean/RandomHelper.java" timestamp="1507778189359">
         <mark key="[" line="134" column="31" />
@@ -76,6 +83,12 @@
         <mark key="]" line="12" column="42" />
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-job/src/test/java/com/gingkoo/www4j/base/sequence/MemorySequenceGeneratorTest.java" timestamp="1507863934867">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal/gal-web-ri/src/main/java/com/gingkoo/gal/web/listener/AppHomeDeployer.java" timestamp="1507802648945">
         <mark key="[" line="17" column="26" />
@@ -126,11 +139,11 @@
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/security/GrantedAuthorityFactory.java" timestamp="1507859441786">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="15" column="19" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/security/GrantedAuthorityFactory.java" timestamp="1507864013211">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-maintain-server/zoo-maintain-web-parent/zoo-maintain-webapp/src/main/resources/configs/application.yaml" timestamp="1507799179561">
         <mark key="[" line="17" column="0" />
@@ -236,6 +249,7 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" timestamp="1507864755825" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-base/src/main/java/com/gingkoo/www4j/notice/channel/noop/NoopBatchNoticeChannel.java" timestamp="1507777290982">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="28" column="29" />
@@ -281,12 +295,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/CachedTokenRepository.java" timestamp="1507860537516">
-        <mark key="[" line="26" column="119" />
-        <mark key="]" line="26" column="119" />
-        <mark key="^" line="26" column="119" />
-        <mark key="." line="26" column="119" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/CachedTokenRepository.java" timestamp="1507864577135">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="57" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="25" column="7" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/23.1-jre/guava-23.1-jre-sources.jar!/com/google/common/collect/MultimapBuilder.java" timestamp="1507864265211" />
       <file name="$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.5.6/caffeine-2.5.6-sources.jar!/com/github/benmanes/caffeine/cache/AsyncCacheLoader.java" timestamp="1507859158964" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-chan-base/src/main/java/com/gingkoo/www4j/notice/channel/email/smtp/SmtpEmailNoticeChannelParas.java" timestamp="1507775315371">
         <mark key="[" line="13" column="0" />
@@ -311,6 +326,12 @@
         <mark key="]" line="38" column="85" />
         <mark key="." line="38" column="85" />
         <mark key="^" line="38" column="85" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/TableMapperFinder.java" timestamp="1507863997808">
+        <mark key="[" line="58" column="71" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+        <mark key="^" line="60" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/pom.xml" timestamp="1507789080829">
         <mark key="[" line="13" column="30" />
@@ -374,7 +395,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507859447418">
+      <file name="/Dummy.txt" timestamp="1507864650085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -406,7 +427,7 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1507862489620">
+      <file name="/fragment.java" timestamp="1507864028347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -434,46 +455,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoSW50ZWdlci52YWx1ZU9mKDMpLCBwYXJzZXIucGFyc2UoIjEgKyAyIikuZ2V0VmFsdWUoSW50ZWdlci5jbGFzcykpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTXVsdGltYXBCdWlsZGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>expression</text>
+        <text encoding="base64">ID0gSGFzaE11bHRpbWFwLmNyZWF0ZSgpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoSW50ZWdlci52YWx1ZU9mKDMpLCBwYXJzZXIucGFyc2UoIjEgKyAyIikuZ2V0VmFsdWUoSW50ZWdlci5jbGFzcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYXV0aG9yaXR5MSwgZmFjdG9yeS5nZXRHcmFudGVkQXV0aG9yaXR5KCJBIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTXVsdGltYXBCdWlsZGVyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFeHByZXNzaW9uIGV4cHJlc3Npb24gPSBwYXJzZXIucGFyc2UoIjEgKyAyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTXVsdGltYXBCdWlsZGVyLmhhc2hLZXlzKCkuYXJyYXlMaXN0VmFsdWVzKCk6OmJ1aWxkKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHByZXNzaW9uID0gcGFyc2VyLnBhcnNlKCIxICsgMiIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2V0TXVsdGltYXA8U3RyaW5nLCBTdHJpbmc+IHJldmVyc2VNYXA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5Bc3NlcnQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2V0TXVsdGltYXA8U3RyaW5nLCBTdHJpbmc+IHJldmVyc2VNYXA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9ub2luc3BlY3Rpb24gQ29uc3RhbnRDb25kaXRpb25zCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV2ZXJzZU1hcCA9IEhhc2hNdWx0aW1hcC5jcmVhdGUoKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvYmopIHsKICAgICAgICAgICAgaWYgKG9iaiA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0gZWxzZSBpZiAob2JqID09IHRoaXMpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9IGVsc2UgaWYgKCEob2JqIGluc3RhbmNlb2YgUGF0dGVybktleSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBQYXR0ZXJuS2V5IHJocyA9IChQYXR0ZXJuS2V5KSBvYmo7CiAgICAgICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLmFwcGVuZChyZWdleCwgcmhzLnJlZ2V4KS5hcHBlbmQoZmxhZ3MsIHJocy5mbGFncykKICAgICAgICAgICAgICAgICAgICAuaXNFcXVhbHMoKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgSGFzaENvZGVCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAuYXBwZW5kKHJlZ2V4KS5hcHBlbmQoZmxhZ3MpCiAgICAgICAgICAgICAgICAgICAgLnRvSGFzaENvZGUoKTsKICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9ub2luc3BlY3Rpb24gQ29uc3RhbnRDb25kaXRpb25zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
