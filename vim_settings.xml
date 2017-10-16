@@ -19,6 +19,11 @@
       <file name="/a.dummy" timestamp="1508121662757">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityAppConfig.java" timestamp="1508124438727">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="48" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.12.RELEASE/spring-jdbc-4.3.12.RELEASE-sources.jar!/org/springframework/jdbc/datasource/IsolationLevelDataSourceAdapter.java" timestamp="1508120960189" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoManService.java" timestamp="1508121634417">
         <mark key="[" line="8" column="1" />
@@ -36,6 +41,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/sql/Connection.java" timestamp="1508123083289" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/plugin/TypeHandlersFactoryBean.java" timestamp="1508122927597" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.3/druid-1.1.3-sources.jar!/com/alibaba/druid/support/spring/stat/DruidStatInterceptor.java" timestamp="1508120546757" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/CorsConfigurer.java" timestamp="1508124536572" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/CsrfConfigurer.java" timestamp="1508124494923" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoQueryService.java" timestamp="1508121695229">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="14" column="107" />
@@ -50,6 +57,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/DemoTest.java" timestamp="1508120671512" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-ri/src/main/java/com/gingkoo/www4j/demo/DemoTestServiceA.java" timestamp="1508120619836" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerMappingIntrospector.java" timestamp="1508124656382" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1508122691824">
         <mark key="[" line="171" column="27" />
         <mark key="]" line="172" column="30" />
@@ -70,6 +78,7 @@
         <mark key="^" line="86" column="43" />
         <mark key="." line="86" column="82" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.3.RELEASE/spring-security-config-4.2.3.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java" timestamp="1508124487802" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db.xml" timestamp="1508122378051">
         <mark key="[" line="31" column="55" />
         <mark key="]" line="31" column="55" />
