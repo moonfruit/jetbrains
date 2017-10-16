@@ -8,6 +8,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.12.RELEASE/spring-webmvc-4.3.12.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/CorsRegistration.java" timestamp="1508133609119" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/constant/SecurityConfigConstants.java" timestamp="1508133015390">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -21,11 +22,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/CorsConfig.java" timestamp="1508132538952" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1508132459448" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/WebConfig.java" timestamp="1508132857350">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="68" column="32" />
-        <mark key="." line="68" column="32" />
-        <mark key="^" line="68" column="32" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/WebConfig.java" timestamp="1508133558112">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="288" column="38" />
+        <mark key="." line="288" column="38" />
+        <mark key="^" line="288" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityWebConfig.java" timestamp="1508133045067">
         <mark key="[" line="123" column="12" />
@@ -33,22 +34,30 @@
         <mark key="." line="125" column="8" />
         <mark key="^" line="125" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1508132931391">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1508133788698">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="114" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/CorsConfig.java" timestamp="1508132747402">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508133174103">
+      <file name="/Dummy.txt" timestamp="1508134165251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-core/2.2.0-SNAPSHOT/www4j-core-2.2.0-SNAPSHOT.jar!/com/gingkoo/www4j/core/config/WebConfig.class" timestamp="1508133324229" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1508132961990" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-maintain-server/zoo-maintain-web-parent/zoo-maintain-webapp/pom.xml" timestamp="1508134161154">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/CsrfConfig.java" timestamp="1508132739192">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -81,7 +90,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">VXBkYXRlIHZlcnNpb24K</text>
+        <text encoding="base64">QWRkIHZpZXcgbWFwcGluZyBmb3Igcm9vdCBhbmQgcGFnZXMK</text>
       </register>
       <register name="-" type="4">
         <text>corsConfig</text>
@@ -93,34 +102,34 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidHJhbnNhY3Rpb24gYWN0aXZlID0ge30iLCBUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvbk1hbmFnZXIuaXNBY3R1YWxUcmFuc2FjdGlvbkFjdGl2ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VXBkYXRlIHZlcnNpb24K</text>
+        <text encoding="base64">QWRkIHZpZXcgbWFwcGluZyBmb3Igcm9vdCBhbmQgcGFnZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENPUlNfUFJFRklYID0gU0VDVVJJVFlfUFJFRklYICsgImNvcnMuIjsKCg==</text>
+        <text encoding="base64">CiAgICAgICAgPCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICAgICAgICA8IS0tPGdyb3VwSWQ+Y29tLmdpbmdrb28ud3d3NGo8L2dyb3VwSWQ+LS0+CiAgICAgICAgICAgIDwhLS08YXJ0aWZhY3RJZD53d3c0ai1zZWN1cml0eTwvYXJ0aWZhY3RJZD4tLT4KICAgICAgICA8IS0tPC9kZXBlbmRlbmN5Pi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgYWRkQ29yc01hcHBpbmdzKENvcnNSZWdpc3RyeSByZWdpc3RyeSkgewogICAgICAgIGlmICghY29yc0NvbmZpZy5pc0VuYWJsZSgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIFN0cmluZyBwYXRoID0gY29yc0NvbmZpZy5nZXRQYXRoKCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsoY29yc0NvbmZpZy5nZXRQYXRoKCkpKSB7CiAgICAgICAgICAgIHBhdGggPSBERUZBVUxUX0FQSV9QQVRIOwogICAgICAgIH0KCiAgICAgICAgQ29yc1JlZ2lzdHJhdGlvbiBjb3JzID0gcmVnaXN0cnkuYWRkTWFwcGluZyhwYXRoKTsKCiAgICAgICAgaWYgKEFycmF5VXRpbHMuaXNOb3RFbXB0eShjb3JzQ29uZmlnLmdldE9yaWdpbnMoKSkpIHsKICAgICAgICAgICAgY29ycy5hbGxvd2VkT3JpZ2lucyhjb3JzQ29uZmlnLmdldE9yaWdpbnMoKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoQXJyYXlVdGlscy5pc05vdEVtcHR5KGNvcnNDb25maWcuZ2V0TWV0aG9kcygpKSkgewogICAgICAgICAgICBjb3JzLmFsbG93ZWRNZXRob2RzKGNvcnNDb25maWcuZ2V0TWV0aG9kcygpKTsKICAgICAgICB9CgogICAgICAgIGlmIChBcnJheVV0aWxzLmlzTm90RW1wdHkoY29yc0NvbmZpZy5nZXRIZWFkZXJzKCkpKSB7CiAgICAgICAgICAgIGNvcnMuYWxsb3dlZEhlYWRlcnMoY29yc0NvbmZpZy5nZXRIZWFkZXJzKCkpOwogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ29yc0NvbmZpZyBjb3JzQ29uZmlnOwoK</text>
+        <text encoding="base64">ICAgICAgICBjb3JzUmVnaXN0cmF0aW9uLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFRpbWVQZXJpb2QgbWF4QWdlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RyeS49PT0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3JzUmVnaXN0cmF0aW9uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3JzUmVnaXN0cmF0aW9uLm1heEFnZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
