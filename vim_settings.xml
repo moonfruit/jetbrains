@@ -3,72 +3,58 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoNestedService2.java" timestamp="1508122650431">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="14" column="42" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityAppConfig.java" timestamp="1508132977393">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoNestedService.java" timestamp="1508122638832">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="28" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/constant/SecurityConfigConstants.java" timestamp="1508133015390">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityAppConfig.java" timestamp="1508124438727">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="48" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/ConfigConstants.java" timestamp="1508132533471">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoApiController.java" timestamp="1508122691824">
-        <mark key="[" line="171" column="27" />
-        <mark key="]" line="172" column="30" />
-        <mark key="^" line="172" column="30" />
-        <mark key="." line="172" column="30" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/CorsConfig.java" timestamp="1508132538952" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1508132459448" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/WebConfig.java" timestamp="1508132857350">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="32" />
+        <mark key="^" line="68" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1508126440717" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoManService.java" timestamp="1508121634417">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityWebConfig.java" timestamp="1508133045067">
+        <mark key="[" line="123" column="12" />
+        <mark key="]" line="125" column="8" />
+        <mark key="." line="125" column="8" />
+        <mark key="^" line="125" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/aspect/CoreAspect.java" timestamp="1508120721063">
-        <mark key="[" line="42" column="54" />
-        <mark key="]" line="42" column="76" />
-        <mark key="." line="42" column="76" />
-        <mark key="^" line="42" column="76" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1508132931391">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508126677580">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/CorsConfig.java" timestamp="1508132747402">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508133174103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoQueryService.java" timestamp="1508121695229">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="14" column="107" />
-        <mark key="." line="14" column="107" />
-        <mark key="^" line="14" column="107" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1508132961990" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/config/CsrfConfig.java" timestamp="1508132739192">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-client/src/test/java/com/gingkoo/www4j/notice/NoticeTest.java" timestamp="1507906613991">
-        <mark key="[" line="98" column="47" />
-        <mark key="]" line="86" column="82" />
-        <mark key="^" line="86" column="43" />
-        <mark key="." line="86" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoManualService.java" timestamp="1508121692029">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="14" column="107" />
-        <mark key="^" line="14" column="107" />
-        <mark key="." line="14" column="107" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db.xml" timestamp="1508122378051">
-        <mark key="[" line="31" column="55" />
-        <mark key="]" line="31" column="55" />
-        <mark key="." line="31" column="55" />
-        <mark key="^" line="33" column="15" />
-      </file>
-      <file name="/fragment.java" timestamp="1508122629036">
+      <file name="/fragment.java" timestamp="1508132561635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -95,10 +81,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rm9yICM2MSwgQWRkIGFubm90YXRpb24gZm9yIGRhdGFiYXNlIHNlcGFyYXRlZCByZWFkLXdyaXRlCg==</text>
+        <text encoding="base64">VXBkYXRlIHZlcnNpb24K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>corsConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -107,34 +93,34 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidHJhbnNhY3Rpb24gYWN0aXZlID0ge30iLCBUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvbk1hbmFnZXIuaXNBY3R1YWxUcmFuc2FjdGlvbkFjdGl2ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rm9yICM2MSwgQWRkIGFubm90YXRpb24gZm9yIGRhdGFiYXNlIHNlcGFyYXRlZCByZWFkLXdyaXRlCg==</text>
+        <text encoding="base64">VXBkYXRlIHZlcnNpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVNlcnZpY2UucXVlcnkoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENPUlNfUFJFRklYID0gU0VDVVJJVFlfUFJFRklYICsgImNvcnMuIjsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEF1dG93aXJlZAogICAgcHJpdmF0ZSBEZW1vUXVlcnlTZXJ2aWNlIHF1ZXJ5U2VydmljZTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgYWRkQ29yc01hcHBpbmdzKENvcnNSZWdpc3RyeSByZWdpc3RyeSkgewogICAgICAgIGlmICghY29yc0NvbmZpZy5pc0VuYWJsZSgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIFN0cmluZyBwYXRoID0gY29yc0NvbmZpZy5nZXRQYXRoKCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsoY29yc0NvbmZpZy5nZXRQYXRoKCkpKSB7CiAgICAgICAgICAgIHBhdGggPSBERUZBVUxUX0FQSV9QQVRIOwogICAgICAgIH0KCiAgICAgICAgQ29yc1JlZ2lzdHJhdGlvbiBjb3JzID0gcmVnaXN0cnkuYWRkTWFwcGluZyhwYXRoKTsKCiAgICAgICAgaWYgKEFycmF5VXRpbHMuaXNOb3RFbXB0eShjb3JzQ29uZmlnLmdldE9yaWdpbnMoKSkpIHsKICAgICAgICAgICAgY29ycy5hbGxvd2VkT3JpZ2lucyhjb3JzQ29uZmlnLmdldE9yaWdpbnMoKSk7CiAgICAgICAgfQoKICAgICAgICBpZiAoQXJyYXlVdGlscy5pc05vdEVtcHR5KGNvcnNDb25maWcuZ2V0TWV0aG9kcygpKSkgewogICAgICAgICAgICBjb3JzLmFsbG93ZWRNZXRob2RzKGNvcnNDb25maWcuZ2V0TWV0aG9kcygpKTsKICAgICAgICB9CgogICAgICAgIGlmIChBcnJheVV0aWxzLmlzTm90RW1wdHkoY29yc0NvbmZpZy5nZXRIZWFkZXJzKCkpKSB7CiAgICAgICAgICAgIGNvcnMuYWxsb3dlZEhlYWRlcnMoY29yc0NvbmZpZy5nZXRIZWFkZXJzKCkpOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQ29yc0NvbmZpZyBjb3JzQ29uZmlnOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgRGRlbQo=</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RyeS49PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidHJhbnNhY3Rpb24gYWN0aXZlID0ge30iLCBUcmFuc2FjdGlvblN5bmNocm9uaXphdGlvbk1hbmFnZXIuZ2V0UmVzb3VyY2VNYXAoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx0eDptZXRob2QgbmFtZT0iaW5zZXJ0KiIgcm9sbGJhY2stZm9yPSJqYXZhLmxhbmcuRXhjZXB0aW9uIi8+LS0+CiAgICAgICAgICAgIDwhLS08dHg6bWV0aG9kIG5hbWU9InVwZGF0ZSoiIHJvbGxiYWNrLWZvcj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIvPi0tPgogICAgICAgICAgICA8IS0tPHR4Om1ldGhvZCBuYW1lPSJkZWxldGUqIiByb2xsYmFjay1mb3I9ImphdmEubGFuZy5FeGNlcHRpb24iLz4tLT4KICAgICAgICAgICAgPCEtLTx0eDptZXRob2QgbmFtZT0iYWRkKiIgcm9sbGJhY2stZm9yPSJqYXZhLmxhbmcuRXhjZXB0aW9uIi8+LS0+CiAgICAgICAgICAgIDwhLS08dHg6bWV0aG9kIG5hbWU9Im1vZGlmeSoiIHJvbGxiYWNrLWZvcj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIvPi0tPgogICAgICAgICAgICA8IS0tPHR4Om1ldGhvZCBuYW1lPSJyZW1vdmUqIiByb2xsYmFjay1mb3I9ImphdmEubGFuZy5FeGNlcHRpb24iLz4tLT4KICAgICAgICAgICAgPCEtLTx0eDptZXRob2QgbmFtZT0ic2F2ZSoiIHJvbGxiYWNrLWZvcj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIvPi0tPgogICAgICAgICAgICA8IS0tPHR4Om1ldGhvZCBuYW1lPSIqIiBwcm9wYWdhdGlvbj0iU1VQUE9SVFMiIHJlYWQtb25seT0idHJ1ZSIvPi0tPgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
