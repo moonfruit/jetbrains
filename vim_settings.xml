@@ -20,6 +20,12 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1508213363864">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
+        <mark key="^" line="186" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1508132459448" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/WebConfig.java" timestamp="1508133558112">
         <mark key="[" line="287" column="0" />
@@ -90,7 +96,7 @@
       <file name="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.2/HikariCP-2.7.2-sources.jar!/com/zaxxer/hikari/pool/PoolBase.java" timestamp="1508142540761" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfig.java" timestamp="1508147375759" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.12.RELEASE/spring-jdbc-4.3.12.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.java" timestamp="1508140111655" />
-      <file name="/Dummy.txt" timestamp="1508212369753">
+      <file name="/Dummy.txt" timestamp="1508213324310">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -113,6 +119,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar!/org/bouncycastle/asn1/DEREncodableVector.class" timestamp="1508210461521" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/ProxyDriver.java" timestamp="1508146801634" />
+      <file name="$MAVEN_REPOSITORY$/com/itextpdf/itext-asian/5.2.0/itext-asian-5.2.0.pom" timestamp="1508213264341" />
       <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-parent/2.1.1-RELEASE/www4j-parent-2.1.1-RELEASE.pom" timestamp="1508211003547" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1508149990329">
         <mark key="[" line="32" column="7" />
@@ -120,11 +127,11 @@
         <mark key="^" line="39" column="37" />
         <mark key="." line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1508211271766">
-        <mark key="[" line="615" column="30" />
-        <mark key="]" line="615" column="32" />
-        <mark key="." line="615" column="32" />
-        <mark key="^" line="615" column="32" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1508213356085">
+        <mark key="[" line="490" column="0" />
+        <mark key="]" line="490" column="0" />
+        <mark key="." line="490" column="0" />
+        <mark key="^" line="495" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.12.RELEASE/spring-tx-4.3.12.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java" timestamp="1508138008739" />
     </filemarks>
@@ -143,10 +150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q2xvc2UgIzY0LCBNb3ZlIENPUlMgc3VwcG9ydCBmcm9tIHd3dzRqLXNlY3VyaXR5IHRvIHd3dzRqLWNvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4yLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -155,34 +162,34 @@
         <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLnNldFByb3BlcnR5KCJhIiwgIjEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2xvc2UgIzY0LCBNb3ZlIENPUlMgc3VwcG9ydCBmcm9tIHd3dzRqLXNlY3VyaXR5IHRvIHd3dzRqLWNvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4yLjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS41LjEyPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS41LjEyPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmJvdW5jeWNhc3RsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YmN0c3AtamRrMTVvbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS41ODwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5pdGV4dHBkZjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aXRleHQ3LWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIDwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xvc2UgIzY0LCBNb3ZlIENPUlMgc3VwcG9ydCBmcm9tIHd3dzRqLXNlY3VyaXR5IHRvIHd3dzRqLWNvcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MTM4PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MTM4PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
