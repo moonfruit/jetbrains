@@ -60,7 +60,12 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1508841934027" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar!/com/fasterxml/jackson/annotation/JsonProperty.class" timestamp="1508824296480" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/DeserializationContext.java" timestamp="1508899174274" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/TransactionHelper.java" timestamp="1508922837646" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/TransactionHelper.java" timestamp="1508924709712">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Optional.java" timestamp="1508903443093" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfigFactoryBean.java" timestamp="1508902379107">
         <mark key="[" line="13" column="12" />
@@ -118,6 +123,7 @@
       <file name="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar!/com/mysql/cj/jdbc/Driver.class" timestamp="1508824848551" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/sql/Wrapper.java" timestamp="1508901146023" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.12.RELEASE/spring-jdbc-4.3.12.RELEASE-sources.jar!/org/springframework/jdbc/datasource/embedded/HsqlEmbeddedDatabaseConfigurer.java" timestamp="1508816076059" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/annotation/ManualService.java" timestamp="1508924097485" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfig.java" timestamp="1508900390752">
         <mark key="[" line="169" column="40" />
         <mark key="]" line="171" column="79" />
@@ -242,11 +248,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/SeparatedDeserializer.java" timestamp="1508841130262" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java" timestamp="1508921259401" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/Example.java" timestamp="1508920125499">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/Example.java" timestamp="1508925614666">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="30" column="15" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.4/druid-1.1.4-sources.jar!/com/alibaba/druid/proxy/jdbc/ConnectionProxy.java" timestamp="1508825252596" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceFactoryBean.java" timestamp="1508901880326">
@@ -323,11 +329,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>volatile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5ydW4oKCkgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9LIik7CiAgICAgICAgfSk7CgogICAgICAgIFN0cmluZyByZXN1bHQgPSB0cmFuc2FjdGlvbi5jYWxsKCgpIC0+IHsKICAgICAgICAgICAgcmV0dXJuICJPSyI7CiAgICAgICAgfSk7CgogICAgICAgIHRhc2tFeGVjdXRvci5leGVjdXRlKHRyYW5zYWN0aW9uLndyYXAoKCkgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9LIik7CiAgICAgICAgfSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>volatile</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -336,34 +342,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZGF0YVNvdXJjZVByb3BlcnRpZXMucmVtb3ZlKCJ1c2VybmFtZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5ydW4oKCkgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9LIik7CiAgICAgICAgfSk7CgogICAgICAgIFN0cmluZyByZXN1bHQgPSB0cmFuc2FjdGlvbi5jYWxsKCgpIC0+IHsKICAgICAgICAgICAgcmV0dXJuICJPSyI7CiAgICAgICAgfSk7CgogICAgICAgIHRhc2tFeGVjdXRvci5leGVjdXRlKHRyYW5zYWN0aW9uLndyYXAoKCkgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9LIik7CiAgICAgICAgfSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0YXNrRXhlY3V0b3IuZXhlY3V0ZSgoKSAtPiAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvci5zZXRCZWFuTmFtZSgpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIk9LIik7CiAgICAgICAgfSk7CgogICAgICAgIEZ1dHVyZTxTdHJpbmc+IGZ1dHVyZSA9IHRhc2tFeGVjdXRvci5zdWJtaXQoKCkgLT4gewogICAgICAgICAgICByZXR1cm4gIk9LIjsKICAgICAgICB9KTsKICAgICAgICBpZiAoZnV0dXJlLmlzRG9uZSgpKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZnV0dXJlLmdldCgpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gfCBFeGVjdXRpb25FeGNlcHRpb24gaWdub3JlZCkgewogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBMaXN0ZW5hYmxlRnV0dXJlPFN0cmluZz4gZnV0dXJlMiA9IHRhc2tFeGVjdXRvci5zdWJtaXRMaXN0ZW5hYmxlKCgpIC0+IHsKICAgICAgICAgICAgcmV0dXJuICJPSyI7CiAgICAgICAgfSk7CiAgICAgICAgZnV0dXJlMi5hZGRDYWxsYmFjayhyZXN1bHQgLT4gewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsKICAgICAgICB9LCBleGNlcHRpb24gLT4gewogICAgICAgICAgICBleGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIEFzeW5jTGlzdGVuYWJsZVRhc2tFeGVjdXRvciB0YXNrRXhlY3V0b3I7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">dHJhbnNhY3Rpb24uZXhlY3V0ZShzdGF0dXMgLT4gewogICAgICAgICAgICBydW5uYWJsZS5ydW4oKTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSk7</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHRyYW5zYWN0aW9uLmV4ZWN1dGUoc3RhdHVzIC0+IHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGNhbGxhYmxlLmNhbGwoKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IENhbGxhYmxlRXhjZXB0aW9uKGUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
