@@ -62,8 +62,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1508916069123">
-        <mark key="[" line="48" column="59" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1508918545561">
+        <mark key="[" line="132" column="32" />
+        <mark key="]" line="132" column="13" />
+        <mark key="." line="132" column="13" />
+        <mark key="^" line="132" column="13" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Optional.java" timestamp="1508903443093" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/bean/PublicMapSplitter.java" timestamp="1508472426335">
@@ -353,8 +356,8 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -372,40 +375,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zaW5nbGV0b24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gbmV3IFByb3BlcnRpZXMoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZHJpdmVyID09IG51bGwpIHsKICAgICAgICAgICAgUGFpcjxEcml2ZXIsIFByb3BlcnRpZXM+IHBhaXIgPSBEcml2ZXJSZWdpc3RyeS5JTlNUQU5DRS5nZXREcml2ZXJBbmRQcm9wZXJ0aWVzKHVybCk7CiAgICAgICAgICAgIGlmIChwYWlyID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGRyaXZlciA9IERyaXZlclJlZ2lzdHJ5LklOU1RBTkNFLmNyZWF0ZURyaXZlcih1cmwpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhYmFzZURpYWxlY3QgZGlhbGVjdCA9IERhdGFTb3VyY2VVdGlscy5mcm9tSmRiY1VybCh1cmwpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEcml2ZXIgZHJpdmVyCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>;
-
-        try {
-            if (driverClass == null) {
-                driver = DriverManager.getDriver(url);
-
-            } else {
-                driver = (Driver) Class.forName(driverClass).newInstance();
-            }
-
-        } catch (ReflectiveOperationException e) {
-            throw new SQLException(&quot;Instance driver {&quot; + driverClass + &quot;} error&quot;, e);
-        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvcGVydGllcyBwcm9wZXJ0aWVzID0gbmV3IFByb3BlcnRpZXMoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZHJpdmVyID09IG51bGwpIHsKICAgICAgICAgICAgUGFpcjxEcml2ZXIsIFByb3BlcnRpZXM+IHBhaXIgPSBEcml2ZXJSZWdpc3RyeS5JTlNUQU5DRS5nZXREcml2ZXJBbmRQcm9wZXJ0aWVzKHVybCk7CiAgICAgICAgICAgIGlmIChwYWlyID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGRyaXZlciA9IERyaXZlclJlZ2lzdHJ5LklOU1RBTkNFLmNyZWF0ZURyaXZlcih1cmwpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRhYmFzZURpYWxlY3QgZGlhbGVjdCA9IERhdGFTb3VyY2VVdGlscy5mcm9tSmRiY1VybCh1cmwpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBEcml2ZXIgZHJpdmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
