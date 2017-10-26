@@ -34,11 +34,11 @@
         <mark key="." line="20" column="37" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/ReflectDataSourceBuilder.java" timestamp="1508896156240">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="51" column="74" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/ReflectDataSourceBuilder.java" timestamp="1509012217484">
+        <mark key="[" line="50" column="43" />
+        <mark key="]" line="50" column="59" />
+        <mark key="^" line="50" column="59" />
+        <mark key="." line="50" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/ProxyEmbeddedDataSource.java" timestamp="1508910774838">
         <mark key="[" line="21" column="0" />
@@ -70,6 +70,7 @@
         <mark key="^" line="46" column="34" />
         <mark key="." line="46" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/AbstractConnectionFactory.java" timestamp="1509014018240" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/DemoTest.java" timestamp="1509002777773">
         <mark key="[" line="197" column="52" />
         <mark key="]" line="192" column="33" />
@@ -95,11 +96,11 @@
         <mark key="^" line="32" column="48" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/sql/SQLRecoverableException.java" timestamp="1509007804553" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/PropertiesHelper.java" timestamp="1508822953287">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="35" />
-        <mark key="." line="45" column="35" />
-        <mark key="^" line="45" column="35" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/PropertiesHelper.java" timestamp="1509012205539">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="60" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/ProxyPropertiesDriver.java" timestamp="1508910173443">
         <mark key="[" line="10" column="18" />
@@ -125,15 +126,13 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfig.java" timestamp="1509009232219">
-        <mark key="^" line="171" column="79" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/aspect/SqlSessionAspect.java" timestamp="1508998051434">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="32" column="38" />
         <mark key="^" line="32" column="38" />
         <mark key="." line="32" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/RabbitConnectionFactoryBean.java" timestamp="1509014305041" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DataSourceFactoryBean.java" timestamp="1508835423576">
         <mark key="[" line="83" column="53" />
         <mark key="]" line="83" column="70" />
@@ -167,6 +166,7 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadLocalRandom.java" timestamp="1509010833508" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianCipher.java" timestamp="1509008332074" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.0.RELEASE/spring-retry-1.2.0.RELEASE.jar!/org/springframework/retry/support/RetryTemplate.class" timestamp="1509014177124" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/Generator.java" timestamp="1509009620558">
         <mark key="[" line="193" column="49" />
         <mark key="]" line="193" column="49" />
@@ -181,16 +181,9 @@
         <mark key="." line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/ConfigDataSourceEnvironment.java" timestamp="1509009265985" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db-env.xml" timestamp="1509008674917">
-        <mark key="." line="11" column="33" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.4/druid-1.1.4-sources.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.java" timestamp="1509008438835" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.4/druid-1.1.4-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" timestamp="1509007954794" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/ProxyDriverRegistry.java" timestamp="1509009753206">
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/config/SimpleRabbitListenerContainerFactory.java" timestamp="1509014905656" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/druid/JdbcValidConnectionChecker.java" timestamp="1508825388486">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="14" />
@@ -216,17 +209,18 @@
         <mark key="^" line="25" column="55" />
         <mark key="." line="25" column="55" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.java" timestamp="1509014639479" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/jdbc.yaml" timestamp="1509010256060">
         <mark key="[" line="48" column="14" />
         <mark key="]" line="48" column="14" />
         <mark key="^" line="48" column="14" />
         <mark key="." line="48" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1509008456362">
-        <mark key="[" line="84" column="39" />
-        <mark key="]" line="85" column="44" />
-        <mark key="^" line="85" column="44" />
-        <mark key="." line="85" column="44" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1509012234617">
+        <mark key="[" line="90" column="60" />
+        <mark key="]" line="90" column="65" />
+        <mark key="^" line="90" column="65" />
+        <mark key="." line="90" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/Example2.java" timestamp="1508935948878">
         <mark key="[" line="38" column="17" />
@@ -235,16 +229,7 @@
         <mark key="." line="38" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.12.RELEASE/spring-beans-4.3.12.RELEASE-sources.jar!/org/springframework/beans/factory/config/AbstractFactoryBean.java" timestamp="1509005439502" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/DataSourceService.java" timestamp="1509009339256">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="61" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/resources/configs/logback.xml" timestamp="1509005357625">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/SimpleMessageListenerContainer.java" timestamp="1509014923715" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/pom.xml" timestamp="1509010181371">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
@@ -265,11 +250,6 @@
         <mark key="^" line="32" column="87" />
         <mark key="." line="32" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/AbstractDataSourceEnvironment.java" timestamp="1509009373989">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/Example.java" timestamp="1508934064846">
         <mark key="[" line="20" column="22" />
         <mark key="]" line="58" column="29" />
@@ -282,11 +262,17 @@
         <mark key="." line="117" column="11" />
         <mark key="^" line="117" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509010269735">
+      <file name="/Dummy.txt" timestamp="1509012246756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/4.0.3/amqp-client-4.0.3.jar!/com/rabbitmq/client/impl/AMQConnection.class" timestamp="1509012436232" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/main/java/com/gingkoo/spring/RabbitAppConfig.java" timestamp="1509014931480">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/bean/ToStringBuilder.java" timestamp="1508835987209">
         <mark key="[" line="2" column="13" />
@@ -300,6 +286,11 @@
         <mark key="^" line="45" column="82" />
         <mark key="." line="45" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorMain.java" timestamp="1509006309309">
+        <mark key="[" line="34" column="55" />
+        <mark key="]" line="34" column="55" />
+        <mark key="." line="34" column="55" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1509001961720">
         <mark key="[" line="4" column="58" />
         <mark key="]" line="4" column="34" />
@@ -312,6 +303,7 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1509013235303" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/log/LoggerConstants.java" timestamp="1509004858567" />
     </filemarks>
     <jumps>
@@ -328,11 +320,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -341,34 +333,34 @@
         <text encoding="base64">ICAgICAgICBiYXNlRW52aXJvbm1lbnQucmVtb3ZlKEpEQkNfRFJJVkVSX0NMQVNTKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjdXJlUmFuZG9tID0gbmV3IFNlY3VyZVJhbmRvbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldFJlY292ZXJ5SW50ZXJ2YWwoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VjdXJlUmFuZG9tID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgUmFuZG9tIFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKSA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldHJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgUmFuZG9tIFJBTkRPTSA9IFRocmVhZExvY2FsUmFuZG9tLmN1cnJlbnQoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm15c3FsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5teXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tbW9ucy1kYmNwPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWRiY3A8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQogICAgcHJpdmF0ZSBzdGF0aWMgPEssIFY+IE1hcDxLLCBWPiBmaWx0ZXJBc01hcChQcm9wZXJ0aWVzIHByb3BlcnRpZXMsIENsYXNzPEs+IGtleUNsYXNzLCBDbGFzczxWPiB2YWx1ZUNsYXNzKSB7CiAgICAgICAgcmV0dXJuIHByb3BlcnRpZXMuZW50cnlTZXQoKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihlbnRyeSAtPiBrZXlDbGFzcy5pc0Fzc2lnbmFibGVGcm9tKGVudHJ5LmdldEtleSgpLmdldENsYXNzKCkpICYmCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlQ2xhc3MuaXNBc3NpZ25hYmxlRnJvbShlbnRyeS5nZXRWYWx1ZSgpLmdldENsYXNzKCkpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChlbnRyeSAtPiAoSykgZW50cnkuZ2V0S2V5KCksIGVudHJ5IC0+IChWKSBlbnRyeS5nZXRWYWx1ZSgpKSk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLCBTdHJpbmc+IGZpbHRlckFzU3RyaW5nU3RyaW5nTWFwKFByb3BlcnRpZXMgcHJvcGVydGllcykgewogICAgICAgIHJldHVybiBmaWx0ZXJBc01hcChwcm9wZXJ0aWVzLCBTdHJpbmcuY2xhc3MsIFN0cmluZy5jbGFzcyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgT2JqZWN0PiBhc01hcChQcm9wZXJ0aWVzIHByb3BlcnRpZXMpIHsKICAgICAgICByZXR1cm4gcHJvcGVydGllcy5lbnRyeVNldCgpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGVudHJ5IC0+IGVudHJ5LmdldEtleSgpIGluc3RhbmNlb2YgU3RyaW5nKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b01hcChlbnRyeSAtPiAoU3RyaW5nKSBlbnRyeS5nZXRLZXkoKSwgZW50cnkgLT4gZW50cnkuZ2V0VmFsdWUoKSkpOwogICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFRlc3QgLS0+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5tYXJpYWRiLmpkYmM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hcmlhZGItamF2YS1jbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5teXNxbDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bXlzcWwtY29ubmVjdG9yLWphdmE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICA8L2RlcGVuZGVuY2llcz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
