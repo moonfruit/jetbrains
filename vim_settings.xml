@@ -211,6 +211,11 @@
         <mark key="." line="117" column="11" />
         <mark key="^" line="117" column="11" />
       </file>
+      <file name="/dummy.sql" timestamp="1509073774064">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1509012246756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -298,11 +303,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>02</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>02</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
