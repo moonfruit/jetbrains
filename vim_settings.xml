@@ -83,11 +83,11 @@
         <mark key="^" line="49" column="76" />
         <mark key="." line="49" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1509002629005">
-        <mark key="[" line="206" column="8" />
-        <mark key="]" line="206" column="8" />
-        <mark key="." line="206" column="8" />
-        <mark key="^" line="210" column="7" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1509088604420">
+        <mark key="[" line="221" column="27" />
+        <mark key="]" line="221" column="27" />
+        <mark key="." line="221" column="27" />
+        <mark key="^" line="221" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/TransactionHelper.java" timestamp="1508924709712">
         <mark key="[" line="46" column="21" />
@@ -305,10 +305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>02</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>02</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
