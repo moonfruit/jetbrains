@@ -16,6 +16,12 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/controller/JieDianQianController.java" timestamp="1509122598732" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/test/resources/configs/generator.yaml" timestamp="1509115527551" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1509095347375">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadSignature.java" timestamp="1509163379353">
         <mark key="[" line="28" column="28" />
         <mark key="]" line="28" column="38" />
@@ -23,24 +29,54 @@
         <mark key="." line="28" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/aspect/CoreAspect.java" timestamp="1509119261419" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509160952911">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509173761226">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/main/java/com/gingkoo/www4j/rabbit/LogRecoveryListener.java" timestamp="1509094607143">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="82" />
+        <mark key="^" line="25" column="82" />
+        <mark key="." line="25" column="82" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-core/2.1.1-RELEASE/www4j-core-2.1.1-RELEASE.jar!/com/gingkoo/www4j/core/db/mybatis/dbsvr/DataHelper.class" timestamp="1509120250018" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/digest/DigestWrapper.java" timestamp="1509116414681" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/HikariDataSourceBuilder.java" timestamp="1509097846225">
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="46" />
+        <mark key="^" line="69" column="46" />
+        <mark key="." line="69" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadQueryServiceImpl.java" timestamp="1509120192882">
         <mark key="[" line="53" column="15" />
         <mark key="]" line="53" column="30" />
         <mark key="^" line="53" column="30" />
         <mark key="." line="53" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1509173505818">
+        <mark key="[" line="225" column="80" />
+        <mark key="]" line="224" column="7" />
+        <mark key="." line="224" column="7" />
+        <mark key="^" line="224" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1509158155254">
         <mark key="[" line="202" column="26" />
         <mark key="]" line="139" column="11" />
         <mark key="^" line="140" column="22" />
         <mark key="." line="139" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/flow/LoanFlowServiceImpl.java" timestamp="1509100342029">
+        <mark key="[" line="385" column="51" />
+        <mark key="]" line="385" column="74" />
+        <mark key="^" line="385" column="74" />
+        <mark key="." line="385" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/main/java/com/gingkoo/www4j/rabbit/config/RabbitConfig.java" timestamp="1509094251079">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadService.java" timestamp="1509120209633">
         <mark key="[" line="3" column="50" />
@@ -50,6 +86,24 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/collection/EnumHelper.java" timestamp="1509118205465" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/db/table/bean/SpreadRecordExample.java" timestamp="1509120136710" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/jdbc.yaml" timestamp="1509097573415">
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="48" column="14" />
+        <mark key="^" line="48" column="14" />
+        <mark key="." line="48" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DelegatedDataSourceBuilder.java" timestamp="1509097958970">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="68" column="15" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1509097727861">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="90" column="65" />
+        <mark key="." line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadServiceImpl.java" timestamp="1509120342393">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -61,7 +115,19 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/JacksonBuilder.java" timestamp="1509101255702">
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="63" column="51" />
+        <mark key="^" line="63" column="51" />
+        <mark key="." line="63" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/controller/R360TianjiNotifyController.java" timestamp="1509116692187" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DataSourceUtils.java" timestamp="1509097142957">
+        <mark key="[" line="57" column="10" />
+        <mark key="]" line="57" column="16" />
+        <mark key="^" line="57" column="16" />
+        <mark key="." line="57" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509164172447">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="24" column="0" />
@@ -85,7 +151,7 @@
         <mark key="." line="9" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/web/advice/BaseUserControllerAdvice.java" timestamp="1509158028796" />
-      <file name="/dummy.sql" timestamp="1509164061963">
+      <file name="/dummy.sql" timestamp="1509173551151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1509170578404">
@@ -95,6 +161,12 @@
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/main/java/com/gingkoo/zoo/loan/db/table/mapper/SpreadUserMapper.java" timestamp="1509119796184" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/main/java/com/gingkoo/spring/RabbitAppConfig.java" timestamp="1509095869909">
+        <mark key="[" line="72" column="76" />
+        <mark key="]" line="73" column="15" />
+        <mark key="^" line="73" column="15" />
+        <mark key="." line="73" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/jiedianqian/JieDianQianService.java" timestamp="1509164517379" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1509119698685">
         <mark key="[" line="84" column="0" />
@@ -109,12 +181,13 @@
         <mark key="^" line="29" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.java" timestamp="1509159384853" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1509170401043">
-        <mark key="[" line="251" column="28" />
-        <mark key="]" line="251" column="29" />
-        <mark key="." line="251" column="29" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1509173463868">
+        <mark key="[" line="243" column="45" />
+        <mark key="]" line="243" column="44" />
+        <mark key="." line="243" column="44" />
+        <mark key="^" line="243" column="44" />
       </file>
-      <file name="/fragment.java" timestamp="1509118731588">
+      <file name="/fragment.java" timestamp="1509173491559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadDevice.java" timestamp="1509118005242">
@@ -143,11 +216,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFVTRVJfRVhJU1RTKDEsICLor6XnlKjmiLflt7Lms6jlhowiKSwK</text>
+      <register name="&quot;" type="4">
+        <text>145500</text>
       </register>
       <register name="-" type="4">
-        <text>Support for spread register</text>
+        <text>145500</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
