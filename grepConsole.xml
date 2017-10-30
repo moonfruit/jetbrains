@@ -71,7 +71,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="57fcfb2b-c21f-4bbd-b82d-bb9ab3a83397" />
                       <option name="style">
@@ -85,6 +84,7 @@
                           <option name="id" value="29750364-cfeb-4a18-8437-2ee0ff7604f8" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value=".* c(om)?\.g(ingkoo)?\..*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="enabled" value="false" />
@@ -167,6 +167,8 @@
           </option>
           <option name="id" value="1503893036991" />
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
