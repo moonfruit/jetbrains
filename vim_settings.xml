@@ -309,7 +309,7 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="/dummy.sql" timestamp="1509438285842">
+      <file name="/dummy.sql" timestamp="1509439130864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/main/java/com/gingkoo/spring/KafkaAppConfig.java" timestamp="1509428363523">
@@ -356,11 +356,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1509438205463">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="88" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1509438507761">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1509416674615">
         <mark key="[" line="43" column="0" />
@@ -391,11 +390,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>REPAY_PLAN</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -404,36 +403,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJtZXRhZGF0YS50b3BpYyA9IHt9IiwgcmVzdWx0LmdldFJlY29yZE1ldGFkYXRhKCkudG9waWMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb3VudCgqKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgTU9CSUxFID0gJzEzNjA5MzAxCg==</text>
+        <text encoding="base64">ICBwYWlkX3R5cGUsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">NDI4JzsKU0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgSURfTk8gPSAnNjIwMTAyMTk5MDAzMTMxODI5JzsKU0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgUkVBTF9OQU1FID0gJ+mprOi+sCc7CgpTRUxFQ1QgKiBGUk9NIGJhc2VfdXNlciBXSEVSRSBMRUZUKE1PQklMRSwgOCkgPSAnMTM2MDkzMDEnIEFORCBSSUdIVChJRF9OTywgNCkgPSAnMTgyOScgQU5EIFJFQUxfTkFNRSA9ICfpqazovrAnCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">U0VMRQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rm9yIFBETC0xMTI0LCBUZW1wb3JhcnkgZGlzYWJsZSBDaGFvU2hpCg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgTU9CSUxFID0gJzEzNjA5MzAxCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmQudmFsdWUoKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">NDI4JzsKU0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgSURfTk8gPSAnNjIwMTAyMTk5MDAzMTMxODI5JzsKU0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgUkVBTF9OQU1FID0gJ+mprOi+sCc7CgpTRUxFQ1QgKiBGUk9NIGJhc2VfdXNlciBXSEVSRSBMRUZUKE1PQklMRSwgOCkgPSAnMTM2MDkzMDEnIEFORCBSSUdIVChJRF9OTywgNCkgPSAnMTgyOScgQU5EIFJFQUxfTkFNRSA9ICfpqazovrAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGNvbmZpZyA9IGthZmthQ29uZmlnLmdldFByb2R1Y2VyQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGNvbmZpZyA9IGthZmthQ29uZmlnLmdldFByb2R1Y2VyQ29uZmlnKCk7CiAgICAgICAgRGVmYXVsdEthZmthQ29uc3VtZXJGYWN0b3J5PFN0cmluZywgU3RyaW5nPiBmYWN0b3J5ID0K</text>
+        <text encoding="base64">Rm9yIFBETC0xMTI0LCBUZW1wb3JhcnkgZGlzYWJsZSBDaGFvU2hpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>PropertiesHelper.asMap(config);
-        props.put(CLIENT_ID_CONFIG, coreConfig.getName());
-        props.put(BOOTSTRAP_SERVERS_CONFIG, server);</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZWNvcmQudmFsdWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
