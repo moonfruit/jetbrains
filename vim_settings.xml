@@ -42,6 +42,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.4.RELEASE/spring-amqp-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/support/AmqpHeaders.java" timestamp="1509421563425" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.6/commons-lang3-3.6-sources.jar!/org/apache/commons/lang3/time/StopWatch.java" timestamp="1509437498700" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/support/DefaultMessagePropertiesConverter.java" timestamp="1509421514164" />
+      <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1509446498398">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.4.RELEASE/spring-rabbit-1.7.4.RELEASE-sources.jar!/org/springframework/amqp/rabbit/connection/AbstractConnectionFactory.java" timestamp="1509421775407" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/resources/configs/logback.xml" timestamp="1509421132388">
         <mark key="[" line="31" column="51" />
@@ -340,7 +345,7 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509431148227">
+      <file name="/Dummy.txt" timestamp="1509446531182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -377,10 +382,10 @@
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1509416674615">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="36" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1509446457935">
+        <mark key="[" line="1241" column="33" />
+        <mark key="]" line="1241" column="34" />
+        <mark key="." line="1241" column="34" />
         <mark key="^" line="825" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1509436228167">
@@ -407,7 +412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8d3d3NGoudmVyc2lvbj4yLjIuMC1TTkFQU0hPVDwvd3d3NGoudmVyc2lvbj4KCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -419,34 +424,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJtZXRhZGF0YS50b3BpYyA9IHt9IiwgcmVzdWx0LmdldFJlY29yZE1ldGFkYXRhKCkudG9waWMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8d3d3NGoudmVyc2lvbj4yLjIuMC1TTkFQU0hPVDwvd3d3NGoudmVyc2lvbj4KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FuUmVjb3JkLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb3VudCgqKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FuUmVjb3JkLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYWlkX3R5cGUsCg==</text>
+        <text encoding="base64">ICBjb3VudCgqKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRQo=</text>
+        <text encoding="base64">ICBwYWlkX3R5cGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">U0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgTU9CSUxFID0gJzEzNjA5MzAxCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">NDI4JzsKU0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgSURfTk8gPSAnNjIwMTAyMTk5MDAzMTMxODI5JzsKU0VMRUNUICogRlJPTSBiYXNlX3VzZXIgV0hFUkUgUkVBTF9OQU1FID0gJ+mprOi+sCc7CgpTRUxFQ1QgKiBGUk9NIGJhc2VfdXNlciBXSEVSRSBMRUZUKE1PQklMRSwgOCkgPSAnMTM2MDkzMDEnIEFORCBSSUdIVChJRF9OTywgNCkgPSAnMTgyOScgQU5EIFJFQUxfTkFNRSA9ICfpqazovrAnCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
