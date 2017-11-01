@@ -252,11 +252,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509518288108">
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="43" column="87" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509521751493">
+        <mark key="[" line="46" column="69" />
+        <mark key="]" line="46" column="69" />
         <mark key="^" line="43" column="87" />
-        <mark key="." line="44" column="14" />
+        <mark key="." line="46" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/test/java/com/gingkoo/kafka/KafkaTest.java" timestamp="1509351812076">
         <mark key="[" line="28" column="18" />
@@ -269,6 +269,12 @@
         <mark key="]" line="32" column="94" />
         <mark key="^" line="32" column="94" />
         <mark key="." line="48" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo/update.sql" timestamp="1509522141082">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="48" column="2" />
+        <mark key="^" line="48" column="2" />
+        <mark key="." line="48" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/main/java/com/gingkoo/www4j/kafka/config/KafkaConfigBuilder.java" timestamp="1509353031995">
         <mark key="[" line="39" column="0" />
@@ -294,7 +300,7 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="/dummy.sql" timestamp="1509520432711">
+      <file name="/dummy.sql" timestamp="1509521797609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/main/java/com/gingkoo/spring/KafkaAppConfig.java" timestamp="1509508161614">
@@ -369,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RefId</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>RefId</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
