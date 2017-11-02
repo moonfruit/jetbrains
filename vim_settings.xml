@@ -5,6 +5,9 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.java" timestamp="1509532210320" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-core.xml" timestamp="1509531055520" />
+      <file name="/a.dummy" timestamp="1509601465132">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/main/java/com/gingkoo/zoo/loan/db/mapper/LoanRecordExtMapper.java" timestamp="1509439566610">
         <mark key="[" line="39" column="69" />
       </file>
@@ -182,6 +185,12 @@
         <mark key="^" line="82" column="45" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlLoader.java" timestamp="1509601356690">
+        <mark key="[" line="128" column="5" />
+        <mark key="]" line="128" column="4" />
+        <mark key="^" line="128" column="4" />
+        <mark key="." line="128" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/CoreAppConfig.java" timestamp="1509181622069">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -294,6 +303,12 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/PropertyHashChild.java" timestamp="1509503930836" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/BeanTypeNotPresent.java" timestamp="1509504082972" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/support/RetrySimulator.java" timestamp="1509589608391" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlAnalazyer.java" timestamp="1509601457839">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/BeanTypePresent.java" timestamp="1509507469815">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="30" />
@@ -351,7 +366,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509598960294">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509601192054">
         <mark key="[" line="0" column="87" />
         <mark key="]" line="0" column="86" />
         <mark key="." line="0" column="86" />
