@@ -145,6 +145,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*Send stat.*" />
                       <option name="id" value="b94fa49f-7ade-4157-bb41-a42c5366547c" />
                       <option name="style">
