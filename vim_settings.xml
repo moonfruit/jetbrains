@@ -5,7 +5,7 @@
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.java" timestamp="1509532210320" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-core.xml" timestamp="1509531055520" />
-      <file name="/a.dummy" timestamp="1509601465132">
+      <file name="/a.dummy" timestamp="1509602464647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/main/java/com/gingkoo/zoo/loan/db/mapper/LoanRecordExtMapper.java" timestamp="1509439566610">
@@ -26,6 +26,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509588005848">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/service/DemoService.java" timestamp="1509532195294">
         <mark key="[" line="33" column="10" />
         <mark key="]" line="33" column="17" />
@@ -44,6 +49,11 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/kafka.yaml" timestamp="1509603326860">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/controller/ZooWebController.java" timestamp="1509340823777">
         <mark key="[" line="284" column="0" />
@@ -124,6 +134,12 @@
         <mark key="^" line="30" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar!/org/springframework/aop/config/AopConfigUtils.java" timestamp="1509532790269" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/mapper/SqlMapper.java" timestamp="1509602580926">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/main/java/com/gingkoo/zoo/loan/db/mapper/KaniuLocationExtMapper.java" timestamp="1509591425807" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/bean/spread/SpreadResponse.java" timestamp="1509119472547">
         <mark key="[" line="9" column="26" />
@@ -137,7 +153,7 @@
         <mark key="." line="42" column="85" />
         <mark key="^" line="42" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/test/resources/configs/application.yaml" timestamp="1509428233719">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/test/resources/configs/application.yaml" timestamp="1509603323763">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -153,6 +169,7 @@
         <mark key="^" line="35" column="96" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/web/context/request/ServletRequestAttributes.java" timestamp="1509604661753" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfig.java" timestamp="1509348350674">
         <mark key="[" line="73" column="33" />
         <mark key="]" line="73" column="44" />
@@ -165,7 +182,8 @@
         <mark key="^" line="61" column="95" />
         <mark key="." line="61" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/aspect/LogAspect.java" timestamp="1509592618121" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/aspect/LogAspect.java" timestamp="1509604481985" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/web/context/request/WebRequest.java" timestamp="1509604602196" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/DemoValidationService.java" timestamp="1509177647335">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="18" />
@@ -185,11 +203,10 @@
         <mark key="^" line="82" column="45" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlLoader.java" timestamp="1509601356690">
-        <mark key="[" line="128" column="5" />
-        <mark key="]" line="128" column="4" />
-        <mark key="^" line="128" column="4" />
-        <mark key="." line="128" column="4" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlLoader.java" timestamp="1509602990155">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/CoreAppConfig.java" timestamp="1509181622069">
         <mark key="[" line="116" column="0" />
@@ -226,11 +243,19 @@
         <mark key="^" line="40" column="50" />
         <mark key="." line="40" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlAnalyzer.java" timestamp="1509603175487">
+        <mark key="[" line="18" column="64" />
+        <mark key="]" line="18" column="78" />
+        <mark key="^" line="18" column="78" />
+        <mark key="." line="18" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-wxmp-parent/zoo-wxmp-support/src/main/java/com/gingkoo/zoo/wxmp/support/config/ZooWxmpSupportConfig.java" timestamp="1509593541033">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/Page.java" timestamp="1509602746035" />
+      <file name="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletResponse.java" timestamp="1509604715728" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1509421601303">
         <mark key="[" line="78" column="46" />
         <mark key="]" line="79" column="45" />
@@ -321,11 +346,11 @@
         <mark key="^" line="59" column="64" />
         <mark key="." line="59" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/aspect/LogKafkaAspect.java" timestamp="1509593742853">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="46" />
-        <mark key="." line="29" column="46" />
-        <mark key="^" line="29" column="46" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/aspect/LogKafkaAspect.java" timestamp="1509604754855">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="99" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/constant/LoanQueueConstants.java" timestamp="1509437151764">
         <mark key="[" line="23" column="0" />
@@ -420,13 +445,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.8.RELEASE/spring-data-commons-1.13.8.RELEASE-sources.jar!/org/springframework/data/repository/config/RepositoryBeanDefinitionRegistrarSupport.java" timestamp="1509591108843" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/main/java/com/gingkoo/spring/KafkaAppConfig.java" timestamp="1509508161614">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/main/java/com/gingkoo/www4j/rabbit/QueueNameGenerator.java" timestamp="1509418755107">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="19" column="29" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509592926920">
+      <file name="/Dummy.txt" timestamp="1509603803131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -460,6 +490,12 @@
         <mark key="^" line="29" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/backoff/StatelessBackOffPolicy.java" timestamp="1509589030153" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaRequest.java" timestamp="1509604882811">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1509438507761">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="11" column="9" />
@@ -499,58 +535,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ALTER TABLE SPREAD_USER
-  ADD CALLBACK_URL VARCHAR(2000) COMMENT '注册回调地址'
-  AFTER URL;
-ALTER TABLE SPREAD_USER
-  ADD DISCOUNT INTEGER COMMENT '折扣百分比:0-100'
-  AFTER URL;
-ALTER TABLE SPREAD_USER
-  ADD SECRET_KEY VARCHAR(32) COMMENT '签名密钥'
-  AFTER URL;
-
-CREATE TABLE SPREAD_RECORD (
-  DATA_ID       CHAR(32) COMMENT '数据ID',
-  UID           VARCHAR(32) COMMENT '推广用户ID',
-  MOBILE        VARCHAR(32) COMMENT '新用户手机号',
-  DEVICE        CHAR(1) COMMENT '设备类型',
-  REF_ID        VARCHAR(64) COMMENT '参考号',
-  DATA_STATUS   CHAR(2) COMMENT '数据状态',
-  DATA_VERSION  NUMERIC(8) COMMENT '数据版本号',
-  DATA_CRT_DATE CHAR(8) COMMENT '数据创建/导入日期',
-  DATA_CRT_TIME CHAR(14) COMMENT '数据创建/导入时间',
-  DATA_CHG_DATE CHAR(8) COMMENT '数据修改/删除日期',
-  DATA_CHG_TIME CHAR(14) COMMENT '数据修改/删除时间',
-  RSV1          VARCHAR(180) COMMENT '',
-  RSV2          VARCHAR(180) COMMENT '',
-  RSV3          VARCHAR(180) COMMENT '',
-  RSV4          VARCHAR(180) COMMENT '',
-  RSV5          VARCHAR(180) COMMENT '',
-  PRIMARY KEY (DATA_ID),
-  INDEX SPREAD_RECORD_INDEX_MOBILE(MOBILE)
-)
-  COMMENT ='推广用户记录表'
-  ENGINE = InnoDB
-  CHARACTER SET = utf8;
-
-INSERT INTO SPREAD_USER (
-  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
-  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
-) VALUES (
-  '507497196A7F4F18A2B92B689D02E1E9', 'dzjd', 'dzjd', '大智借点', NULL, NULL, NULL, NULL, 'KM8Qfh5PvOnHYIhI', NULL,
-  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
-);
-
-INSERT INTO SPREAD_USER (
-  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
-  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
-) VALUES (
-  '4FF20CD10FC944D5BBAE436F3360FAE8', 'dzjd-fake', 'dzjd-fake', '大智借点-扣量', NULL, NULL, NULL, NULL, NULL, NULL,
-  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
-);</text>
+        <text>HttpHeaders</text>
       </register>
       <register name="-" type="4">
-        <text>sessionId</text>
+        <text>HttpHeaders</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -558,83 +546,35 @@ INSERT INTO SPREAD_USER (
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2Fybigic2Vzc2lvbklkID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>ALTER TABLE SPREAD_USER
-  ADD CALLBACK_URL VARCHAR(2000) COMMENT '注册回调地址'
-  AFTER URL;
-ALTER TABLE SPREAD_USER
-  ADD DISCOUNT INTEGER COMMENT '折扣百分比:0-100'
-  AFTER URL;
-ALTER TABLE SPREAD_USER
-  ADD SECRET_KEY VARCHAR(32) COMMENT '签名密钥'
-  AFTER URL;
-
-CREATE TABLE SPREAD_RECORD (
-  DATA_ID       CHAR(32) COMMENT '数据ID',
-  UID           VARCHAR(32) COMMENT '推广用户ID',
-  MOBILE        VARCHAR(32) COMMENT '新用户手机号',
-  DEVICE        CHAR(1) COMMENT '设备类型',
-  REF_ID        VARCHAR(64) COMMENT '参考号',
-  DATA_STATUS   CHAR(2) COMMENT '数据状态',
-  DATA_VERSION  NUMERIC(8) COMMENT '数据版本号',
-  DATA_CRT_DATE CHAR(8) COMMENT '数据创建/导入日期',
-  DATA_CRT_TIME CHAR(14) COMMENT '数据创建/导入时间',
-  DATA_CHG_DATE CHAR(8) COMMENT '数据修改/删除日期',
-  DATA_CHG_TIME CHAR(14) COMMENT '数据修改/删除时间',
-  RSV1          VARCHAR(180) COMMENT '',
-  RSV2          VARCHAR(180) COMMENT '',
-  RSV3          VARCHAR(180) COMMENT '',
-  RSV4          VARCHAR(180) COMMENT '',
-  RSV5          VARCHAR(180) COMMENT '',
-  PRIMARY KEY (DATA_ID),
-  INDEX SPREAD_RECORD_INDEX_MOBILE(MOBILE)
-)
-  COMMENT ='推广用户记录表'
-  ENGINE = InnoDB
-  CHARACTER SET = utf8;
-
-INSERT INTO SPREAD_USER (
-  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
-  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
-) VALUES (
-  '507497196A7F4F18A2B92B689D02E1E9', 'dzjd', 'dzjd', '大智借点', NULL, NULL, NULL, NULL, 'KM8Qfh5PvOnHYIhI', NULL,
-  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
-);
-
-INSERT INTO SPREAD_USER (
-  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
-  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
-) VALUES (
-  '4FF20CD10FC944D5BBAE436F3360FAE8', 'dzjd-fake', 'dzjd-fake', '大智借点-扣量', NULL, NULL, NULL, NULL, NULL, NULL,
-  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
-);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2Fybigic2Vzc2lvbklkID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREIK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigiY2xhc3MgPSB7fSIsIHJlcXVlc3RBdHRyaWJ1dGVzLmdldENsYXNzKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidXJpID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2Fybigiam9pblBvaW50ID0ge30iLCBqb2luUG9pbnQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMgcmVxdWVzdEF0dHJpYnV0ZXMgPSAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWUuc2V0KG5ldyBEYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVxdWVzdEF0dHJpYnV0ZXMgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICBsaXN0ZW5lcjoKICAgIGVuYWJsZTogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
