@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.java" timestamp="1509532210320" />
-      <file name="/a.dummy" timestamp="1509602464647">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.12.RELEASE/spring-tx-4.3.12.RELEASE-sources.jar!/org/springframework/transaction/config/AnnotationDrivenBeanDefinitionParser.java" timestamp="1509532605354" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/test/resources/configs/generator.yaml" timestamp="1509518328625" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/pom.xml" timestamp="1509592257785">
@@ -15,7 +12,7 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509611804340">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509618367843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -44,6 +41,9 @@
         <mark key="^" line="31" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/controller/ZooApiController.java" timestamp="1509616783047" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadService.java" timestamp="1509518491218">
+        <mark key="[" line="11" column="85" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/pom.xml" timestamp="1509441818903">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="25" />
@@ -66,11 +66,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE-sources.jar!/org/springframework/web/context/request/WebRequest.java" timestamp="1509604602196" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/1.3.0.RELEASE/spring-kafka-1.3.0.RELEASE-sources.jar!/org/springframework/kafka/core/KafkaAdmin.java" timestamp="1509508090771" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaService.java" timestamp="1509614826134">
-        <mark key="[" line="36" column="94" />
-        <mark key="]" line="37" column="48" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaService.java" timestamp="1509619628026">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db.xml" timestamp="1509532390034">
         <mark key="[" line="13" column="25" />
@@ -104,11 +104,16 @@
         <mark key="^" line="80" column="52" />
         <mark key="." line="80" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/flow/LoanFlowServiceImpl.java" timestamp="1509615817384">
-        <mark key="[" line="334" column="8" />
-        <mark key="]" line="334" column="40" />
-        <mark key="." line="334" column="40" />
-        <mark key="^" line="334" column="40" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1509618552713">
+        <mark key="[" line="217" column="31" />
+        <mark key="]" line="217" column="31" />
+        <mark key="." line="217" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/flow/LoanFlowServiceImpl.java" timestamp="1509618759467">
+        <mark key="[" line="332" column="7" />
+        <mark key="]" line="332" column="7" />
+        <mark key="." line="332" column="7" />
+        <mark key="^" line="332" column="7" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1509610004666" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/PropertyHashChild.java" timestamp="1509503930836" />
@@ -146,7 +151,7 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.11.0.0/kafka-clients-0.11.0.0-sources.jar!/org/apache/kafka/clients/admin/NewTopic.java" timestamp="1509614564641" />
-      <file name="/dummy.sql" timestamp="1509616617466">
+      <file name="/dummy.sql" timestamp="1509619495370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/main/java/com/gingkoo/www4j/rabbit/QueueNameGenerator.java" timestamp="1509418755107">
@@ -155,7 +160,7 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509616772410">
+      <file name="/Dummy.txt" timestamp="1509619616979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -185,9 +190,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/scheduling/annotation/EnableAsync.java" timestamp="1509616240820" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Enumeration.java" timestamp="1509609506559" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-core.xml" timestamp="1509531055520" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/main/java/com/gingkoo/zoo/loan/db/mapper/LoanRecordExtMapper.java" timestamp="1509439566610">
-        <mark key="[" line="39" column="69" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/interceptor/RetryOperationsInterceptor.java" timestamp="1509589800027" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/WebConfig.java" timestamp="1509353372814">
         <mark key="[" line="33" column="14" />
@@ -504,47 +506,47 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>((ServletRequestAttributes) requestAttributes).getRequest());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2Fma2FTZXJ2aWNlLmFzeW5jUHVzaFN0ZXBEYXRhKHVzZXIsIGxvYW5Obywgc3RlcC5nZXRTdGVwSWQoKSwKICAgICAgICAgICAgICAgICAgICBmYWxzZSwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0aW1lc3RhbXApOwo=</text>
+        <text encoding="base64">ICByZWdpc3RyeTogem9va2VlcGVyOi8vMTAuMS4zLjUyOjIxODE/YmFja3VwPTEwLjEuMy41MzoyMTgxLDEwLjEuMi4zMjoyMTgxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrYWZrYVRlbXBsYXRlLnNlbmQoTE9BTl9TVEVQX1RPUElDLCBidWlsZERhdGEodXNlciwgbG9hbk5vLCBzdGVwSWQsIHN1Y2Nlc3MsIGVsYXBzZWQpKTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBLYWZrYURhdGEgZGF0YSA9IG5ldyBLYWZrYURhdGEoKTsKCiAgICAgICAgZmlsbFJlcXVlc3QoZGF0YSk7CiAgICAgICAgZmlsbFVzZXIoZGF0YSwgdXNlcik7CiAgICAgICAgZmlsbExvYW4oZGF0YSwgbG9hbk5vKTsKICAgICAgICBkYXRhLnNldFN0ZXBJZChzdGVwSWQpOwogICAgICAgIGZpbGxTdGF0dXMoZGF0YSwgc3VjY2VzcywgZWxhcHNlZCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS50YXNrLlRhc2tFeGVjdXRvcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZXJyb3Jwcm9uZS5hbm5vdGF0aW9ucy5DYW5JZ25vcmVSZXR1cm5WYWx1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDYW5JZ25vcmVSZXR1cm5WYWx1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJVbnVzZWRSZXR1cm5WYWx1ZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBc3luYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBSZXF1ZXN0QXR0cmlidXRlcyByZXF1ZXN0QXR0cmlidXRlcyA9IFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCk7CiAgICAgICAgaWYgKCEocmVxdWVzdEF0dHJpYnV0ZXMgaW5zdGFuY2VvZiBTZXJ2bGV0UmVxdWVzdEF0dHJpYnV0ZXMpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
