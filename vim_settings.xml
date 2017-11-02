@@ -351,11 +351,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509521751493">
-        <mark key="[" line="46" column="69" />
-        <mark key="]" line="46" column="69" />
-        <mark key="^" line="43" column="87" />
-        <mark key="." line="46" column="69" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1509598960294">
+        <mark key="[" line="0" column="87" />
+        <mark key="]" line="0" column="86" />
+        <mark key="." line="0" column="86" />
+        <mark key="^" line="0" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/test/java/com/gingkoo/kafka/KafkaTest.java" timestamp="1509351812076">
         <mark key="[" line="28" column="18" />
@@ -483,8 +483,56 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidXJpID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ALTER TABLE SPREAD_USER
+  ADD CALLBACK_URL VARCHAR(2000) COMMENT '注册回调地址'
+  AFTER URL;
+ALTER TABLE SPREAD_USER
+  ADD DISCOUNT INTEGER COMMENT '折扣百分比:0-100'
+  AFTER URL;
+ALTER TABLE SPREAD_USER
+  ADD SECRET_KEY VARCHAR(32) COMMENT '签名密钥'
+  AFTER URL;
+
+CREATE TABLE SPREAD_RECORD (
+  DATA_ID       CHAR(32) COMMENT '数据ID',
+  UID           VARCHAR(32) COMMENT '推广用户ID',
+  MOBILE        VARCHAR(32) COMMENT '新用户手机号',
+  DEVICE        CHAR(1) COMMENT '设备类型',
+  REF_ID        VARCHAR(64) COMMENT '参考号',
+  DATA_STATUS   CHAR(2) COMMENT '数据状态',
+  DATA_VERSION  NUMERIC(8) COMMENT '数据版本号',
+  DATA_CRT_DATE CHAR(8) COMMENT '数据创建/导入日期',
+  DATA_CRT_TIME CHAR(14) COMMENT '数据创建/导入时间',
+  DATA_CHG_DATE CHAR(8) COMMENT '数据修改/删除日期',
+  DATA_CHG_TIME CHAR(14) COMMENT '数据修改/删除时间',
+  RSV1          VARCHAR(180) COMMENT '',
+  RSV2          VARCHAR(180) COMMENT '',
+  RSV3          VARCHAR(180) COMMENT '',
+  RSV4          VARCHAR(180) COMMENT '',
+  RSV5          VARCHAR(180) COMMENT '',
+  PRIMARY KEY (DATA_ID),
+  INDEX SPREAD_RECORD_INDEX_MOBILE(MOBILE)
+)
+  COMMENT ='推广用户记录表'
+  ENGINE = InnoDB
+  CHARACTER SET = utf8;
+
+INSERT INTO SPREAD_USER (
+  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
+  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
+) VALUES (
+  '507497196A7F4F18A2B92B689D02E1E9', 'dzjd', 'dzjd', '大智借点', NULL, NULL, NULL, NULL, 'KM8Qfh5PvOnHYIhI', NULL,
+  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
+);
+
+INSERT INTO SPREAD_USER (
+  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
+  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
+) VALUES (
+  '4FF20CD10FC944D5BBAE436F3360FAE8', 'dzjd-fake', 'dzjd-fake', '大智借点-扣量', NULL, NULL, NULL, NULL, NULL, NULL,
+  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
+);</text>
       </register>
       <register name="-" type="4">
         <text>sessionId</text>
@@ -495,35 +543,83 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIud2Fybigic2Vzc2lvbklkID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidXJpID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>ALTER TABLE SPREAD_USER
+  ADD CALLBACK_URL VARCHAR(2000) COMMENT '注册回调地址'
+  AFTER URL;
+ALTER TABLE SPREAD_USER
+  ADD DISCOUNT INTEGER COMMENT '折扣百分比:0-100'
+  AFTER URL;
+ALTER TABLE SPREAD_USER
+  ADD SECRET_KEY VARCHAR(32) COMMENT '签名密钥'
+  AFTER URL;
+
+CREATE TABLE SPREAD_RECORD (
+  DATA_ID       CHAR(32) COMMENT '数据ID',
+  UID           VARCHAR(32) COMMENT '推广用户ID',
+  MOBILE        VARCHAR(32) COMMENT '新用户手机号',
+  DEVICE        CHAR(1) COMMENT '设备类型',
+  REF_ID        VARCHAR(64) COMMENT '参考号',
+  DATA_STATUS   CHAR(2) COMMENT '数据状态',
+  DATA_VERSION  NUMERIC(8) COMMENT '数据版本号',
+  DATA_CRT_DATE CHAR(8) COMMENT '数据创建/导入日期',
+  DATA_CRT_TIME CHAR(14) COMMENT '数据创建/导入时间',
+  DATA_CHG_DATE CHAR(8) COMMENT '数据修改/删除日期',
+  DATA_CHG_TIME CHAR(14) COMMENT '数据修改/删除时间',
+  RSV1          VARCHAR(180) COMMENT '',
+  RSV2          VARCHAR(180) COMMENT '',
+  RSV3          VARCHAR(180) COMMENT '',
+  RSV4          VARCHAR(180) COMMENT '',
+  RSV5          VARCHAR(180) COMMENT '',
+  PRIMARY KEY (DATA_ID),
+  INDEX SPREAD_RECORD_INDEX_MOBILE(MOBILE)
+)
+  COMMENT ='推广用户记录表'
+  ENGINE = InnoDB
+  CHARACTER SET = utf8;
+
+INSERT INTO SPREAD_USER (
+  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
+  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
+) VALUES (
+  '507497196A7F4F18A2B92B689D02E1E9', 'dzjd', 'dzjd', '大智借点', NULL, NULL, NULL, NULL, 'KM8Qfh5PvOnHYIhI', NULL,
+  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
+);
+
+INSERT INTO SPREAD_USER (
+  DATA_ID, UID, USER_NAME, REAL_NAME, TEL, MOBILE, COM_NAME, URL, SECRET_KEY, DISCOUNT, CALLBACK_URL, P_UID, REMARKS,
+  DATA_STATUS, DATA_VERSION, DATA_CRT_DATE, DATA_CRT_TIME, DATA_CHG_DATE, DATA_CHG_TIME
+) VALUES (
+  '4FF20CD10FC944D5BBAE436F3360FAE8', 'dzjd-fake', 'dzjd-fake', '大智借点-扣量', NULL, NULL, NULL, NULL, NULL, NULL,
+  NULL, NULL, NULL, NULL, 0, '20171028', '20171028145500', '20171028', '20171028145500'
+);</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybigidXJpID0ge30iLCByZXF1ZXN0QXR0cmlidXRlcy5nZXRTZXNzaW9uSWQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWUuc2V0KG5ldyBEYXRlKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZ2luZ2tvby53d3c0ai5zZWN1cml0eS5jb25zdGFudC5TZWN1cml0eUNvbmZpZ0NvbnN0YW50cy5ERUZBVUxUX0FQSV9QQVRIOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICAgIEBCZWFuCi8vICAgIHB1YmxpYyBNZXNzYWdlQ29udmVydGVyIHJhYmJpdE1lc3NhZ2VDb252ZXJ0ZXIoKSB7Ci8vICAgICAgICByZXR1cm4gbmV3IFNpbXBsZU1lc3NhZ2VDb252ZXJ0ZXIoKTsKLy8gICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFRpbWUuc2V0KG5ldyBEYXRlKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
