@@ -138,11 +138,11 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaService.java" timestamp="1509619628026">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="38" column="24" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaService.java" timestamp="1509674337836">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="109" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/uuid/UuidHelper.java" timestamp="1509518259323">
         <mark key="[" line="35" column="50" />
@@ -379,10 +379,10 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509619616979">
+      <file name="/Dummy.txt" timestamp="1509674354904">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/main/java/com/gingkoo/www4j/kafka/config/KafkaConfigBuidler.java" timestamp="1509352881173">
@@ -442,11 +442,11 @@
       <jump line="86" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UERMLTExMzIsIEJ1ZyBmaXgK</text>
       </register>
       <register name="-" type="4">
-        <text>UID</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -455,34 +455,34 @@
         <text encoding="base64">ICByZWdpc3RyeTogem9va2VlcGVyOi8vMTAuMS4zLjUyOjIxODE/YmFja3VwPTEwLjEuMy41MzoyMTgxLDEwLjEuMi4zMjoyMTgxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UERMLTExMzIsIEJ1ZyBmaXgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIGIuKiBGUk9NIChTRUxFQ1QgMSBkdW1teSkgYSBMRUZUIEpPSU4gKFNFTEVDVCAqIEZST00gYmFzZV91c2VyIFdIRVJFIDEgPSAwKSBiIE9OIGEuZHVtbXkgPSAxIExJTUlUIDEKCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9ucy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUFzeW5jCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2NoZWR1bGluZy5hbm5vdGF0aW9uLkFzeW5jOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWhlYWRlcnMuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS50YXNrLlRhc2tFeGVjdXRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZXJyb3Jwcm9uZS5hbm5vdGF0aW9ucy5DYW5JZ25vcmVSZXR1cm5WYWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDYW5JZ25vcmVSZXR1cm5WYWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJVbnVzZWRSZXR1cm5WYWx1ZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">U0VMRUNUIGIuKiBGUk9NIChTRUxFQ1QgMSBkdW1teSkgYSBMRUZUIEpPSU4gKFNFTEVDVCAqIEZST00gYmFzZV91c2VyIFdIRVJFIDEgPSAwKSBiIE9OIGEuZHVtbXkgPSAxIExJTUlUIDEKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
