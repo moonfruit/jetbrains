@@ -4,6 +4,23 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.12.RELEASE/spring-aop-4.3.12.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.java" timestamp="1509672919138" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaStep.java" timestamp="1509679917068">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaDataService.java" timestamp="1509680207433">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaStepData.java" timestamp="1509677925762">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/WebConfig.java" timestamp="1509353372814">
         <mark key="[" line="33" column="14" />
         <mark key="]" line="34" column="14" />
@@ -33,11 +50,11 @@
         <mark key="." line="48" column="58" />
         <mark key="^" line="48" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaStepData.java" timestamp="1509615106137">
-        <mark key="[" line="240" column="9" />
-        <mark key="]" line="231" column="24" />
-        <mark key="^" line="231" column="24" />
-        <mark key="." line="231" column="24" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaStepData.java" timestamp="1509677167626">
+        <mark key="[" line="141" column="23" />
+        <mark key="]" line="154" column="0" />
+        <mark key="^" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/web/controller/ZooWebController.java" timestamp="1509340823777">
         <mark key="[" line="284" column="0" />
@@ -56,9 +73,6 @@
         <mark key="]" line="31" column="51" />
         <mark key="." line="31" column="51" />
         <mark key="^" line="31" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadService.java" timestamp="1509518491218">
-        <mark key="[" line="11" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/pom.xml" timestamp="1509441818903">
         <mark key="[" line="21" column="51" />
@@ -85,6 +99,7 @@
         <mark key="^" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-batch-parent/zoo-loan-batch-ri/src/main/java/com/gingkoo/zoo/loan/schedule/LoanSchedule.java" timestamp="1509677321481" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/condition/AbstractArrayCondition.java" timestamp="1509515818217">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -138,11 +153,11 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaService.java" timestamp="1509674337836">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="109" column="7" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaService.java" timestamp="1509680390599">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="63" column="24" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/uuid/UuidHelper.java" timestamp="1509518259323">
         <mark key="[" line="35" column="50" />
@@ -150,7 +165,7 @@
         <mark key="^" line="35" column="61" />
         <mark key="." line="35" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/spring/ZooWebKafkaConfig.java" timestamp="1509614666409">
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/spring/ZooWebKafkaConfig.java" timestamp="1509676841665">
         <mark key="[" line="21" column="5" />
         <mark key="]" line="13" column="64" />
         <mark key="^" line="13" column="64" />
@@ -161,6 +176,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="^" line="82" column="45" />
         <mark key="." line="84" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaUser.java" timestamp="1509679659122">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db.xml" timestamp="1509532390034">
         <mark key="[" line="13" column="25" />
@@ -187,6 +208,13 @@
         <mark key="." line="40" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-cust-parent/zoo-cust-api/src/main/java/com/gingkoo/zoo/cust/ZooCustExtRawService.java" timestamp="1509673233443" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaBase.java" timestamp="1509679605512">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/23.2-jre/guava-23.2-jre-sources.jar!/com/google/common/base/MoreObjects.java" timestamp="1509678058180" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlAnalyzer.java" timestamp="1509603175487">
         <mark key="[" line="18" column="64" />
         <mark key="]" line="18" column="78" />
@@ -205,11 +233,22 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaRequest.java" timestamp="1509679787698">
+        <mark key="[" line="80" column="46" />
+        <mark key="]" line="80" column="46" />
+        <mark key="." line="80" column="46" />
+        <mark key="^" line="81" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadSignature.java" timestamp="1509331032612">
         <mark key="[" line="33" column="31" />
         <mark key="]" line="33" column="31" />
         <mark key="^" line="33" column="31" />
         <mark key="." line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaRequestData.java" timestamp="1509677885670">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/bean/SecretKeyAndDiscount.java" timestamp="1509518614497">
         <mark key="[" line="23" column="5" />
@@ -270,6 +309,12 @@
         <mark key="." line="332" column="7" />
         <mark key="^" line="332" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaWithLoan.java" timestamp="1509679887743">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/scheduling/annotation/AsyncConfigurationSelector.java" timestamp="1509672875729" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlAnalazyer.java" timestamp="1509601457839">
         <mark key="[" line="6" column="27" />
@@ -329,6 +374,12 @@
         <mark key="^" line="32" column="94" />
         <mark key="." line="48" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaWithUser.java" timestamp="1509679863597">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo/update.sql" timestamp="1509588030448">
         <mark key="[" line="38" column="87" />
         <mark key="]" line="38" column="102" />
@@ -359,9 +410,6 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="/dummy.sql" timestamp="1509672931960">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaWebRequest.java" timestamp="1509613040426">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
@@ -379,11 +427,16 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509674354904">
+      <file name="/Dummy.txt" timestamp="1509679151105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/bean/KafkaBaseData.java" timestamp="1509677893333">
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-kafka/src/main/java/com/gingkoo/www4j/kafka/config/KafkaConfigBuidler.java" timestamp="1509352881173">
         <mark key="[" line="5" column="33" />
@@ -403,13 +456,19 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/KafkaDataService.java" timestamp="1509680381875">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaRequest.java" timestamp="1509607748949">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="12" column="21" />
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1509532793283">
+      <file name="/fragment.java" timestamp="1509680174617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
@@ -443,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UERMLTExMzIsIEJ1ZyBmaXgK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLnpvby53ZWIua2Fma2EuYmVhbi5LYWZrYVN0ZXA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -455,34 +514,34 @@
         <text encoding="base64">ICByZWdpc3RyeTogem9va2VlcGVyOi8vMTAuMS4zLjUyOjIxODE/YmFja3VwPTEwLjEuMy41MzoyMTgxLDEwLjEuMi4zMjoyMTgxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UERMLTExMzIsIEJ1ZyBmaXgK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLnpvby53ZWIua2Fma2EuYmVhbi5LYWZrYVN0ZXA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9ucy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWhlYWRlcnMuaXNFbXB0eSgpKSB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBmaWxsUmVxdWVzdChLYWZrYVJlcXVlc3QgZGF0YSkgewogICAgICAgIGZpbGxSZXF1ZXN0KGRhdGEsIFJlcXVlc3RDb250ZXh0SG9sZGVyLmdldFJlcXVlc3RBdHRyaWJ1dGVzKCkpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIGZpbGxSZXF1ZXN0KEthZmthUmVxdWVzdCBkYXRhLCBSZXF1ZXN0QXR0cmlidXRlcyByZXF1ZXN0QXR0cmlidXRlcykgewogICAgICAgIGlmICghKHJlcXVlc3RBdHRyaWJ1dGVzIGluc3RhbmNlb2YgU2VydmxldFJlcXVlc3RBdHRyaWJ1dGVzKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBmaWxsUmVxdWVzdChkYXRhLCAoKFNlcnZsZXRSZXF1ZXN0QXR0cmlidXRlcykgcmVxdWVzdEF0dHJpYnV0ZXMpLmdldFJlcXVlc3QoKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgZmlsbFJlcXVlc3QoS2Fma2FSZXF1ZXN0IGRhdGEsIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7CiAgICAgICAgaWYgKHJlcXVlc3QgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBkYXRhLnNldFJlcXVlc3RVcmkocmVxdWVzdC5nZXRSZXF1ZXN0VVJJKCkpOwogICAgICAgIGRhdGEuc2V0UXVlcnlTdHJpbmcocmVxdWVzdC5nZXRRdWVyeVN0cmluZygpKTsKICAgICAgICBkYXRhLnNldE1ldGhvZChyZXF1ZXN0LmdldE1ldGhvZCgpKTsKICAgICAgICBkYXRhLnNldFJlbW90ZUFkZHIocmVxdWVzdC5nZXRSZW1vdGVBZGRyKCkpOwoKICAgICAgICBIdHRwSGVhZGVycyBoZWFkZXJzID0gbmV3IEh0dHBIZWFkZXJzKCk7CiAgICAgICAgZm9yIChTdHJpbmcga2V5IDogaXRlcihyZXF1ZXN0LmdldEhlYWRlck5hbWVzKCkpKSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHZhbHVlIDogaXRlcihyZXF1ZXN0LmdldEhlYWRlcnMoa2V5KSkpIHsKICAgICAgICAgICAgICAgIGhlYWRlcnMuYWRkKGtleSwgdmFsdWUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGRhdGEuc2V0SGVhZGVycyhoZWFkZXJzKTsKCiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nW10+IHBhcmFtZXRlcnMgPSByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpOwogICAgICAgIGlmIChNYXBVdGlscy5pc05vdEVtcHR5KHBhcmFtZXRlcnMpKSB7CiAgICAgICAgICAgIGRhdGEuc2V0UGFyYW1ldGVycyhyZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpKTsKICAgICAgICB9CgogICAgICAgIEh0dHBTZXNzaW9uIGh0dHBTZXNzaW9uID0gcmVxdWVzdC5nZXRTZXNzaW9uKGZhbHNlKTsKICAgICAgICBpZiAoaHR0cFNlc3Npb24gIT0gbnVsbCkgewogICAgICAgICAgICBLYWZrYVNlc3Npb24gc2Vzc2lvbiA9IG5ldyBLYWZrYVNlc3Npb24oKTsKICAgICAgICAgICAgZGF0YS5zZXRTZXNzaW9uKHNlc3Npb24pOwoKICAgICAgICAgICAgc2Vzc2lvbi5zZXRTZXNzaW9uSWQoaHR0cFNlc3Npb24uZ2V0SWQoKSk7CgogICAgICAgICAgICBTZXNzaW9uQ2hhbm5lbCBjaGFubmVsID0gU2Vzc2lvbkNoYW5uZWwuZ2V0U2Vzc2lvbkNoYW5uZWwoaHR0cFNlc3Npb24pOwogICAgICAgICAgICBpZiAoY2hhbm5lbCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBzZXNzaW9uLnNldENoYW5uZWwoY2hhbm5lbC5nZXRDaGFubmVsKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyB2b2lkIGZpbGxVc2VyKEthZmthV2l0aFVzZXIgZGF0YSwgQmFzZVVzZXIgYmFzZVVzZXIpIHsKICAgICAgICBpZiAoYmFzZVVzZXIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBLYWZrYVVzZXIgdXNlciA9IG5ldyBLYWZrYVVzZXIoKTsKICAgICAgICBkYXRhLnNldFVzZXIodXNlcik7CgogICAgICAgIHVzZXIuc2V0VWlkKGJhc2VVc2VyLmdldFVpZCgpKTsKICAgICAgICB1c2VyLnNldE1vYmlsZShiYXNlVXNlci5nZXRNb2JpbGUoKSk7CiAgICAgICAgdXNlci5zZXRSZWFsTmFtZShiYXNlVXNlci5nZXRSZWFsTmFtZSgpKTsKICAgICAgICB1c2VyLnNldElkTm8oYmFzZVVzZXIuZ2V0SWRObygpKTsKICAgICAgICB1c2VyLnNldENoYW5uZWwoYmFzZVVzZXIuZ2V0RnJvbUNoYW5uZWwoKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgZmlsbExvYW4oS2Fma2FXaXRoTG9hbiBkYXRhLCBMb2FuUmVjb3JkIHJlY29yZCkgewogICAgICAgIGlmIChyZWNvcmQgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBLYWZrYUxvYW4gbG9hbiA9IG5ldyBLYWZrYUxvYW4oKTsKICAgICAgICBkYXRhLnNldExvYW4obG9hbik7CgogICAgICAgIGxvYW4uc2V0TG9hbk5vKHJlY29yZC5nZXRMb2FuTm8oKSk7CiAgICAgICAgbG9hbi5zZXRMb2FuUHJvSWQocmVjb3JkLmdldExvYW5Qcm9JZCgpKTsKICAgICAgICBsb2FuLnNldExvYW5BbXQocmVjb3JkLmdldExvYW5BbXQoKSk7CiAgICAgICAgbG9hbi5zZXRMb2FuRGF5cyhyZWNvcmQuZ2V0TG9hbkRheXMoKSk7CiAgICAgICAgbG9hbi5zZXRDaGFubmVsKHJlY29yZC5nZXRPcmlnQ2hhbm5lbCgpKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBmaWxsTG9hbihLYWZrYVdpdGhMb2FuIGRhdGEsIFN0cmluZyBsb2FuTm8pIHsKICAgICAgICBmaWxsTG9hbihkYXRhLCBsb2FuUmVjb3JkRXh0TWFwcGVyLmdldExvYW5SZWNvcmRCeUxvYW5Obyhsb2FuTm8pKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBmaWxsU3RhdHVzKEthZmthQmFzZSBkYXRhLCBib29sZWFuIHN1Y2Nlc3MsIExvbmcgZWxhcHNlZCkgewogICAgICAgIGRhdGEuc2V0U3VjY2VzcyhzdWNjZXNzKTsKICAgICAgICBkYXRhLnNldEVsYXBzZWQoZWxhcHNlZCk7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naW5na29vLnpvby5sb2FuLmRiLm1hcHBlci5Mb2FuUmVjb3JkRXh0TWFwcGVyOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhQXV0b3dpcmluZ0luc3BlY3Rpb24iKQogICAgcHJpdmF0ZSBMb2FuUmVjb3JkRXh0TWFwcGVyIGxvYW5SZWNvcmRFeHRNYXBwZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgS2Fma2FTdGVwIGJ1aWxkU3RlcERhdGEoQmFzZVVzZXIgdXNlciwgU3RyaW5nIGxvYW5ObywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3RlcElkLCBib29sZWFuIHN1Y2Nlc3MsIExvbmcgZWxhcHNlZCkgewogICAgICAgIHJldHVybiBidWlsZFN0ZXBEYXRhKG51bGwsIHVzZXIsIGxvYW5Obywgc3RlcElkLCBzdWNjZXNzLCBlbGFwc2VkKTsKICAgIH0KCiAgICBwdWJsaWMgS2Fma2FTdGVwIGJ1aWxkU3RlcERhdGEoUmVxdWVzdEF0dHJpYnV0ZXMgcmVxdWVzdEF0dHJpYnV0ZXMsIEJhc2VVc2VyIHVzZXIsIFN0cmluZyBsb2FuTm8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHN0ZXBJZCwgYm9vbGVhbiBzdWNjZXNzLCBMb25nIGVsYXBzZWQpIHsKICAgICAgICBLYWZrYVN0ZXAgZGF0YSA9IG5ldyBLYWZrYVN0ZXAoKTsKCiAgICAgICAgaWYgKHJlcXVlc3RBdHRyaWJ1dGVzID09IG51bGwpIHsKICAgICAgICAgICAgZmlsbFJlcXVlc3QoZGF0YSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgZmlsbFJlcXVlc3QoZGF0YSwgcmVxdWVzdEF0dHJpYnV0ZXMpOwogICAgICAgIH0KICAgICAgICBmaWxsVXNlcihkYXRhLCB1c2VyKTsKICAgICAgICBmaWxsTG9hbihkYXRhLCBsb2FuTm8pOwogICAgICAgIGRhdGEuc2V0U3RlcElkKHN0ZXBJZCk7CiAgICAgICAgZmlsbFN0YXR1cyhkYXRhLCBzdWNjZXNzLCBlbGFwc2VkKTsKCiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIGIuKiBGUk9NIChTRUxFQ1QgMSBkdW1teSkgYSBMRUZUIEpPSU4gKFNFTEVDVCAqIEZST00gYmFzZV91c2VyIFdIRVJFIDEgPSAwKSBiIE9OIGEuZHVtbXkgPSAxIExJTUlUIDEKCg==</text>
+        <text encoding="base64">CiAgICBAU3VwcHJlc3NXYXJuaW5ncygiVW51c2VkUmV0dXJuVmFsdWUiKQogICAgcHVibGljIExpc3RlbmFibGVGdXR1cmU8Pz4gYXN5bmNQdXNoU3RlcERhdGEoQmFzZVVzZXIgdXNlciwgU3RyaW5nIGxvYW5ObywgU3RyaW5nIHN0ZXBJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gc3VjY2VzcywgTG9uZyBlbGFwc2VkKSB7CiAgICAgICAgUmVxdWVzdEF0dHJpYnV0ZXMgcmVxdWVzdEF0dHJpYnV0ZXMgPSBSZXF1ZXN0Q29udGV4dEhvbGRlci5nZXRSZXF1ZXN0QXR0cmlidXRlcygpOwogICAgICAgIHJldHVybiB0YXNrRXhlY3V0b3Iuc3VibWl0TGlzdGVuYWJsZSgKICAgICAgICAgICAgICAgICgpIC0+IHB1c2hTdGVwRGF0YShyZXF1ZXN0QXR0cmlidXRlcywgdXNlciwgbG9hbk5vLCBzdGVwSWQsIHN1Y2Nlc3MsIGVsYXBzZWQpCiAgICAgICAgKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBwdXNoU3RlcERhdGEoUmVxdWVzdEF0dHJpYnV0ZXMgcmVxdWVzdEF0dHJpYnV0ZXMsIEJhc2VVc2VyIHVzZXIsIFN0cmluZyBsb2FuTm8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHN0ZXBJZCwgYm9vbGVhbiBzdWNjZXNzLCBMb25nIGVsYXBzZWQpIHsKICAgICAgICBrYWZrYVRlbXBsYXRlLnNlbmQoTE9BTl9TVEVQX1RPUElDLCBidWlsZFN0ZXBEYXRhKHJlcXVlc3RBdHRyaWJ1dGVzLCB1c2VyLCBsb2FuTm8sIHN0ZXBJZCwgc3VjY2VzcywgZWxhcHNlZCkpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHB1c2hTdGVwRGF0YShCYXNlVXNlciB1c2VyLCBTdHJpbmcgbG9hbk5vLCBTdHJpbmcgc3RlcElkLCBib29sZWFuIHN1Y2Nlc3MsIExvbmcgZWxhcHNlZCkgewogICAgICAgIGthZmthVGVtcGxhdGUuc2VuZChMT0FOX1NURVBfVE9QSUMsIGJ1aWxkU3RlcERhdGEodXNlciwgbG9hbk5vLCBzdGVwSWQsIHN1Y2Nlc3MsIGVsYXBzZWQpKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
