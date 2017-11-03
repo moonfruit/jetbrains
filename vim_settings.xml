@@ -68,11 +68,17 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/bean/KafkaUser.java" timestamp="1509691185662">
+        <mark key="[" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/resources/configs/logback.xml" timestamp="1509421132388">
         <mark key="[" line="31" column="51" />
         <mark key="]" line="31" column="51" />
         <mark key="." line="31" column="51" />
         <mark key="^" line="31" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadService.java" timestamp="1509518491218">
+        <mark key="[" line="11" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/pom.xml" timestamp="1509441818903">
         <mark key="[" line="21" column="51" />
@@ -292,7 +298,7 @@
         <mark key="." line="57" column="7" />
         <mark key="^" line="57" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1509618552713">
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1509690499578">
         <mark key="[" line="217" column="31" />
         <mark key="]" line="217" column="31" />
         <mark key="." line="217" column="31" />
@@ -409,6 +415,9 @@
         <mark key="]" line="18" column="31" />
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
+      </file>
+      <file name="/dummy.sql" timestamp="1509691262800">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaWebRequest.java" timestamp="1509613040426">
         <mark key="[" line="7" column="18" />
