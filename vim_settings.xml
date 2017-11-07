@@ -3,8 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.8.RELEASE/spring-data-redis-1.8.8.RELEASE-sources.jar!/org/springframework/data/redis/listener/RedisMessageListenerContainer.java" timestamp="1509939216801" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/repository/token/RedisTokenRepository.java" timestamp="1509939335877" />
       <file name="/a.dummy" timestamp="1509698662708">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,8 +14,6 @@
       <file name="/ToStringBuilder (Apache commons-lang 3)" timestamp="1509957987707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/session/Configuration.java" timestamp="1509957245683" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/pom.xml" timestamp="1509964180091" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509964980018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -32,28 +28,12 @@
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1509957987703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/service/BiDsConfigService.java" timestamp="1509951791850" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.8.RELEASE/spring-data-redis-1.8.8.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisKeyValueAdapter.java" timestamp="1509939368217" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/repository/token/RedisToken.java" timestamp="1509939325124" />
-      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/pom.xml" timestamp="1509964218803">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/bean/KafkaStep.java" timestamp="1509940099986" />
       <file name="/String concat (+)" timestamp="1509957987688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/constant/RedisConstants.java" timestamp="1509939155686" />
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/builder/xml/XMLStatementBuilder.java" timestamp="1509961848068" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/resources/com/gingkoo/www4j/facility/log/logback.fallback.xml" timestamp="1509959703931" />
       <file name="/StringBuffer" timestamp="1509957987696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-core/2.2.0-SNAPSHOT/www4j-core-2.2.0-20171102.032254-25.jar!/com/gingkoo/www4j/core/db/mybatis/dbsvr/SqlLoader.class" timestamp="1509951914480" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1509938502942" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/repository/RedisRepositoryCleaner.java" timestamp="1509939086674" />
-      <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar!/org/apache/commons/codec/binary/Base64.java" timestamp="1509959843838" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/spread/SpreadService.java" timestamp="1509518491218">
         <mark key="[" line="11" column="85" />
       </file>
@@ -63,22 +43,18 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.8.RELEASE/spring-data-redis-1.8.8.RELEASE-sources.jar!/org/springframework/data/redis/repository/configuration/RedisRepositoryConfigurationExtension.java" timestamp="1509939353445" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/DemoTest.java" timestamp="1509963803212">
         <mark key="[" line="156" column="57" />
         <mark key="]" line="164" column="30" />
         <mark key="." line="164" column="30" />
         <mark key="^" line="164" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaWebService.java" timestamp="1509940136811" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecuritySessionAppInitializer.java" timestamp="1509954800547" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/KafkaConstans.java" timestamp="1509693277601">
         <mark key="[" line="2" column="25" />
       </file>
       <file name="/a.sql" timestamp="1509703155952">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/db/mapper/BaseUserExtMapper.java" timestamp="1509963373489" />
       <file name="/dummy.sql" timestamp="1509964996846">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,16 +64,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.8.RELEASE/spring-data-redis-1.8.8.RELEASE-sources.jar!/org/springframework/data/redis/listener/KeyspaceEventMessageListener.java" timestamp="1509939019004" />
-      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/service/impl/BiDsConfigServiceImpl.java" timestamp="1509952540197" />
       <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-webapp/pom.xml" timestamp="1509963916768">
         <mark key="[" line="60" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5-sources.jar!/org/apache/ibatis/builder/xml/XMLMapperBuilder.java" timestamp="1509962125272" />
       <file name="/MoreObjects.toStringHelper.omitNullValues()" timestamp="1509957987728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.8.RELEASE/spring-data-redis-1.8.8.RELEASE-sources.jar!/org/springframework/data/redis/repository/configuration/EnableRedisRepositories.java" timestamp="1509938926345" />
       <file name="/StringBuilder (JDK 1.5)" timestamp="1509957987700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,8 +85,6 @@
         <mark key="." line="52" column="39" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-mongo/src/main/java/com/gingkoo/spring/MongoAppConfig.java" timestamp="1509939457246" />
-      <file name="$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.5.6/caffeine-2.5.6-sources.jar!/com/github/benmanes/caffeine/base/UnsafeAccess.java" timestamp="1509955383858" />
       <file name="/String concat (+) and super.toString()" timestamp="1509957987692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,7 +94,6 @@
       <file name="/Groovy: String concat (+)" timestamp="1509957987718">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisSessionExpirationPolicy.java" timestamp="1509938531459" />
       <file name="/fragment.java" timestamp="1509962153338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -134,7 +103,6 @@
       <file name="/MoreObjects.toStringHelper (Guava 18+)" timestamp="1509957987714">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/codec/Codecs.java" timestamp="1509958133610" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
