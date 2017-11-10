@@ -92,6 +92,12 @@
         <mark key="." line="40" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.6.0/caffeine-2.6.0-sources.jar!/com/github/benmanes/caffeine/cache/Caffeine.java" timestamp="1510211859872" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfigFactoryBean.java" timestamp="1510309338693">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DelegatedDataSourceBuilder.java" timestamp="1510214314649">
         <mark key="[" line="76" column="74" />
         <mark key="]" line="77" column="23" />
@@ -239,7 +245,7 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1510306135971">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1510310859998">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="37" />
         <mark key="." line="8" column="37" />
@@ -466,11 +472,11 @@
         <mark key="^" line="67" column="60" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/RoutingDataSource.java" timestamp="1510306465399">
-        <mark key="[" line="46" column="38" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="46" column="47" />
-        <mark key="." line="46" column="47" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/RoutingDataSource.java" timestamp="1510309907001">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/spring/ScheduleAppConfig.java" timestamp="1510306164171">
         <mark key="[" line="9" column="37" />
@@ -500,11 +506,11 @@
         <mark key="^" line="26" column="63" />
         <mark key="." line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfig.java" timestamp="1510306102856">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfig.java" timestamp="1510310424823">
+        <mark key="[" line="152" column="36" />
+        <mark key="]" line="152" column="42" />
+        <mark key="." line="152" column="42" />
+        <mark key="^" line="152" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/ContextListener.java" timestamp="1510224614823">
         <mark key="[" line="41" column="16" />
@@ -512,10 +518,11 @@
         <mark key="." line="41" column="42" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DataSourceRegister.java" timestamp="1510308631040">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DataSourceRegister.java" timestamp="1510319307894">
+        <mark key="[" line="65" column="68" />
+        <mark key="]" line="65" column="72" />
+        <mark key="." line="65" column="72" />
+        <mark key="^" line="65" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/cache/ProxyCacheManager.java" timestamp="1510217077556">
         <mark key="[" line="15" column="0" />
@@ -636,7 +643,7 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java" timestamp="1510224358507" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/AbstractDataSourceEnvironment.java" timestamp="1510221243210">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/AbstractDataSourceEnvironment.java" timestamp="1510308721076">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -654,7 +661,7 @@
         <mark key="." line="5" column="46" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1510218565743" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceFactoryBean.java" timestamp="1510308374685">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceFactoryBean.java" timestamp="1510310779203">
         <mark key="[" line="84" column="26" />
         <mark key="]" line="84" column="31" />
         <mark key="^" line="84" column="31" />
@@ -700,47 +707,95 @@
       <jump line="104" column="13" filename="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.4/druid-1.1.4-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlQ29uZmlnCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5wdXQoZGF0YVNvdXJjZUNvbmZpZy5nZXROYW1lKCksIGRhdGFTb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFsQ29uZmlnLnNldERhdGFTb3VyY2VDbGFzcyhkYXRhU291cmNlQ29uZmlnLmdldERhdGFTb3VyY2VDbGFzcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhU291cmNlQ29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkeW5hbWljU3RvcmUucHV0KG5hbWUsIGRhdGFTb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkYXRhU291cmNlIGluc3RhbmNlb2YgUm91dGluZ0RhdGFTb3VyY2UpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhU291cmNlIGRhdGFTb3VyY2UgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCb29sZWFuIGdldFVzZUpkYmNWYWxpZGF0b3IoKSB7CiAgICAgICAgcmV0dXJuIHVzZUpkYmNWYWxpZGF0b3I7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VXNlSmRiY1ZhbGlkYXRvcihCb29sZWFuIHVzZUpkYmNWYWxpZGF0b3IpIHsKICAgICAgICB0aGlzLnVzZUpkYmNWYWxpZGF0b3IgPSB1c2VKZGJjVmFsaWRhdG9yOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRhU291cmNlQ29uZmlnIHJlYWxDb25maWcgPSBuZXcgRGF0YVNvdXJjZUNvbmZpZygpOwoKICAgICAgICByZWFsQ29uZmlnLnNldERhdGFTb3VyY2VDbGFzcyhkYXRhU291cmNlQ29uZmlnLmdldERhdGFTb3VyY2VDbGFzcygpKTsKICAgICAgICByZWFsQ29uZmlnLnNldERhdGFTb3VyY2VQcm9wZXJ0aWVzKGRhdGFTb3VyY2VDb25maWcuZ2V0RGF0YVNvdXJjZVByb3BlcnRpZXMoKSk7CiAgICAgICAgcmVhbENvbmZpZy5jb3B5RnJvbShjb25maWcpOwoKICAgICAgICByZWFsQ29uZmlnLmFmdGVyUHJvcGVydGllc1NldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb25maWcuZGF0YVNvdXJjZUNsYXNzID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBjb25maWcuZGF0YVNvdXJjZUNsYXNzID0gZGF0YVNvdXJjZUNsYXNzOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGNvbmZpZy5kYXRhU291cmNlUHJvcGVydGllcyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgY29uZmlnLmRhdGFTb3VyY2VQcm9wZXJ0aWVzID0gZGF0YVNvdXJjZVByb3BlcnRpZXM7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YVNvdXJjZUZhY3RvcnkuZGVzdHJveURhdGFTb3VyY2UodmFsdWUsIGtleSk7Cg==</text>
+      <register name="9" type="4">
+        <text>ourceConfig that) {
+        if (that.name != null) {
+            name = that.name;
+        }
+
+        if (that.jndiName != null) {
+            jndiName = that.jndiName;
+        }
+
+        if (that.driverClass != null) {
+            driverClass = that.driverClass;
+        }
+
+        if (that.url != null) {
+            url = that.url;
+        }
+
+        if (that.username != null) {
+            username = that.username;
+        }
+
+        if (that.password != null) {
+            password = that.password;
+        }
+
+        if (that.validationQuery != null) {
+            validationQuery = that.validationQuery;
+        }
+
+        if (that.useJdbcValidator != null) {
+            useJdbcValidator = that.useJdbcValidator;
+        }
+
+        if (that.driverProperties != null) {
+            driverProperties = that.driverProperties;
+        }
+
+        if (that.dataSourceClass != null) {
+            dataSourceClass = that.dataSourceClass;
+        }
+
+        if (that.dataSourceProperties != null) {
+            dataSourceProperties = that.dataSourceProperties;
+        }
+
+        if (that.scripts != null) {
+            scripts = that.scripts;
+        }
+    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
