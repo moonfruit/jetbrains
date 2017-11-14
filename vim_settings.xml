@@ -27,6 +27,7 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-db/src/main/java/com/gingkoo/zoo/loan/db/mapper/LoanRepayExtMapper.java" timestamp="1510630771208" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/spring/DubboAppConfig.java" timestamp="1510299745531">
         <mark key="[" line="29" column="5" />
         <mark key="]" line="24" column="8" />
@@ -38,6 +39,9 @@
         <mark key="]" line="29" column="7" />
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
+      </file>
+      <file name="/a.dummy" timestamp="1510566374023">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-geoip/src/test/java/com/gingkoo/www4j/geoip/GeoIpTest.java" timestamp="1510211370240">
         <mark key="[" line="40" column="79" />
@@ -256,7 +260,7 @@
         <mark key="." line="164" column="30" />
         <mark key="^" line="164" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-ri/src/main/java/com/gingkoo/zoo/loan/ZooLoanRawServiceImpl.java" timestamp="1510627610532" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-ri/src/main/java/com/gingkoo/zoo/loan/ZooLoanRawServiceImpl.java" timestamp="1510630820059" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceConfigFactoryBean.java" timestamp="1510309338693">
         <mark key="[" line="31" column="15" />
         <mark key="]" line="31" column="21" />
@@ -765,6 +769,12 @@
         <mark key="^" line="72" column="46" />
         <mark key="." line="72" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/bean/KafkaPay.java" timestamp="1510630681696">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/NamedDataSource.java" timestamp="1510626969901">
         <mark key="[" line="37" column="45" />
         <mark key="]" line="37" column="45" />
@@ -800,6 +810,9 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1510630914030">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/runtime/CallableException.java" timestamp="1510581438607">
         <mark key="[" line="2" column="57" />
@@ -840,11 +853,11 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/KafkaDataService.java" timestamp="1510627634965">
-        <mark key="[" line="198" column="5" />
-        <mark key="]" line="198" column="4" />
-        <mark key="^" line="198" column="4" />
-        <mark key="." line="198" column="4" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/KafkaDataService.java" timestamp="1510630902113">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="187" column="11" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/security/DatabaseGrantedAuthorityLoader.java" timestamp="1510306189860">
         <mark key="[" line="6" column="37" />
@@ -889,46 +902,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbm9pbnNwZWN0aW9uIENvbnN0YW50Q29uZGl0aW9ucwo=</text>
+        <text encoding="base64">CgogICAgICAgIGlmIChwYXkpIHsKCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTG9hblJlcGF5IHJlcGF5ID0gbG9hblJlcGF5RXh0TWFwcGVyLmdldExvYW5SZXBheUJ5T3JkZXJObyhvcmRlck5vKTsKCiAgICAgICAgICAgIGRhdGEuc2V0QW1vdW50KHJlcGF5LmdldEFjdHVhbFJlcGFpZEFtdCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJ0cmFuc2FjdGlvbk1hbmFnZXIiIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmpkYmMuZGF0YXNvdXJjZS5EYXRhU291cmNlVHJhbnNhY3Rpb25NYW5hZ2VyIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQoImFtb3VudCIsIGFtb3VudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbm9pbnNwZWN0aW9uIENvbnN0YW50Q29uZGl0aW9ucwo=</text>
+        <text encoding="base64">CgogICAgICAgIGlmIChwYXkpIHsKCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgTG9hblJlcGF5IHJlcGF5ID0gbG9hblJlcGF5RXh0TWFwcGVyLmdldExvYW5SZXBheUJ5T3JkZXJObyhvcmRlck5vKTsKCiAgICAgICAgICAgIGRhdGEuc2V0QW1vdW50KHJlcGF5LmdldEFjdHVhbFJlcGFpZEFtdCgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkT25seURhdGFTb3VyY2VNYXAucHV0KGRhdGFTb3VyY2UsIG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcGF5ID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERhdGFTb3VyYywgU3RyaW5nPiByZWFkT25seURhdGFTb3VyY2VNYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5zZXRBbW91bnQocmVwYXkuZ2V0QWN0dWFsUmVwYWlkQW10KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQubm90TnVsbChuYW1lLCAiQSB7bmFtZSIpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5zZXRBbW91bnQocmVjb3JkLmdldFJlY2VpdmVBbXQoKSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERhdGFTb3VyY2UoRGF0YVNvdXJjZSBkYXRhU291cmNlKSB7CiAgICAgICAgdGhpcy5kYXRhU291cmNlID0gZGF0YVNvdXJjZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLnNldE9yZGVyTm8ob3JkZXJObyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbm9pbnNwZWN0aW9uIENvbnN0YW50Q29uZGl0aW9ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXROCg==</text>
+        <text encoding="base64">ICAgICAgICByZWFkT25seURhdGFTb3VyY2VNYXAucHV0KGRhdGFTb3VyY2UsIG5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERhdGFTb3VyYywgU3RyaW5nPiByZWFkT25seURhdGFTb3VyY2VNYXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
