@@ -8,6 +8,7 @@
     <injection language="RegExp" injector-id="java">
       <display-name>RegexHelper (com.gingkoo.www4j.facility.regex)</display-name>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("find").withParameters("java.lang.CharSequence", "java.lang.String").definedInClass("com.gingkoo.www4j.facility.regex.RegexHelper"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("matcher").withParameters("java.lang.CharSequence", "java.lang.String").definedInClass("com.gingkoo.www4j.facility.regex.RegexHelper"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("matches").withParameters("java.lang.CharSequence", "java.lang.String").definedInClass("com.gingkoo.www4j.facility.regex.RegexHelper"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
