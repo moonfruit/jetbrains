@@ -505,7 +505,7 @@
       <file name="/dummy.sql" timestamp="1510733879761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510739004986">
+      <file name="/Dummy.txt" timestamp="1510741360196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -564,6 +564,7 @@
         <mark key="." line="168" column="0" />
         <mark key="^" line="167" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/service/BaseUserService.java" timestamp="1510741660292" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-client/src/test/resources/configs/application.yaml" timestamp="1510127682178">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
@@ -817,7 +818,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.12.RELEASE/spring-tx-4.3.12.RELEASE-sources.jar!/org/springframework/transaction/PlatformTransactionManager.java" timestamp="1510568585169" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.4/druid-1.1.4-sources.jar!/com/alibaba/druid/util/JdbcUtils.java" timestamp="1510668965825" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1510716589112" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1510107395011">
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1510741388158">
         <mark key="[" line="97" column="82" />
         <mark key="]" line="97" column="82" />
         <mark key="^" line="97" column="93" />
@@ -854,6 +855,7 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-security/2.2.0-RELEASE/www4j-security-2.2.0-RELEASE.jar!/com/gingkoo/www4j/security/mobile/MobileUserNotFoundHandler.class" timestamp="1510741342287" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/webapp/WEB-INF/logback.xml" timestamp="1510716795189">
         <mark key="[" line="31" column="49" />
         <mark key="]" line="31" column="51" />
