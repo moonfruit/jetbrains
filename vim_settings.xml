@@ -27,9 +27,6 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1510566374023">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/regex/RegexHelperTest.java" timestamp="1510717850939">
         <mark key="[" line="33" column="68" />
         <mark key="]" line="39" column="0" />
@@ -135,7 +132,7 @@
         <mark key="." line="54" column="7" />
         <mark key="^" line="54" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/controller/ZooApiController.java" timestamp="1510663285008" />
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/api/controller/ZooApiController.java" timestamp="1510741978494" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-web-parent/www4j-notice-manager-web/src/main/java/com/gingkoo/www4j/notice/manager/web/web/controller/NoticeManagerWebController.java" timestamp="1510129477382">
         <mark key="[" line="23" column="29" />
         <mark key="]" line="23" column="36" />
@@ -318,9 +315,6 @@
         <mark key="." line="40" column="22" />
         <mark key="^" line="40" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a7b09c62-2fba-4e17-9370-673e0bec0029/console.sql" timestamp="1510734638462">
-        <mark key="[" line="0" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/multi/ConfigDataSourceEnvironment.java" timestamp="1510220619618">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="40" />
@@ -417,6 +411,7 @@
       <file name="$MAVEN_REPOSITORY$/com/h2database/h2/1.4.196/h2-1.4.196.jar!/org/h2/upgrade/DbUpgrade.class" timestamp="1510653969816" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.15/commons-compress-1.15.pom" timestamp="1510559500428" />
       <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/db/dialect/MsSQLDialect.class" timestamp="1510640377816" />
+      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-base-user/2.2.0-RELEASE/www4j-base-user-2.2.0-RELEASE.jar!/com/gingkoo/www4j/base/user/service/BaseUserService.class" timestamp="1510741983817" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/plugin/AutoDatabaseIdProvider.java" timestamp="1510641083937" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/ResourceFactoryBean.java" timestamp="1510641752865">
         <mark key="[" line="64" column="30" />
@@ -501,9 +496,6 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
-      </file>
-      <file name="/dummy.sql" timestamp="1510733879761">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510741360196">
         <mark key="[" line="0" column="0" />
@@ -818,7 +810,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.12.RELEASE/spring-tx-4.3.12.RELEASE-sources.jar!/org/springframework/transaction/PlatformTransactionManager.java" timestamp="1510568585169" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.4/druid-1.1.4-sources.jar!/com/alibaba/druid/util/JdbcUtils.java" timestamp="1510668965825" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1510716589112" />
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1510741388158">
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1510742300309">
         <mark key="[" line="97" column="82" />
         <mark key="]" line="97" column="82" />
         <mark key="^" line="97" column="93" />
