@@ -683,7 +683,7 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511258390289">
+      <file name="/Dummy.txt" timestamp="1511258903062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -759,7 +759,7 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="36" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1511256909090">
+      <file name="/fragment.java" timestamp="1511258873250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
@@ -915,7 +915,7 @@
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServiceContext.java" timestamp="1511245490815">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServiceContext.java" timestamp="1511259042801">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="19" />
         <mark key="." line="45" column="19" />
@@ -1568,13 +1568,13 @@
       <file name="/String concat (+) and super.toString()" timestamp="1511247434839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorMain.java" timestamp="1511254595765">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorMain.java" timestamp="1511258822033">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="35" />
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511173104583">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511259361925">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
@@ -1607,8 +1607,8 @@
       <jump line="20" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q2xvc2UgIzc1LCBTdXBwb3J0IGZvciBtYXZlbiB2ZXJzaW9uIGNoZWNrCg==</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -1620,34 +1620,34 @@
         <text encoding="base64">ICAgICAgICA8bW9kdWxlPnd3dzRqLW5vdGljZS1jaGFuLWp6c21zPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDbFNlbmRSZXF1ZXN0KFN0cmluZyBhY2NvdW50LCBTdHJpbmcgcGFzc3dvcmQsIFN0cmluZyBtZXNzYWdlLCBTdHJpbmcgcGhvbmUsIFN0cmluZyB1aWQpIHsKICAgICAgICB0aGlzKGFjY291bnQsIHBhc3N3b3JkLCBtZXNzYWdlLCBwaG9uZSwgbnVsbCwgbnVsbCwgdWlkKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Q2xvc2UgIzc1LCBTdXBwb3J0IGZvciBtYXZlbiB2ZXJzaW9uIGNoZWNrCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpY2VNZXNzYWdlIG1lc3NhZ2UgPSB0aHJlYWRIb2xkZXIuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDbFNlbmRSZXF1ZXN0KFN0cmluZyBhY2NvdW50LCBTdHJpbmcgcGFzc3dvcmQsIFN0cmluZyBtZXNzYWdlLCBTdHJpbmcgcGhvbmUsIFN0cmluZyB1aWQpIHsKICAgICAgICB0aGlzKGFjY291bnQsIHBhc3N3b3JkLCBtZXNzYWdlLCBwaG9uZSwgbnVsbCwgbnVsbCwgdWlkKTsKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIVFRQX0hFQURFUlMuc2V0Q29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVVRGOCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb3RpY2VNZXNzYWdlIG1lc3NhZ2UgPSB0aHJlYWRIb2xkZXIuZ2V0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBzdGF0aWMgewogICAgICAgIEhUVFBfSEVBREVSUy5zZXRBY2NlcHQoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChNZWRpYVR5cGUuQUxMKSk7CiAgICAgICAgSFRUUF9IRUFERVJTLnNldENvbnRlbnRUeXBlKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBIVFRQX0hFQURFUlMuc2V0Q29udGVudFR5cGUoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVVRGOCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgSHR0cEhlYWRlcnMgSFRUUF9IRUFERVJTID0gbmV3IEh0dHBIZWFkZXJzKCk7Cg==</text>
+        <text encoding="base64">CiAgICBzdGF0aWMgewogICAgICAgIEhUVFBfSEVBREVSUy5zZXRBY2NlcHQoQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChNZWRpYVR5cGUuQUxMKSk7CiAgICAgICAgSFRUUF9IRUFERVJTLnNldENvbnRlbnRUeXBlKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjgpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEh0dHBFbnRpdHk8Q2xBYnN0cmFjdFJlcXVlc3Q+IGVudGl0eSA9IG5ldyBIdHRwRW50aXR5PD4ocmVxdWVzdCwgSFRUUF9IRUFERVJTKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgSHR0cEhlYWRlcnMgSFRUUF9IRUFERVJTID0gbmV3IEh0dHBIZWFkZXJzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSnNvbk1hcHBlciBqc29uTWFwcGVyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEh0dHBFbnRpdHk8Q2xBYnN0cmFjdFJlcXVlc3Q+IGVudGl0eSA9IG5ldyBIdHRwRW50aXR5PD4ocmVxdWVzdCwgSFRUUF9IRUFERVJTKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgSnNvbk1hcHBlciBqc29uTWFwcGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIVFRQX0hFQURFUlMuc2V0QWNjZXB0KENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoTWVkaWFUeXBlLkFMTCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSnNvbk1hcHBlciBqc29uTWFwcGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
