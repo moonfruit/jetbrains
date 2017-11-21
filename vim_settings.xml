@@ -83,6 +83,7 @@
         <mark key="^" line="26" column="61" />
         <mark key="." line="26" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/bean/request/NoticeTemplateRequest.java" timestamp="1511235055065" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-server/pom.xml" timestamp="1510136592478">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="46" />
@@ -817,6 +818,12 @@
         <mark key="." line="27" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/bean/template/NoticeTemplateInfo.java" timestamp="1511149181135" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-db/src/main/resources/com/gingkoo/www4j/notice/manager/db/mapper/NoticeManagerMapper.xml" timestamp="1511235170904">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1511164177108" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1511183004237">
         <mark key="[" line="265" column="35" />
@@ -1099,6 +1106,7 @@
         <mark key="." line="59" column="50" />
         <mark key="^" line="59" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-db/src/main/java/com/gingkoo/www4j/notice/manager/db/mapper/NoticeManagerMapper.java" timestamp="1511235152570" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.9.2/jackson-dataformat-xml-2.9.2-sources.jar!/com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlProperty.java" timestamp="1511166667386" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenBuild.java" timestamp="1511167354295">
         <mark key="[" line="19" column="39" />
@@ -1106,7 +1114,7 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerQueryRawServiceImpl.java" timestamp="1511234883644" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerQueryRawServiceImpl.java" timestamp="1511235050926" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1511186250027">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -1130,6 +1138,7 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/bean/request/NoticeChannelRequest.java" timestamp="1511235019287" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/exception/NoticeManagerErrorCode.java" timestamp="1510125988510">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="44" />
@@ -1306,11 +1315,11 @@
       <jump line="20" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLXJjMCIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHBhcmFtZXRlclR5cGU9ImphdmEubGFuZy5TdHJpbmci</text>
       </register>
       <register name="-" type="4">
-        <text>b02</text>
+        <text encoding="base64">IHBhcmFtZXRlclR5cGU9ImphdmEubGFuZy5TdHJpbmci</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbE5hbWVcPg==</text>
