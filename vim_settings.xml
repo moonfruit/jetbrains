@@ -1132,6 +1132,12 @@
         <mark key="." line="124" column="80" />
         <mark key="^" line="124" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rule/pom.xml" timestamp="1511259796686">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/cache/ProxyCacheManager.java" timestamp="1510217077556">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1186,6 +1192,7 @@
         <mark key="^" line="54" column="29" />
         <mark key="." line="54" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/drools/drools-bom/7.4.1.Final/drools-bom-7.4.1.Final.pom" timestamp="1511259682928" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoServiceApiController.java" timestamp="1510561980566">
         <mark key="[" line="77" column="21" />
         <mark key="]" line="77" column="31" />
@@ -1574,7 +1581,7 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511259361925">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511259521134">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
@@ -1607,11 +1614,11 @@
       <jump line="20" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q2xvc2UgIzc1LCBTdXBwb3J0IGZvciBtYXZlbiB2ZXJzaW9uIGNoZWNrCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
