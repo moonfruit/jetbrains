@@ -1013,10 +1013,11 @@
         <mark key="." line="262" column="15" />
         <mark key="^" line="262" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511335614859">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511336276882">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-base/pom.xml" timestamp="1510136549787">
         <mark key="[" line="5" column="33" />
@@ -1194,11 +1195,11 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/pom.xml" timestamp="1511335470750">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/pom.xml" timestamp="1511336559200">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="^" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-para/src/main/java/com/gingkoo/www4j/base/para/BaseParaRepository.java" timestamp="1510909986205">
         <mark key="[" line="35" column="0" />
@@ -1639,11 +1640,11 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511259521134">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="486" column="26" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511336401068">
+        <mark key="[" line="1289" column="25" />
+        <mark key="]" line="1295" column="24" />
+        <mark key="." line="1295" column="24" />
+        <mark key="^" line="1295" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -1672,11 +1673,11 @@
       <jump line="20" column="30" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBraWVTZXJ2aWNlcy4K</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
