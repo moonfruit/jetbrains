@@ -752,7 +752,7 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511338268223">
+      <file name="/Dummy.txt" timestamp="1511341248611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1057,11 +1057,11 @@
         <mark key="." line="262" column="15" />
         <mark key="^" line="262" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511339126266">
-        <mark key="[" line="25" column="107" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511341099898">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="18" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-base/pom.xml" timestamp="1510136549787">
         <mark key="[" line="5" column="33" />
@@ -1244,10 +1244,10 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/pom.xml" timestamp="1511338776023">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/pom.xml" timestamp="1511341448069">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
         <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-para/src/main/java/com/gingkoo/www4j/base/para/BaseParaRepository.java" timestamp="1510909986205">
@@ -1292,7 +1292,7 @@
         <mark key="^" line="54" column="29" />
         <mark key="." line="54" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/drools/drools-bom/7.4.1.Final/drools-bom-7.4.1.Final.pom" timestamp="1511259682928" />
+      <file name="$MAVEN_REPOSITORY$/org/drools/drools-bom/7.4.1.Final/drools-bom-7.4.1.Final.pom" timestamp="1511341405980" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoServiceApiController.java" timestamp="1510561980566">
         <mark key="[" line="77" column="21" />
         <mark key="]" line="77" column="31" />
@@ -1729,7 +1729,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjcuNC4xLkZpbmFsPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4dGVuc2lvbnM+dHJ1ZTwvZXh0ZW5zaW9ucz4K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1741,34 +1741,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2llQ29udGFpbmVyLmdldENsYXNzTG9hZGVyKCkgPT0gQ2xhc3NMb2FkZXIuZ2V0U3lzdGVtQ2xhc3NMb2FkZXIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjcuNC4xLkZpbmFsPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4dGVuc2lvbnM+dHJ1ZTwvZXh0ZW5zaW9ucz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBLaWVCYXNlIGtpZUJhc2UgPSBraWVDb250YWluZXIuZ2V0S2llQmFzZSgpOwogICAgICAgIGtpZUJhc2UuZ2V0RmFjdFR5cGUoImNvbS5naW5na29vLnd3dzRqLmRyb29scy5ydWxlcyIsICJNZXNzYWdlIik7Cgo=</text>
+        <text encoding="base64">CiAgICAgICAgPCEtLTxkZXBlbmRlbmN5Pi0tPgogICAgICAgICAgICA8IS0tPGdyb3VwSWQ+b3JnLnNsZjRqPC9ncm91cElkPi0tPgogICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+c2xmNGotc2ltcGxlPC9hcnRpZmFjdElkPi0tPgogICAgICAgICAgICA8IS0tPHNjb3BlPnRlc3Q8L3Njb3BlPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5raWUuYXBpLktpZUJhc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBLaWVTZXJ2aWNlcyBraWVTZXJ2aWNlcyA9IEtpZVNlcnZpY2VzLkZhY3RvcnkuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBraWVDb250YWluZXIuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBLaWVCYXNlIGtpZUJhc2UgPSBraWVDb250YWluZXIuZ2V0S2llQmFzZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBLaWVCYXNlIGtpZUJhc2UgPSBraWVDb250YWluZXIuZ2V0S2llQmFzZSgpOwogICAgICAgIGtpZUJhc2UuZ2V0RmFjdFR5cGUoImNvbS5naW5na29vLnd3dzRqLmRyb29scy5ydWxlcyIsICJNZXNzYWdlIik7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2llQ29udGFpbmVyLmdldENsYXNzTG9hZGVyKCkgPT0gQ2xhc3NMb2FkZXIuZ2V0U3lzdGVtQ2xhc3NMb2FkZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2llQ29udGFpbmVyLmdldENsYXNzTG9hZGVyKCkgPT0gQ2xhc3NMb2FkZXIuZ2V0U3lzdGVtQ2xhc3NMb2FkZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBLaWVTZXJ2aWNlcyBraWVTZXJ2aWNlcyA9IEtpZVNlcnZpY2VzLkZhY3RvcnkuZ2V0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlciBjbGFzc0xvYWRlciA9IE1lc3NhZ2VUZXN0LmNsYXNzLmdldENsYXNzTG9hZGVyKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNsYXNzTG9hZGVyID09IENsYXNzTG9hZGVyLmdldFN5c3RlbUNsYXNzTG9hZGVyKCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
