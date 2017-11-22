@@ -45,7 +45,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/http/HttpEntity.java" timestamp="1511255705292" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1511245430154" />
+      <file name="/MoreObjects.toStringHelper.forParent()" timestamp="1511247434866">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/BatchNoticeRawServiceImpl.java" timestamp="1511244431081" />
+      <file name="/StringBuffer" timestamp="1511247434842">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/request/SmsReportRequest.java" timestamp="1511247512400" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1511255791673" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-client/src/main/resources/com/gingkoo/spring/www4j-notice-channel-client.xml" timestamp="1511243555263">
@@ -123,6 +129,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="/MoreObjects.toStringHelper (Child)" timestamp="1511246927512">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-client/src/main/java/com/gingkoo/www4j/notice/config/NoticeChannelConfig.java" timestamp="1511243841904">
         <mark key="[" line="17" column="5" />
         <mark key="]" line="20" column="17" />
@@ -147,6 +156,9 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.java" timestamp="1511163366114" />
+      <file name="/Groovy: String concat (+)" timestamp="1511247434855">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeChannelRawServiceImpl.java" timestamp="1511244465955">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="34" column="78" />
@@ -248,6 +260,9 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="/dummy.sql" timestamp="1511258189778">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1511261359548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -260,6 +275,9 @@
         <mark key="." line="12" column="89" />
         <mark key="^" line="12" column="89" />
       </file>
+      <file name="/StringBuilder (JDK 1.5)" timestamp="1511247434844">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/response/ClAbstractResponse.java" timestamp="1511248318371">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="14" />
@@ -267,6 +285,15 @@
         <mark key="." line="56" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerTemplateService.java" timestamp="1511235403778" />
+      <file name="/MoreObjects.toStringHelper.parent()" timestamp="1511246886639">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Groovy: String concat (+) and super.toString()" timestamp="1511247434857">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/MoreObjects.toStringHelper (Guava 18+)" timestamp="1511247434853">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-cchub-parent/zoo-cchub-ri/src/main/java/com/gingkoo/zoo/cchub/kexin/utils/CreditCheckClient.java" timestamp="1511316480602" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-admin-web-parent/zoo-admin-web/src/main/java/com/gingkoo/zoo/admin/web/service/impl/ReportMngServiceImpl.java" timestamp="1511163464553" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenDependency.java" timestamp="1511166585454">
@@ -319,7 +346,13 @@
         <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerSubscribeService.java" timestamp="1511235795093" />
+      <file name="/Objects.toStringHelper (Guava)" timestamp="1511247434850">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/image/ImageHelper.java" timestamp="1511317697154" />
+      <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1511247434846">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/response/SmsBalanceResponse.java" timestamp="1511248444103" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-para/src/main/java/com/gingkoo/www4j/base/para/BaseParaDataSourceConfigurer.java" timestamp="1511148611039">
         <mark key="[" line="27" column="31" />
@@ -354,6 +387,9 @@
         <mark key="]" line="11" column="38" />
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
+      </file>
+      <file name="/MoreObjects.toStringHelper.forChild()" timestamp="1511247434870">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/request/BaseRequest.java" timestamp="1511246549966">
         <mark key="[" line="5" column="13" />
@@ -425,6 +461,9 @@
         <mark key="." line="17" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-admin-web-parent/zoo-admin-web/src/main/java/com/gingkoo/zoo/admin/web/api/controller/ReportMngController.java" timestamp="1511162115081" />
+      <file name="/ToStringBuilder (Apache commons-lang 3)" timestamp="1511247434848">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/www4j/schedule/repository/JobRepository.java" timestamp="1511141602193" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/test/java/com/gingkoo/www4j/facility/bean/VersionComparatorTest.java" timestamp="1511184376990">
         <mark key="[" line="17" column="63" />
@@ -455,6 +494,9 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerChannelRawService.java" timestamp="1511235813026" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerQueryRawServiceImpl.java" timestamp="1511235050926" />
+      <file name="/Dummy.regexp" timestamp="1511247434898">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1511245910816">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -475,6 +517,9 @@
         <mark key="^" line="2" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/bean/request/NoticeChannelRequest.java" timestamp="1511235019287" />
+      <file name="/String concat (+)" timestamp="1511247434837">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/javax/security/auth/login/CredentialExpiredException.java" timestamp="1511160278201" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/pom.xml" timestamp="1511249975685">
         <mark key="[" line="65" column="46" />
@@ -525,6 +570,9 @@
         <mark key="]" line="129" column="34" />
         <mark key="." line="129" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rule/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511332397411">
+        <mark key="[" line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/ClSmsNoticeChannel.java" timestamp="1511258364519">
         <mark key="[" line="56" column="13" />
         <mark key="]" line="57" column="4" />
@@ -544,10 +592,16 @@
         <mark key="." line="74" column="8" />
         <mark key="^" line="74" column="8" />
       </file>
+      <file name="/MoreObjects.toStringHelper.omitNullValues()" timestamp="1511247434862">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/http/client/AbstractClientHttpRequest.java" timestamp="1511255872942" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.9.2/jackson-dataformat-xml-2.9.2.jar!/com/fasterxml/jackson/dataformat/xml/annotation/JacksonXmlElementWrapper.class" timestamp="1511166492747" />
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.8.4/dubbo-2.8.4-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboProtocol.java" timestamp="1511245354637" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-jzsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/jz/JzSmsNoticeChannelParas.java" timestamp="1511249789270" />
+      <file name="/String concat (+) and super.toString()" timestamp="1511247434839">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorMain.java" timestamp="1511258822033">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="35" />
