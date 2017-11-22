@@ -1640,11 +1640,11 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511336401068">
-        <mark key="[" line="1289" column="25" />
-        <mark key="]" line="1295" column="24" />
-        <mark key="." line="1295" column="24" />
-        <mark key="^" line="1295" column="24" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511336736117">
+        <mark key="[" line="1293" column="29" />
+        <mark key="]" line="1293" column="44" />
+        <mark key="." line="1293" column="44" />
+        <mark key="^" line="1293" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -1674,10 +1674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
