@@ -78,6 +78,11 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="29" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/bean/NoticeUser.java" timestamp="1511009336252">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE-sources.jar!/org/springframework/http/client/OkHttpClientHttpRequestFactory.java" timestamp="1511446047428" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/aspect/AspectAnnotationKey.java" timestamp="1511144810393">
         <mark key="[" line="8" column="40" />
@@ -107,6 +112,11 @@
         <mark key="]" line="11" column="79" />
         <mark key="." line="11" column="79" />
         <mark key="^" line="11" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/ClSmsNoticeChannelFactory.java" timestamp="1511445273827">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/web/UrlMapCodec.java" timestamp="1510557191319">
         <mark key="[" line="32" column="82" />
@@ -242,6 +252,7 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="30" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/node/ArrayNode.java" timestamp="1511512236693" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rule/src/main/resources/com/gingkoo/www4j/drools/rule/TestRule.drl" timestamp="1511260627076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -291,6 +302,11 @@
         <mark key="^" line="40" column="44" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/request/ClBaseRequest.java" timestamp="1511247491797">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/www4j-drools-rules-test1/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511342150583">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="40" />
@@ -303,6 +319,7 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/JacksonHelper.java" timestamp="1511511171078" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/HikariDataSourceBuilder.java" timestamp="1510564302698">
         <mark key="[" line="33" column="46" />
         <mark key="]" line="33" column="44" />
@@ -327,6 +344,11 @@
         <mark key="]" line="8" column="74" />
         <mark key="^" line="8" column="74" />
         <mark key="." line="8" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/kafka/KafkaWebService.java" timestamp="1510888351147">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1510650374642">
         <mark key="[" line="52" column="42" />
@@ -364,6 +386,11 @@
         <mark key="." line="220" column="87" />
         <mark key="^" line="220" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/pom.xml" timestamp="1511447497471">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/DroolsSessionFactory.java" timestamp="1511433949568">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -393,6 +420,11 @@
         <mark key="]" line="17" column="53" />
         <mark key="^" line="17" column="53" />
         <mark key="." line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db-beans.xml" timestamp="1510811525481">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-job/src/main/java/com/gingkoo/www4j/base/job/BaseJobDataSourceConfigurer.java" timestamp="1511148593813">
         <mark key="[" line="27" column="31" />
@@ -576,17 +608,17 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1511512315370" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-db/src/main/resources/com/gingkoo/www4j/notice/manager/db/mapper/NoticeManagerMapper.xml" timestamp="1511235173375">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1511509780556">
-        <mark key="[" line="284" column="77" />
-        <mark key="]" line="285" column="116" />
-        <mark key="^" line="285" column="116" />
-        <mark key="." line="285" column="116" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1511512590110">
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511341099898">
         <mark key="[" line="2" column="0" />
@@ -629,6 +661,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/kie/kie-api/7.4.1.Final/kie-api-7.4.1.Final-sources.jar!/org/kie/api/runtime/KieContainer.java" timestamp="1511421402493" />
       <file name="$MAVEN_REPOSITORY$/org/kie/kie-api/7.4.1.Final/kie-api-7.4.1.Final-sources.jar!/org/kie/api/builder/KieScanner.java" timestamp="1511417636043" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/node/NullNode.java" timestamp="1511511742275" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/RoutingDataSource.java" timestamp="1510279344407">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="8" column="7" />
@@ -922,6 +955,11 @@
         <mark key="." line="191" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.4.RELEASE/spring-amqp-1.7.4.RELEASE.jar!/org/springframework/amqp/support/converter/Jackson2JsonMessageConverter.class" timestamp="1511489598838" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-lssms/src/main/java/com/gingkoo/www4j/notice/channel/sms/ls/ClSmsNoticeChannelParas.java" timestamp="1511444326973">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorMain.java" timestamp="1511258822033">
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="35" />
@@ -981,6 +1019,11 @@
         <mark key="]" line="26" column="61" />
         <mark key="^" line="26" column="61" />
         <mark key="." line="26" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-server/src/main/resources/configs/multiJdbc.yaml" timestamp="1510986990223">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/concurrent/ThreadHolder.java" timestamp="1510301366981">
         <mark key="[" line="39" column="8" />
@@ -1052,6 +1095,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/drools/drools-compiler/7.4.1.Final/drools-compiler-7.4.1.Final-sources.jar!/org/drools/compiler/kie/builder/impl/KieContainerImpl.java" timestamp="1511488890323" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-wxmp-parent/zoo-wxmp-api/src/main/java/com/gingkoo/zoo/wxmp/WeChatRestHelper.java" timestamp="1511445008080" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/node/JsonNodeType.java" timestamp="1511511018334" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/resources/com/gingkoo/spring/www4j-dubbo.xml" timestamp="1510888674032">
         <mark key="[" line="12" column="82" />
         <mark key="]" line="12" column="92" />
@@ -1077,16 +1121,22 @@
         <mark key="^" line="174" column="17" />
         <mark key="." line="174" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/DroolsSerializer.java" timestamp="1511490986782">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/DroolsSerializer.java" timestamp="1511513662880">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/bean/MyToken.java" timestamp="1511492452473">
         <mark key="[" line="2" column="36" />
         <mark key="]" line="4" column="21" />
         <mark key="^" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/EnvAware.java" timestamp="1510897909691">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-ri/src/main/java/com/gingkoo/zoo/loan/kafka/KafkaLoanService.java" timestamp="1510888302121">
         <mark key="[" line="17" column="14" />
@@ -1350,7 +1400,7 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="15" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1511507904286">
+      <file name="/fragment.java" timestamp="1511513571912">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
@@ -1392,6 +1442,11 @@
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/request/ClRullRequest.java" timestamp="1511247639617">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/ReleaseIdFactory.java" timestamp="1511432128946">
         <mark key="[" line="2" column="4" />
@@ -1435,6 +1490,11 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-admin-web-parent/zoo-admin-web/src/main/resources/com/gingkoo/zoo/admin/web/db/mapper/ReportMapper.xml" timestamp="1510890504237">
+        <mark key="[" line="34" column="116" />
+        <mark key="]" line="34" column="116" />
+        <mark key="." line="34" column="116" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/AspectConstants.java" timestamp="1510822472475">
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="91" />
@@ -1453,11 +1513,11 @@
         <mark key="^" line="18" column="68" />
         <mark key="." line="18" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/spring/DroolsAppConfig.java" timestamp="1511409074584">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="18" column="40" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/spring/DroolsAppConfig.java" timestamp="1511513039187">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="9" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/jz/sms/jzsms/201503/jzsms-201503.jar!/com/jianzhou/sdk/BusinessService.class" timestamp="1511492842317" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/www4j-rules-knowledge-demo1/src/main/resources/com/gingkoo/www4j/rules/demo1/DemoRule.drl" timestamp="1511433368079">
@@ -1508,6 +1568,11 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/spring/ScheduleAppConfig.java" timestamp="1510982395345">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-db/src/test/resources/configs/generator.yaml" timestamp="1510129101474">
         <mark key="[" line="1" column="38" />
         <mark key="]" line="1" column="38" />
@@ -1519,6 +1584,11 @@
         <mark key="]" line="12" column="40" />
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/www4j-rules-knowledge-demo1/pom.xml" timestamp="1511407453510">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/secutiry/SecurityHelper.java" timestamp="1510556635911">
         <mark key="[" line="26" column="49" />
@@ -1768,12 +1838,18 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-lssms/src/main/java/com/gingkoo/www4j/notice/channel/sms/ls/ClSmsNoticeChannel.java" timestamp="1511444309771">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/DataSourceFactoryBean.java" timestamp="1510711749498">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="^" line="141" column="61" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.2/jackson-core-2.9.2.jar!/com/fasterxml/jackson/core/TreeNode.class" timestamp="1511509996138" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rule/src/test/java/com/gingkoo/www4j/drools/rules/MessageTest.java" timestamp="1511333773210">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="18" column="33" />
@@ -1785,6 +1861,16 @@
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/advice/MethodArgumentTranslator.java" timestamp="1511337802611">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/www4j-drools-rules-test2/src/test/java/com/gingkoo/www4j/drools/rules2/MessageTest.java" timestamp="1511343110267">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1511491822844">
         <mark key="[" line="649" column="25" />
@@ -1822,10 +1908,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUb3BpY0V4Y2hhbmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Token</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -1834,34 +1920,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InN0YWNrVHJhY2UgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICBTVEFDS19UUkFDRSA9ICN7c3RhY2tUcmFjZX0sCiAgICAgICAgICAgIDwvaWY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUb3BpY0V4Y2hhbmdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEaXJlY3RFeGNoYW5nZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIExvYWRpbmdDYWNoZTxLaWVCYXNlLCBMaXN0PEZhY3RUeXBlPj4gY2FjaGUgPSBDYWZmZWluZS5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLm1heGltdW1TaXplKDEyOCkud2Vha0tleXMoKQogICAgICAgICAgICAuYnVpbGQoa2V5IC0+IGtleS5nZXRLaWVQYWNrYWdlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLmZsYXRNYXAoa2llUGFja2FnZSAtPiBraWVQYWNrYWdlLmdldEZhY3RUeXBlcygpLnN0cmVhbSgpKQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKTsKCiAgICBwdWJsaWMgRHJvb2xzU2VyaWFsaXplcigpIHsKICAgICAgICBqc29uTWFwcGVyID0gSmFja3NvbkJ1aWxkZXIuanNvbigpLmJ1aWxkKCk7CiAgICAgICAganNvbk1hcHBlci5lbmFibGVEZWZhdWx0VHlwaW5nKCk7CiAgICB9CgogICAgcHVibGljIENsYXNzPD8+IGdldEZhY3RDbGFzcyhLaWVSdW50aW1lIGtpZVJ1bnRpbWUsIFN0cmluZyBjbGF6eikgewogICAgICAgIHJldHVybiBnZXRGYWN0Q2xhc3Moa2llUnVudGltZS5nZXRLaWVCYXNlKCksIGNsYXp6KTsKICAgIH0KCiAgICBwdWJsaWMgQ2xhc3M8Pz4gZ2V0RmFjdENsYXNzKEtpZUJhc2Uga2llQmFzZSwgU3RyaW5nIGNsYXp6KSB7CiAgICAgICAgTGlzdDxGYWN0VHlwZT4gZmFjdFR5cGVzID0gY2FjaGUuZ2V0KGtpZUJhc2UpOwogICAgICAgIGFzc2VydCBmYWN0VHlwZXMgIT0gbnVsbDsKCiAgICAgICAgZm9yIChGYWN0VHlwZSBmYWN0VHlwZSA6IGZhY3RUeXBlcykgewogICAgICAgICAgICBpZiAoZmFjdFR5cGUuZ2V0TmFtZSgpLmVxdWFscyhjbGF6eikgfHwgZmFjdFR5cGUuZ2V0U2ltcGxlTmFtZSgpLmVxdWFsc0lnbm9yZUNhc2UoY2xhenopKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFjdFR5cGUuZ2V0RmFjdENsYXNzKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk5vIGZhY3RDbGFzcyBuYW1lZCB7e319IiArIGNsYXp6KTsKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBScGNDb250ZXh0LmdldENvbnRleHQoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIEpzb25NYXBwZXIganNvbk1hcHBlcjsKCiAgICBwcml2YXRlIExvYWRpbmdDYWNoZTxLaWVCYXNlLCBMaXN0PEZhY3RUeXBlPj4gY2FjaGUgPSBDYWZmZWluZS5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgLm1heGltdW1TaXplKDEyOCkud2Vha0tleXMoKQogICAgICAgICAgICAuYnVpbGQoa2V5IC0+IGtleS5nZXRLaWVQYWNrYWdlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLmZsYXRNYXAoa2llUGFja2FnZSAtPiBraWVQYWNrYWdlLmdldEZhY3RUeXBlcygpLnN0cmVhbSgpKQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpKTsKCiAgICBwdWJsaWMgRHJvb2xzU2VyaWFsaXplcigpIHsKICAgICAgICBqc29uTWFwcGVyID0gSmFja3NvbkJ1aWxkZXIuanNvbigpLmJ1aWxkKCk7CiAgICAgICAganNvbk1hcHBlci5lbmFibGVEZWZhdWx0VHlwaW5nKCk7CiAgICB9CgogICAgcHVibGljIENsYXNzPD8+IGdldEZhY3RDbGFzcyhLaWVSdW50aW1lIGtpZVJ1bnRpbWUsIFN0cmluZyBjbGF6eikgewogICAgICAgIHJldHVybiBnZXRGYWN0Q2xhc3Moa2llUnVudGltZS5nZXRLaWVCYXNlKCksIGNsYXp6KTsKICAgIH0KCiAgICBwdWJsaWMgQ2xhc3M8Pz4gZ2V0RmFjdENsYXNzKEtpZUJhc2Uga2llQmFzZSwgU3RyaW5nIGNsYXp6KSB7CiAgICAgICAgTGlzdDxGYWN0VHlwZT4gZmFjdFR5cGVzID0gY2FjaGUuZ2V0KGtpZUJhc2UpOwogICAgICAgIGFzc2VydCBmYWN0VHlwZXMgIT0gbnVsbDsKCiAgICAgICAgZm9yIChGYWN0VHlwZSBmYWN0VHlwZSA6IGZhY3RUeXBlcykgewogICAgICAgICAgICBpZiAoZmFjdFR5cGUuZ2V0TmFtZSgpLmVxdWFscyhjbGF6eikgfHwgZmFjdFR5cGUuZ2V0U2ltcGxlTmFtZSgpLmVxdWFsc0lnbm9yZUNhc2UoY2xhenopKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFjdFR5cGUuZ2V0RmFjdENsYXNzKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIk5vIGZhY3RDbGFzcyBuYW1lZCB7e319IiArIGNsYXp6KTsKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oCiAgICAgICAgYmFzZVBhY2thZ2VzID0gImNvbS5naW5na29vLnd3dzRqLm5vdGljZS5tYW5hZ2VyLndlYiIsCiAgICAgICAgZXhjbHVkZUZpbHRlcnMgPSBAQ29tcG9uZW50U2Nhbi5GaWx0ZXIoTm90U2Nhbi5jbGFzcykKKQpATWFwcGVyU2NhbigKICAgICAgICBiYXNlUGFja2FnZXMgPSAiY29tLmdpbmdrb28ud3d3NGoubm90aWNlLm1hbmFnZXIud2ViIiwKICAgICAgICBhbm5vdGF0aW9uQ2xhc3MgPSBNYXBwZXIuY2xhc3MKKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgT2JqZWN0IGRlc2VyaWFsaXplKEtpZUJhc2Uga2llQmFzZSwgU3RyaW5nIGpzb24pIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgSnNvbk5vZGUgbm9kZSA9IGpzb25NYXBwZXIucmVhZFRyZWUoanNvbik7CiAgICAgICAgcmV0dXJuIGRlc2VyaWFsaXplKGtpZUJhc2UsIG5vZGUpOwogICAgfQoKICAgIHByb3RlY3RlZCBPYmplY3QgZGVzZXJpYWxpemUoS2llQmFzZSBraWVCYXNlLCBKc29uTm9kZSBub2RlKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIGlmIChub2RlLmlzT2JqZWN0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIHR5cGUgPSBKYWNrc29uSGVscGVyLnJlYWRKc29uTm9kZShub2RlLCBGQUNUX0ZJRUxEKS5hc1RleHQobnVsbCk7CiAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc0VtcHR5KHR5cGUpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJObyB0eXBlIGZvdW5kLCAiICsgbm9kZSk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIENsYXNzPD8+IGNsYXp6ID0gZ2V0RmFjdENsYXNzKGtpZUJhc2UsIHR5cGUpOwogICAgICAgICAgICByZXR1cm4ganNvbk1hcHBlci5jb252ZXJ0VmFsdWUobm9kZSwgY2xhenopOwoKICAgICAgICB9IGVsc2UgaWYgKG5vZGUuaXNBcnJheSgpKSB7CiAgICAgICAgICAgIExpc3Q8T2JqZWN0PiBsaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGZvciAoSnNvbk5vZGUgY2hpbGQgOiBub2RlKSB7CiAgICAgICAgICAgICAgICBsaXN0LmFkZChkZXNlcmlhbGl6ZShraWVCYXNlLCBjaGlsZCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBsaXN0OwoKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4ganNvbk1hcHBlci5jb252ZXJ0VmFsdWUobm9kZSwgT2JqZWN0LmNsYXNzKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZnRlckNvbW1pdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICJvcmcua2llLnNwcmluZy5hbm5vdGF0aW9ucyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gYnVzaW5lc3NTZXJ2aWNlLnNlbmRCYXRjaE1lc3NhZ2UodXNlcm5hbWUsIHBhc3N3b3JkLCAsIGNvbnRlbnQpOwogICAgICAgIGlmIChyZXN1bHQgPD0gMCkgewogICAgICAgICAgICB0aHJvdyBleGNlcHQoTm90aWNlRXhjZXB0aW9uLmNsYXNzLCBDQU5OT1RfU0VORF9NRVNTQUdFLCBsb2dnZXIsCiAgICAgICAgICAgICAgICAgICAgIlNlbmQgYmF0Y2ggbWVzc2FnZXMgZXJyb3Igb24ge3t9Ont9fSIsCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0LCBTTVNfRVJST1IuZ2V0T3JEZWZhdWx0KHJlc3VsdCwgIuacquefpemUmeivryIpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFN0cmluZy52YWx1ZU9mKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gYnVzaW5lc3NTZXJ2aWNlLnNlbmRCYXRjaE1lc3NhZ2UodXNlcm5hbWUsIHBhc3N3b3JkLCBhZGRyZXNzLCBjb250ZW50KTsKICAgICAgICBpZiAocmVzdWx0IDw9IDApIHsKICAgICAgICAgICAgdGhyb3cgZXhjZXB0KE5vdGljZUV4Y2VwdGlvbi5jbGFzcywgQ0FOTk9UX1NFTkRfTUVTU0FHRSwgbG9nZ2VyLAogICAgICAgICAgICAgICAgICAgICJTZW5kIG1lc3NhZ2UgdG8ge3t9fSBlcnJvciBvbiB7e306e319IiwKICAgICAgICAgICAgICAgICAgICBhZGRyZXNzLCByZXN1bHQsIFNNU19FUlJPUi5nZXRPckRlZmF1bHQocmVzdWx0LCAi5pyq55+l6ZSZ6K+vIikpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gU3RyaW5nLnZhbHVlT2YocmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImphdmEuYXd0LmhlYWRsZXNzIiwgInRydWUiKTsKCiAgICAgICAgUGF0aCBwYXRoID0gUGF0aHMuZ2V0KCIvaG9tZS9qb2UvZm9vIik7CgogICAgICAgIFN5c3RlbS5vdXQuZm9ybWF0KCJ0b1N0cmluZzogJXMlbiIsIHBhdGgudG9TdHJpbmcoKSk7CiAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoImdldEZpbGVOYW1lOiAlcyVuIiwgcGF0aC5nZXRGaWxlTmFtZSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LmZvcm1hdCgiZ2V0TmFtZSgwKTogJXMlbiIsIHBhdGguZ2V0TmFtZSgwKSk7CiAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoImdldE5hbWVDb3VudDogJWQlbiIsIHBhdGguZ2V0TmFtZUNvdW50KCkpOwogICAgICAgIFN5c3RlbS5vdXQuZm9ybWF0KCJzdWJwYXRoKDAsMik6ICVzJW4iLCBwYXRoLnN1YnBhdGgoMCwgMikpOwogICAgICAgIFN5c3RlbS5vdXQuZm9ybWF0KCJnZXRQYXJlbnQ6ICVzJW4iLCBwYXRoLmdldFBhcmVudCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LmZvcm1hdCgiZ2V0Um9vdDogJXMlbiIsIHBhdGguZ2V0Um9vdCgpKTsKCiAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoIiVzJW4iLCBwYXRoLnRvVXJpKCkpOwoKICAgICAgICBQYXRoIGN1ciA9IFBhdGhzLmdldCgiLiIpOwoKICAgICAgICB0cnkgKERpcmVjdG9yeVN0cmVhbTxQYXRoPiBwYXRocyA9IEZpbGVzLm5ld0RpcmVjdG9yeVN0cmVhbShjdXIpKSB7CiAgICAgICAgICAgIGZvciAoUGF0aCBwIDogcGF0aHMpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHApOwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGN1ci5yZWxhdGl2aXplKHApKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tIik7CiAgICAgICAgcGF0aCA9IFBhdGhzLmdldCgiLiIpLm5vcm1hbGl6ZSgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYXRoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0aC50b1VyaSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0aC50b0Fic29sdXRlUGF0aCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0aC50b0Fic29sdXRlUGF0aCgpLnRvVXJpKCkpOwoKICAgICAgICBwYXRoID0gUGF0aHMuZ2V0KCIvVXNlcnMvbW9vbi9Eb3dubG9hZHMvaGVhZC5qcGciKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0aCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgudG9VcmkoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgudG9BYnNvbHV0ZVBhdGgoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgudG9BYnNvbHV0ZVBhdGgoKS50b1VyaSgpKTsKCi8vICAgICAgICBBcHBJbml0aWFsaXplci5pbml0aWFsaXplKCk7Ci8vICAgICAgICBzeW5jVGVzdCgpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsKICAgICAgICBpZiAoUmVnZXhIZWxwZXIubWF0Y2hlcygiWzBdIiwgIlxcW1xcZCtdIikpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJtYXRjaGVzIik7CiAgICAgICAgfQoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04uaXNDb21wYXRpYmxlV2l0aChNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTl9VVEY4KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKE1lZGlhVHlwZS5BUFBMSUNBVElPTl9KU09OX1VURjguaXNDb21wYXRpYmxlV2l0aChNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTikpOwoKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwovLyAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlciA9IG5ldyBPYmplY3RNYXBwZXIoKTsKLy8gICAgICAgIFN0cmluZyBqc29uID0gIntcInhcIjoge1wieFwiOiBcInhcIiwgXCJ6XCI6IFwielwifSwgXCJ5XCI6IFwieVwifSI7Ci8vICAgICAgICBNYXAgbWFwID0gbWFwcGVyLnJlYWRWYWx1ZShqc29uLCBNYXAuY2xhc3MpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hcCk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwogICAgICAgIERlZmF1bHRVcmlUZW1wbGF0ZUhhbmRsZXIgdXJpVGVtcGxhdGVIYW5kbGVyID0gbmV3IERlZmF1bHRVcmlUZW1wbGF0ZUhhbmRsZXIoKTsKLy8gICAgICAgIHVyaVRlbXBsYXRlSGFuZGxlci5zZXRQYXJzZVBhdGgodHJ1ZSk7CiAgICAgICAgdXJpVGVtcGxhdGVIYW5kbGVyLnNldFN0cmljdEVuY29kaW5nKHRydWUpOwogICAgICAgIFVSSSB1cmkgPSB1cmlUZW1wbGF0ZUhhbmRsZXIuZXhwYW5kKCJodHRwOi8vYWJjLmNvbS97cGF0aH0/bmFtZT17dXJsfSIsCiAgICAgICAgICAgICAgICBJbW11dGFibGVNYXAub2YoInBhdGgiLCAicGF0aC9wYXRoMiIsICJ1cmwiLCAiaHR0cDovL2xvY2FsaG9zdC8iKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVyaSk7CgogICAgICAgIFVyaUNvbXBvbmVudHNCdWlsZGVyIGJ1aWxkZXIgPQogICAgICAgICAgICAgICAgVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbUh0dHBVcmwoImh0dHA6Ly9hYmMuY29tL3twYXRofT9uYW1lPXt1cmx9Iik7CgogICAgICAgIFVyaUNvbXBvbmVudHMgdXJpQ29tcG9uZW50cyA9IGJ1aWxkZXIuYnVpbGRBbmRFeHBhbmQoCiAgICAgICAgICAgICAgICBJbW11dGFibGVNYXAub2YoInBhdGgiLCAicGF0aCIsICJ1cmwiLCAiaHR0cDovL2xvY2FsaG9zdC8iKSkuZW5jb2RlKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVyaUNvbXBvbmVudHMudG9TdHJpbmcoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgRGF0ZSgxNDkzNzkzNzQyMzE2TCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihEYXRlSGVscGVyLmlzVGltZXN0YW1wVmFsaWQoMTQ5Mzc5Mzc0MjMxNkwpKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tLS0iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGlrYS5nZXRJbnN0YW5jZSgpLmdldEZpbGVFeHRlbnNpb24oTWVkaWFUeXBlLklNQUdFX1BORykpOwogICAgICAgIHRyeSAoSW5wdXRTdHJlYW0gaW5wdXRTdHJlYW0gPSBuZXcgQnVmZmVyZWRJbnB1dFN0cmVhbShGaWxlcy5uZXdJbnB1dFN0cmVhbShQYXRocy5nZXQoCiAgICAgICAgICAgICAgICAid3d3NGotbW9uZ28vc3JjL3Rlc3QvcmVzb3VyY2VzL2NvbmZpZ3MvYXBwbGljYXRpb24ueWFtbCIpKSkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFRpa2EuZ2V0SW5zdGFuY2UoKS5nZXREZXRlY3RvcigpLmRldGVjdChpbnB1dFN0cmVhbSwgbmV3IE1ldGFkYXRhKCkpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKElPVXRpbHMudG9TdHJpbmcoaW5wdXRTdHJlYW0sIFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICB9CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLS0tIik7CiAgICAgICAgYnl0ZVtdIGJ5dGVzID0gbmV3IGJ5dGVbXXsoYnl0ZSkgMHhGMCwgKGJ5dGUpIDB4OUYsIChieXRlKSAweDkxLCAoYnl0ZSkgMHg4Q307CiAgICAgICAgU3RyaW5nIGJ5dGVTdHJpbmcgPSBuZXcgU3RyaW5nKGJ5dGVzLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYnl0ZVN0cmluZy5sZW5ndGgoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ5dGVTdHJpbmcpOwogICAgICAgIGZvciAoY2hhciBjIDogYnl0ZVN0cmluZy50b0NoYXJBcnJheSgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaGFyYWN0ZXIuaXNTdXJyb2dhdGUoYykpOwogICAgICAgIH0KCiAgICAgICAgU29ydGVkTWFwPFN0cmluZywgU3RyaW5nPiBtYXAgPSBuZXcgVHJlZU1hcDw+KCk7CiAgICAgICAgbWFwLnB1dCgia2V5IiwgbnVsbCk7CiAgICAgICAgbWFwLnB1dCgia2V5MiIsICJ2YWx1ZTIiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFwKTsKCiAgICAgICAgTXVsdGlWYWx1ZU1hcDxTdHJpbmcsIFN0cmluZz4gbWFwMiA9IG5ldyBMaW5rZWRNdWx0aVZhbHVlTWFwPD4oKTsKICAgICAgICBtYXAyLmFkZCgia2V5IiwgbnVsbCk7CiAgICAgICAgbWFwMi5hZGQoImtleSIsICJ2YWx1ZSIpOwogICAgICAgIG1hcDIuYWRkKCJrZXkyIiwgInZhbHVlMiIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXAyKTsKCiAgICAgICAgQmlnRGVjaW1hbCBkZWNpbWFsID0gbmV3IEJpZ0RlY2ltYWwoIjEuMDAwMGU5Iik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlY2ltYWwudG9TdHJpbmcoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRlY2ltYWwudG9QbGFpblN0cmluZygpKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tIik7CgogICAgICAgIGxvbmdbXSB4ID0gbmV3IGxvbmdbXXsxNTAwNDUyNTkwLCA1NDQ5OTB9OwogICAgICAgIGxvbmdbXSB5ID0gbmV3IGxvbmdbXXsxNTAwNDUyNzgwLCA1MjM4NzV9OwogICAgICAgIGxvbmdbXSB6ID0gbmV3IGxvbmdbMl07CiAgICAgICAgbG9uZyB6MjsKCiAgICAgICAgelswXSA9IHlbMF0gLSB4WzBdOwogICAgICAgIHpbMV0gPSB5WzFdIC0geFsxXTsKICAgICAgICB6MiA9IHpbMF0gKiAxMDAwICsgelsxXSAvIDEwMDA7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih6WzBdKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oelsxXSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHoyKTsKCi8vICAgICAgICBSYXRlTGltaXRlciByYXRlTGltaXRlciA9IG5ldyBUb2tlbkJ1Y2tldCgzLCAyMDAwKTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwovLyAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAzMDsgaSsrKSB7Ci8vICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhdGVMaW1pdGVyLmNoZWNrUmF0ZSgpKTsKLy8gICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMuc2xlZXAoNTAwKTsKLy8gICAgICAgIH0KCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tIik7CiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBtYXBYID0gSW1tdXRhYmxlTWFwLm9mKCJhIiwgIjkiLCAiYiIsICI4IiwgImMiLCAiNyIpOwogICAgICAgIGZvciAoU3RyaW5nIHZhbHVlIDogbWFwWC52YWx1ZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odmFsdWUpOwogICAgICAgIH0KCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCgxLCAxKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCgxLCAyKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCgyLCAxKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFkZCgyLCAyKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTcGxpdHRlci5vbigifCIpLnNwbGl0VG9MaXN0KCIxfDIiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFNwbGl0dGVyLm9uKCJ8Iikuc3BsaXRUb0xpc3QoIjF8IikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTcGxpdHRlci5vbigifCIpLnNwbGl0VG9MaXN0KCIxIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTcGxpdHRlci5vbigifCIpLnNwbGl0VG9MaXN0KCIiKSk7CgogICAgICAgIFNldE11bHRpbWFwPFN0cmluZywgU3RyaW5nPiBtdWx0aW1hcCA9IE11bHRpbWFwQnVpbGRlci5oYXNoS2V5cygpLmhhc2hTZXRWYWx1ZXMoKS5idWlsZCgpOwogICAgICAgIG11bHRpbWFwLnB1dCgiQSIsICIxIik7CiAgICAgICAgbXVsdGltYXAucHV0KCJBIiwgIjIiKTsKICAgICAgICBtdWx0aW1hcC5wdXQoIkEiLCAiMyIpOwogICAgICAgIG11bHRpbWFwLnB1dCgiQiIsICIxIik7CiAgICAgICAgbXVsdGltYXAucHV0KCJCIiwgIjIiKTsKICAgICAgICBtdWx0aW1hcC5wdXQoIkMiLCAiMSIpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obXVsdGltYXAuZ2V0KCJBIikpOwogICAgICAgIGZvciAoU3RyaW5nIHZhbHVlIDogSW1tdXRhYmxlTGlzdC5jb3B5T2YobXVsdGltYXAuZ2V0KCJBIikpKSB7CiAgICAgICAgICAgIG11bHRpbWFwLnJlbW92ZSgiQSIsIHZhbHVlKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG11bHRpbWFwLmdldCgiQSIpKTsKCiAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBtYXBUZXN0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG1hcFRlc3QucHV0KCJhIiwgIjEiKTsKICAgICAgICBtYXBUZXN0LnB1dCgiYyIsIG51bGwpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtYXBUZXN0KTsKCiAgICAgICAgbWFwVGVzdCA9IG5ldyBMaW5rZWRIYXNoTWFwPD4oKTsKICAgICAgICBtYXBUZXN0LnB1dCgiYSIsICIxIik7CiAgICAgICAgbWFwVGVzdC5wdXQoImMiLCBudWxsKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFwVGVzdCk7CgogICAgICAgIG1hcFRlc3QgPSBuZXcgTGlua2VkQ2FzZUluc2Vuc2l0aXZlTWFwPD4oKTsKICAgICAgICBtYXBUZXN0LnB1dCgiYSIsICIxIik7CiAgICAgICAgbWFwVGVzdC5wdXQoImMiLCBudWxsKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWFwVGVzdCk7CgogICAgICAgIG1hcFRlc3QgPSBuZXcgSWdub3JlQ2FzZU1hcDw+KCk7CiAgICAgICAgbWFwVGVzdC5wdXQoImEiLCAiMSIpOwogICAgICAgIG1hcFRlc3QucHV0KCJjIiwgbnVsbCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hcFRlc3QpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRGF0ZUhlbHBlci5mcm9tRGF0ZVRpbWUoIjIwMTcxMDAxMTIzNDU2IikuZ2V0VGltZSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVXVpZEhlbHBlci5nZXRDbGVhblVwcGVyVXVpZCgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUmFuZG9tSGVscGVyLnJhbmRvbUFsbnVtKDE2KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKERpZ2VzdEJ1aWxkZXIubmV3QnVpbGRlcigpLmNvZGVjKENvZGVjcy5oZXhfdXBwZXIpLmJ1aWxkKCJNRDUiKS5kaWdlc3QKICAgICAgICAgICAgICAgICgiMHwxMzAxMjM0NTY3OHx0ZXN0fDE1MDY4MzI0OTY3MDF8RjlrQ0o5Y21RMWVGTWFadSIpKTsKCi8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tIik7Ci8vICAgICAgICBmb250VGVzdCgpOwoKICAgICAgICBhbm5vdGF0aW9uVGVzdChUZXN0MS5jbGFzcyk7CiAgICAgICAgYW5ub3RhdGlvblRlc3QoVGVzdDIuY2xhc3MpOwogICAgICAgIGFubm90YXRpb25UZXN0KFRlc3QzLmNsYXNzKTsKICAgICAgICBhbm5vdGF0aW9uVGVzdChUZXN0NC5jbGFzcyk7CgogICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmFkZFNodXRkb3duSG9vayhuZXcgVGhyZWFkKCgpIC0+IFN5c3RlbS5vdXQucHJpbnRsbigxKSkpOwogICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmFkZFNodXRkb3duSG9vayhuZXcgVGhyZWFkKCgpIC0+IFN5c3RlbS5vdXQucHJpbnRsbigyKSkpOwogICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmFkZFNodXRkb3duSG9vayhuZXcgVGhyZWFkKCgpIC0+IFN5c3RlbS5vdXQucHJpbnRsbigzKSkpOwogICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmFkZFNodXRkb3duSG9vayhuZXcgVGhyZWFkKCgpIC0+IFN5c3RlbS5vdXQucHJpbnRsbig0KSkpOwogICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmFkZFNodXRkb3duSG9vayhuZXcgVGhyZWFkKCgpIC0+IFN5c3RlbS5vdXQucHJpbnRsbig1KSkpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsKICAgICAgICBNZXRob2QgbWV0aG9kID0gUXVldWVIZWxwZXIuY2xhc3MuZ2V0TWV0aG9kKCJzZW5kTWVzc2FnZSIsIFN0cmluZy5jbGFzcywgT2JqZWN0LmNsYXNzKTsKICAgICAgICBBZnRlckNvbW1pdCBhZnRlckNvbW1pdCA9IG5ldyBBc3BlY3RBbm5vdGF0aW9uQ2FjaGU8PihBZnRlckNvbW1pdC5jbGFzcykKICAgICAgICAgICAgICAgIC5nZXRBbm5vdGF0aW9uKFF1ZXVlSGVscGVyLmNsYXNzLCBtZXRob2QpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhZnRlckNvbW1pdCk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwoKICAgICAgICBTdHJpbmcgcmVnZXggPSAiListU05BUFNIT1QkfFJFTEVBU0V8TEFURVNUfFtcXFsoXS4rP1tdKV0iOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihSZWdleEhlbHBlci5tYXRjaGVzKCIxLjAuMC1TTkFQU0hPVCIsIHJlZ2V4KSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFJlZ2V4SGVscGVyLm1hdGNoZXMoIlJFTEVBU0UiLCByZWdleCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihSZWdleEhlbHBlci5tYXRjaGVzKCJMQVRFU1QiLCByZWdleCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihSZWdleEhlbHBlci5tYXRjaGVzKCJbMS4wLjAsMi4wLjApIiwgcmVnZXgpKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCItLS0tIik7CiAgICAgICAgSnNvbk1hcHBlciBqc29uTWFwcGVyID0gSmFja3NvbkJ1aWxkZXIuanNvbigpLmJ1aWxkKCk7Ci8vICAgICAgICBqc29uTWFwcGVyLmVuYWJsZURlZmF1bHRUeXBpbmcoRGVmYXVsdFR5cGluZy5OT05fRklOQUwsIEFzLlBST1BFUlRZKTsKLy8gICAgICAgIGpzb25NYXBwZXIuc2V0VHlwZUZhY3RvcnkoVHlwZUZhY3RvcnkuZGVmYXVsdEluc3RhbmNlKCkud2l0aENsYXNzTG9hZGVyKENsYXNzTG9hZGVyLmdldFN5c3RlbUNsYXNzTG9hZGVyKCkpKTsKCiAgICAgICAgVG9rZW4gdG9rZW4gPSBuZXcgTXlUb2tlbigidXNlcm5hbWUiLCAiYWNjZXNzVG9rZW4iKTsKLy8gICAgICAgIFN0cmluZyBqc29uID0ganNvbk1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcodG9rZW4pOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGpzb24pOwoKLy8gICAgICAgIE9iamVjdCBvYmplY3QgPSBqc29uTWFwcGVyLnJlYWRWYWx1ZShqc29uLCBPYmplY3QuY2xhc3MpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9iamVjdCk7CgogICAgICAgIE9iamVjdE5vZGUgbm9kZSA9IGpzb25NYXBwZXIuY29udmVydFZhbHVlKHRva2VuLCBPYmplY3ROb2RlLmNsYXNzKTsKICAgICAgICBub2RlLnB1dCgiQHR5cGUiLCB0b2tlbi5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSk7CiAgICAgICAgU3RyaW5nIGpzb24gPSBub2RlLnRvU3RyaW5nKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5vZGUpOwoKICAgICAgICBKc29uTm9kZSBqc29uTm9kZSA9IGpzb25NYXBwZXIucmVhZFZhbHVlKGpzb24sIEpzb25Ob2RlLmNsYXNzKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbk5vZGUpOwoKICAgICAgICBpZiAoanNvbk5vZGUuaXNPYmplY3QoKSkgewogICAgICAgICAgICBTdHJpbmcgdHlwZSA9IHJlYWRKc29uTm9kZShqc29uTm9kZSwgIkB0eXBlIikuYXNUZXh0KCIiKTsKICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkodHlwZSkpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0eXBlKTsKICAgICAgICAgICAgICAgIE9iamVjdCBvYmplY3QgPSBqc29uTWFwcGVyLmNvbnZlcnRWYWx1ZShqc29uTm9kZSwgTXlUb2tlbi5jbGFzcyk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob2JqZWN0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KCgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiLS0tLSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
