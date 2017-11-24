@@ -92,6 +92,8 @@
         <mark key="." line="22" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar!/okhttp3/OkHttpClient.class" timestamp="1511447608002" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/jsontype/TypeIdResolver.java" timestamp="1511500156435" />
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/type/TypeFactory.java" timestamp="1511500262647" />
       <file name="$MAVEN_REPOSITORY$/org/kie/kie-api/7.4.1.Final/kie-api-7.4.1.Final-sources.jar!/org/kie/api/runtime/StatelessKieSession.java" timestamp="1511416325540" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/TransactionHelper.java" timestamp="1510821047872">
         <mark key="[" line="53" column="9" />
@@ -1716,6 +1718,7 @@
         <mark key="^" line="71" column="47" />
         <mark key="." line="71" column="47" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2-sources.jar!/com/fasterxml/jackson/databind/jsontype/impl/TypeDeserializerBase.java" timestamp="1511500134300" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/aspect/WithDataSourceConfigurer.java" timestamp="1511007418285">
         <mark key="[" line="8" column="44" />
         <mark key="]" line="8" column="47" />
