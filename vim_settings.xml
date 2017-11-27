@@ -88,6 +88,12 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/pom.xml" timestamp="1511755229591">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/TransactionHelper.java" timestamp="1510821047872">
         <mark key="[" line="53" column="9" />
         <mark key="]" line="54" column="7" />
@@ -1716,11 +1722,11 @@
         <mark key="." line="64" column="33" />
         <mark key="^" line="64" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/www4j-rules-knowledge-demo1/src/test/java/com/gingkoo/www4j/rules/demo1/SerializerTest.java" timestamp="1511750229757">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/www4j-rules-knowledge-demo1/src/test/java/com/gingkoo/www4j/rules/demo1/SerializerTest.java" timestamp="1511755048823">
         <mark key="[" line="57" column="61" />
-        <mark key="]" line="57" column="60" />
-        <mark key="." line="57" column="60" />
-        <mark key="^" line="57" column="60" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="44" />
+        <mark key="^" line="58" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/www4j/schedule/config/ScheduleDataSourceConfigurer.java" timestamp="1510915093333">
         <mark key="[" line="4" column="37" />
@@ -1793,7 +1799,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>RELEASE</text>
@@ -1805,22 +1811,22 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q2xvc2UgIzIyLCBBZGQgcmVmZXJlbmNlIGlkIHRvIEp6U21zCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKGdldENsYXNzKCkpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RW5oYW5jZW1lbnQgZm9yIExvZ2JhY2tDb25maWd1cmF0b3IgdG8gcmVhZCAvY29uZmlncy9sb2diYWNrLnhtbAo=</text>
+        <text encoding="base64">Q2xvc2UgIzIyLCBBZGQgcmVmZXJlbmNlIGlkIHRvIEp6U21zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q2xvc2UgIzc4LCBVc2UgT2tIdHRwIGluc3RlYWQgb2YgSHR0cENvbXBvbmVudAo=</text>
+        <text encoding="base64">RW5oYW5jZW1lbnQgZm9yIExvZ2JhY2tDb25maWd1cmF0b3IgdG8gcmVhZCAvY29uZmlncy9sb2diYWNrLnhtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xvc2UgIzc4LCBVc2UgT2tIdHRwIGluc3RlYWQgb2YgSHR0cENvbXBvbmVudAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1829,10 +1835,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmdldFJlc291cmNlQXNTdHJlYW0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmkK</text>
+        <text encoding="base64">ICAgICAgICBnZXRDbGFzcygpLmdldFJlc291cmNlQXNTdHJlYW0oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
