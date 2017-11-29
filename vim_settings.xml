@@ -51,14 +51,12 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="src:table:/d40302fc/210bcb5a-7070-4eaa-b75e-1e90a9404c08/zoo.notice_message" timestamp="1511861717597" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/spring/Www4j-noticeManagerApiConfig.java" timestamp="1510125459209">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Comparator.java" timestamp="1511853504770" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/runtime/CloseableException.java" timestamp="1510581476067">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="31" />
@@ -107,7 +105,6 @@
         <mark key="^" line="41" column="43" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2.jar!/com/github/pagehelper/Page.class" timestamp="1511835959222" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/CipherWrapper.java" timestamp="1510556098446">
         <mark key="[" line="12" column="56" />
         <mark key="]" line="12" column="78" />
@@ -162,7 +159,6 @@
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeReSender.java" timestamp="1511865331020" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/pom.xml" timestamp="1511755229591">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -283,8 +279,9 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/Headers.java" timestamp="1511855788827" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java" timestamp="1511864582119" />
+      <file name="/a.sql" timestamp="1511922311159">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/src/main/java/com/gingkoo/www4j/notice/channel/sms/cl/bean/request/ClCountedRequest.java" timestamp="1511247603349">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="29" />
@@ -429,7 +426,6 @@
         <mark key="^" line="126" column="22" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/OkHttpClientFactoryBean.java" timestamp="1511854861812" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/target/zoo-webapp-1.24.0-SNAPSHOT/pages/guide.html" timestamp="1510801344030">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="19" />
@@ -478,7 +474,6 @@
         <mark key="^" line="30" column="31" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/RequestBody.java" timestamp="1511858184519" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/codec/AbstractCodec.java" timestamp="1510555456975">
         <mark key="[" line="8" column="60" />
         <mark key="]" line="8" column="59" />
@@ -581,7 +576,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-facility/2.3.0-SNAPSHOT/www4j-facility-2.3.0-20171128.100732-27.jar!/com/gingkoo/www4j/facility/bean/RandomHelper.class" timestamp="1511864536999" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/exception/WrapRuntimeException.java" timestamp="1510194192705">
         <mark key="[" line="6" column="63" />
         <mark key="]" line="6" column="64" />
@@ -594,7 +588,6 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-db/src/main/resources/com/gingkoo/www4j/notice/db/mapper/NoticeMapper.xml" timestamp="1511861836403" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/TableHelper.java" timestamp="1510215937234">
         <mark key="[" line="66" column="60" />
         <mark key="]" line="67" column="11" />
@@ -619,21 +612,18 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/ResponseBody.java" timestamp="1511856588511" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/CloseableKieSession.java" timestamp="1511433730871">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/gingkoo/www4j/www4j-facility/2.3.0-SNAPSHOT/www4j-facility-2.3.0-20171127.031347-24.jar!/com/gingkoo/www4j/facility/collection/IgnoreCaseMap.class" timestamp="1511837710971" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/flow/LoanFlowServiceImpl.java" timestamp="1510754369378">
         <mark key="[" line="345" column="9" />
         <mark key="]" line="346" column="7" />
         <mark key="." line="346" column="7" />
         <mark key="^" line="346" column="7" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ListIterator.java" timestamp="1511837435697" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-web-parent/www4j-notice-manager-web/src/test/resources/configs/generator.yaml" timestamp="1510129111908">
         <mark key="[" line="1" column="38" />
         <mark key="]" line="1" column="38" />
@@ -682,7 +672,7 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/runtime/BusinessRunnable.java" timestamp="1511864207887">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/runtime/BusinessRunnable.java" timestamp="1511921923279">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="36" />
@@ -766,7 +756,6 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/runtime/BusinessClosable.java" timestamp="1511864233712" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/codec/Codec.java" timestamp="1510555490055">
         <mark key="[" line="17" column="58" />
         <mark key="]" line="17" column="53" />
@@ -827,7 +816,7 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511865621413">
+      <file name="/Dummy.txt" timestamp="1511923264362">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -881,7 +870,7 @@
         <mark key="." line="17" column="69" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/www4j-drools-rules-test1/src/test/java/com/gingkoo/www4j/drools/rules1/MessageTest.java" timestamp="1511864988221">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/www4j-drools-rules-test1/src/test/java/com/gingkoo/www4j/drools/rules1/MessageTest.java" timestamp="1511921962860">
         <mark key="[" line="75" column="51" />
         <mark key="]" line="75" column="51" />
         <mark key="." line="75" column="51" />
@@ -923,11 +912,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1511862200673">
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="42" />
-        <mark key="^" line="48" column="64" />
-        <mark key="." line="48" column="42" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/210bcb5a-7070-4eaa-b75e-1e90a9404c08/console.sql" timestamp="1511922260325">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-user/src/main/java/com/gingkoo/www4j/base/user/security/DatabaseGrantedAuthorityLoader.java" timestamp="1510306189860">
         <mark key="[" line="6" column="37" />
@@ -1109,14 +1098,12 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2.jar!/com/github/pagehelper/PageRowBounds.class" timestamp="1511836162988" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/HostnameHelper.java" timestamp="1510199584983">
         <mark key="[" line="54" column="8" />
         <mark key="]" line="54" column="63" />
         <mark key="." line="54" column="63" />
         <mark key="^" line="54" column="63" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java" timestamp="1511841235126" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-drools-rules/www4j-drools-rules-test2/src/main/resources/com/gingkoo/www4j/drools/rules2/TestRule.drl" timestamp="1511344890708">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
@@ -1357,7 +1344,6 @@
         <mark key="^" line="26" column="63" />
         <mark key="." line="26" column="63" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/MediaType.java" timestamp="1511858174230" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-para/src/main/java/com/gingkoo/www4j/base/para/BaseParaDataSourceHandler.java" timestamp="1510913845907">
         <mark key="[" line="23" column="46" />
         <mark key="]" line="23" column="59" />
@@ -1448,7 +1434,6 @@
         <mark key="^" line="30" column="35" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/util/StopWatch.class" timestamp="1511840682638" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/ReleaseId.java" timestamp="1511748485863">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="28" />
@@ -1473,7 +1458,6 @@
         <mark key="^" line="47" column="89" />
         <mark key="." line="47" column="89" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/http/MediaType.class" timestamp="1511860616533" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-web/src/main/java/com/gingkoo/zoo/web/security/MobileUserNotFoundService.java" timestamp="1510742300309">
         <mark key="[" line="97" column="82" />
         <mark key="]" line="97" column="82" />
@@ -1516,7 +1500,6 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/util/MultiValueMap.class" timestamp="1511855279747" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-server/src/main/resources/configs/jdbc.yaml" timestamp="1510132348222">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="38" />
@@ -1559,7 +1542,6 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java" timestamp="1511851875847" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-geoip/src/test/java/com/gingkoo/www4j/kafka/KafkaTest.java" timestamp="1510210164998">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1602,7 +1584,6 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2.jar!/com/github/pagehelper/PageInfo.class" timestamp="1511835946320" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/db/mapper/DatabaseMapper.java" timestamp="1510801826481">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="10" column="28" />
@@ -1819,7 +1800,6 @@
         <mark key="^" line="23" column="15" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/src/main/java/com/gingkoo/www4j/notice/manager/consts/NoticeMqConstants.java" timestamp="1511865474339" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/jackson/SeparatedDeserializer.java" timestamp="1510214126674">
         <mark key="[" line="72" column="17" />
         <mark key="]" line="72" column="17" />
@@ -1838,7 +1818,6 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Map.java" timestamp="1511855551586" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/cipher/PlainTextCipher.java" timestamp="1510556119310">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="74" />
@@ -1881,8 +1860,6 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/runtime/RunnableException.java" timestamp="1511864081204" />
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/Request.java" timestamp="1511859189800" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/DataSourceRegistry.java" timestamp="1511321500174">
         <mark key="[" line="61" column="8" />
         <mark key="]" line="74" column="8" />
@@ -1895,7 +1872,6 @@
         <mark key="^" line="45" column="8" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/Response.java" timestamp="1511856491813" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-loan-parent/zoo-loan-api/src/main/java/com/gingkoo/zoo/loan/kafka/KafkaDataService.java" timestamp="1510630902113">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
@@ -1946,11 +1922,11 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>'%</text>
       </register>
       <register name="-" type="4">
-        <text>RELEASE</text>
+        <text>'%</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -1959,34 +1935,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIE5PVElDRV9DSEFOTkVMX0xPQ0tfUFJJT1JJVFkgPSBOT1RJQ0VfQ0hBTk5FTF9MT0NLX1BSRUZJWCArICJjbGVhbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkIGxvY2sgdG8gbm90aWNlIHNjaGVkdWxlCg==</text>
+        <text encoding="base64">c2hvdyBPUEVOIFRBQkxFUyB3aGVyZSBJbl91c2UgPiAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
+        <text encoding="base64">U0hPVyBEQVRBQkFTRVMgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkIGxvY2sgdG8gbm90aWNlIHNjaGVkdWxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
