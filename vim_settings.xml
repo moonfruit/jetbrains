@@ -169,11 +169,10 @@
         <mark key="^" line="57" column="7" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1512358370834">
-        <mark key="[" line="353" column="35" />
-        <mark key="]" line="353" column="50" />
-        <mark key="." line="353" column="50" />
-        <mark key="^" line="353" column="50" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1512381753624">
+        <mark key="[" line="367" column="44" />
+        <mark key="]" line="367" column="44" />
+        <mark key="." line="367" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/pom.xml" timestamp="1512372537988">
         <mark key="[" line="10" column="0" />
@@ -608,6 +607,7 @@
         <mark key="." line="159" column="102" />
         <mark key="^" line="159" column="102" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/web/ServletHelper.java" timestamp="1512382040788" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/DroolsContainer.java" timestamp="1511947310648">
         <mark key="[" line="72" column="73" />
         <mark key="]" line="72" column="74" />
@@ -789,47 +789,47 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdFBhdGguZ2V0TmFtZSgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKHsiU3ByaW5nSmF2YUF1dG93aXJpbmdJbnNwZWN0aW9uIn0pCg==</text>
+        <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXBkYXRlIG5vdGljZSB0byB1c2UgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKHsiU3ByaW5nSmF2YUF1dG93aXJpbmdJbnNwZWN0aW9uIn0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlTm90aWNlQ2hhbm5lbCByZW1vdGVDaGFubmVsID0gcG9vbC5nZXRQZXJtYW5lbnRTZXJ2aWNlKAo=</text>
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlQmF0Y2hOb3RpY2VDaGFubmVsIHJlbW90ZUNoYW5uZWwgPSBwb29sLmdldFBlcm1hbmVudFNlcnZpY2UoCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgcmV0dXJuIG5ldyBEdWJib0JhdGNoTm90aWNlQ2hhbm5lbChyZW1vdGVDaGFubmVsKTsK</text>
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
