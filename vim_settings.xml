@@ -25,6 +25,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/pom.xml" timestamp="1512372791009" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/StringBeanHolder.java" timestamp="1512376042304" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/pom.xml" timestamp="1512372848568" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/NoticeChannelService.java" timestamp="1512108068412">
         <mark key="[" line="11" column="0" />
@@ -42,12 +43,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-server/pom.xml" timestamp="1512372926930" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServiceContext.java" timestamp="1512375374272">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="14" column="91" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-server/pom.xml" timestamp="1512377201162" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServiceContext.java" timestamp="1512376290689">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/pom.xml" timestamp="1512372557422">
         <mark key="[" line="12" column="30" />
@@ -55,7 +56,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1512373903011" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1512377022009">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="108" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-client/pom.xml" timestamp="1512372824326">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -187,6 +193,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-db/pom.xml" timestamp="1512372897072" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-client/pom.xml" timestamp="1512372567814" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-lssms/src/main/java/com/gingkoo/www4j/notice/channel/sms/ls/LsSmsNoticeChannel.java" timestamp="1512376687640" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/NoticeChannelRawService.java" timestamp="1512108072448">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -232,7 +239,12 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboBatchNoticeChannel.java" timestamp="1512373892290" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboBatchNoticeChannel.java" timestamp="1512377059572">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/api/controller/DemoDataSourceApiController.java" timestamp="1512353528330">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
@@ -268,12 +280,13 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/BeanHolder.java" timestamp="1512376134326" />
       <file name="/dummy.sql" timestamp="1512359454948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512373864883">
+      <file name="/Dummy.txt" timestamp="1512377435284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -326,11 +339,11 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>keyClass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name="-" type="4">
-        <text>keyClass</text>
+        <text>remoteChannel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -339,34 +352,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdFBhdGguZ2V0TmFtZSgwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBwbGljYXRpb25Db250ZXh0IGFwcGxpY2F0aW9uQ29udGV4dDsK</text>
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBpZiAoa2V5Q291bnRlci5jb21wdXRlSWZBYnNlbnQoa2V5LCBrIC0+IG5ldyBBdG9taWNJbnRlZ2VyKCkpLmRlY3JlbWVudEFuZEdldCgpID09IDApIHsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">dXBkYXRlIG5vdGljZSB0byB1c2UgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPER1YmJvU2VydmljZUtleTw/PiwgQXRvbWljSW50ZWdlcj4ga2V5Q291bnRlciA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmFnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlTm90aWNlQ2hhbm5lbCByZW1vdGVDaGFubmVsID0gcG9vbC5nZXRQZXJtYW5lbnRTZXJ2aWNlKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlQmF0Y2hOb3RpY2VDaGFubmVsIHJlbW90ZUNoYW5uZWwgPSBwb29sLmdldFBlcm1hbmVudFNlcnZpY2UoCiAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgcmV0dXJuIG5ldyBEdWJib0JhdGNoTm90aWNlQ2hhbm5lbChyZW1vdGVDaGFubmVsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgRHViYm9CYXRjaE5vdGljZUNoYW5uZWwoUmVtb3RlQmF0Y2hOb3RpY2VDaGFubmVsIGNoYW5uZWwpIHsKICAgICAgICBzdXBlcihjaGFubmVsKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5jb21wdXRlSWZQcmVzZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmtleSA9IGtleTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
