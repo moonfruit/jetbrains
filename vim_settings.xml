@@ -8,7 +8,7 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/pom.xml" timestamp="1512369665438" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/pom.xml" timestamp="1512370013637" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-server/pom.xml" timestamp="1512369708145" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/pom.xml" timestamp="1512369524239">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/pom.xml" timestamp="1512372557422">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
@@ -19,18 +19,23 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/pom.xml" timestamp="1512369494694">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/pom.xml" timestamp="1512372537988">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/pom.xml" timestamp="1512369549577" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/pom.xml" timestamp="1512372589701">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-base/pom.xml" timestamp="1512369655638" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-db/pom.xml" timestamp="1512369689713" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-db/src/main/java/com/gingkoo/www4j/notice/bean/MessageWithChannel.java" timestamp="1512370457813" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/pom.xml" timestamp="1512370634233" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-api/pom.xml" timestamp="1512369529346" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/pom.xml" timestamp="1512372526141" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-api/pom.xml" timestamp="1512372561916" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-lssms/pom.xml" timestamp="1512369679540" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-web-parent/www4j-notice-manager-web/pom.xml" timestamp="1512369623788" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-web-parent/pom.xml" timestamp="1512369618664" />
@@ -48,7 +53,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-db/pom.xml" timestamp="1512369590233" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-client/pom.xml" timestamp="1512369534632" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-client/pom.xml" timestamp="1512372567814" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-web-parent/www4j-notice-manager-webapp/pom.xml" timestamp="1512369628557" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/pom.xml" timestamp="1512370023990">
         <mark key="[" line="7" column="23" />
@@ -59,7 +64,7 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/pom.xml" timestamp="1512369607158" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRegistryImpl.java" timestamp="1512368998195" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-clsms/pom.xml" timestamp="1512369660427" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-server/pom.xml" timestamp="1512369545373" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-server/pom.xml" timestamp="1512372579356" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-server/pom.xml" timestamp="1512369611991" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-jzsms/pom.xml" timestamp="1512369675151" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-web-parent/www4j-files-webapp/pom.xml" timestamp="1512370723616">
@@ -80,10 +85,10 @@
         <mark key="^" line="177" column="57" />
         <mark key="." line="177" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-ri/pom.xml" timestamp="1512369540070" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-ri/pom.xml" timestamp="1512372575030" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-api/pom.xml" timestamp="1512369649851" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/pom.xml" timestamp="1512369579866" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-facility/pom.xml" timestamp="1512369506571" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-facility/pom.xml" timestamp="1512372547857" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -117,7 +122,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UHJvamVjdCBpbml0aWFsaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SNAPSHOT</text>
@@ -129,7 +134,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGVzdFBhdGguZ2V0TmFtZSgwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UHJvamVjdCBpbml0aWFsaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -138,25 +143,25 @@
         <text encoding="base64">UHJvamVjdCBpbml0aWFsaXplCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q2xvc2UgIzc5LCBidWcgZml4IGZvciBEcnVpZEJ1aWxkZXIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CmR1YmJvOgojIOazqOWGjOS4reW/gwogIHJlZ2lzdHJ5OiB6b29rZWVwZXI6Ly8xMC4xLjMuNTI6MjE4MT9iYWNrdXA9MTAuMS4zLjUzOjIxODEsMTAuMS4yLjMyOjIxODEKCiMg5rOo5YaMIElQIOWcsOWdgCAo6buY6K6k6Ieq5Yqo5o6i5rWLKQojICBob3N0OiAxMC4xLjIuMwoKIyDms6jlhoznq6/lj6MgKOm7mOiupOS9v+eUqOS4gOS4qjIwODgw5byA5aeL55qE5pyq6KKr5L2/55So55qE56uv5Y+jKQojICBwb3J0OiAyMDg4MAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">d3d3NGo6CiMg5bqU55So56iL5bqP5ZCN56ewCiAgbmFtZTogd3d3NGotcnVsZXMtY2xpZW50CgojIOW3peS9nOebruW9lQojICBob21lOiAvaG9tZS9hcHBsaWNhdGlvbgoKIyDosIPor5XmoIflv5cKIyAgZGVidWc6IGZhbHNlCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicmVzdWx0ID0ge30iLCByZXN1bHQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gc2VydmljZS50ZXN0KCJuYW1lIik7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">UHJvamVjdCBpbml0aWFsaXplCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Q2xvc2UgIzc5LCBidWcgZml4IGZvciBEcnVpZEJ1aWxkZXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmR1YmJvOgojIOazqOWGjOS4reW/gwogIHJlZ2lzdHJ5OiB6b29rZWVwZXI6Ly8xMC4xLjMuNTI6MjE4MT9iYWNrdXA9MTAuMS4zLjUzOjIxODEsMTAuMS4yLjMyOjIxODEKCiMg5rOo5YaMIElQIOWcsOWdgCAo6buY6K6k6Ieq5Yqo5o6i5rWLKQojICBob3N0OiAxMC4xLjIuMwoKIyDms6jlhoznq6/lj6MgKOm7mOiupOS9v+eUqOS4gOS4qjIwODgw5byA5aeL55qE5pyq6KKr5L2/55So55qE56uv5Y+jKQojICBwb3J0OiAyMDg4MAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">d3d3NGo6CiMg5bqU55So56iL5bqP5ZCN56ewCiAgbmFtZTogd3d3NGotcnVsZXMtY2xpZW50CgojIOW3peS9nOebruW9lQojICBob21lOiAvaG9tZS9hcHBsaWNhdGlvbgoKIyDosIPor5XmoIflv5cKIyAgZGVidWc6IGZhbHNlCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygicmVzdWx0ID0ge30iLCByZXN1bHQpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gc2VydmljZS50ZXN0KCJuYW1lIik7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmFsaWJhYmEuZHViYm8ubW9uaXRvci5kdWJiby5EdWJib01vbml0b3IiIGxldmVsPSJXQVJOIi8+Cg==</text>
+        <text encoding="base64">UHJvamVjdCBpbml0aWFsaXplCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
