@@ -234,7 +234,7 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-api/pom.xml" timestamp="1512372561916" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-api/pom.xml" timestamp="1512441999147" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-service-parent/www4j-rules-api/src/main/java/com/gingkoo/www4j/rules/RulesServiceImpl.java" timestamp="1512116025105">
         <mark key="[" line="53" column="37" />
         <mark key="]" line="53" column="64" />
@@ -607,7 +607,7 @@
         <mark key="." line="159" column="102" />
         <mark key="^" line="159" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/web/ServletHelper.java" timestamp="1512382040788" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/web/ServletHelper.java" timestamp="1512441946531" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-drools/src/main/java/com/gingkoo/www4j/rules/drools/DroolsContainer.java" timestamp="1511947310648">
         <mark key="[" line="72" column="73" />
         <mark key="]" line="72" column="74" />
@@ -676,7 +676,7 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512378417937">
+      <file name="/Dummy.txt" timestamp="1512441992924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -789,8 +789,8 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YnVnIGZpeAo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -802,7 +802,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
+        <text encoding="base64">YnVnIGZpeAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -811,22 +811,22 @@
         <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKHsiU3ByaW5nSmF2YUF1dG93aXJpbmdJbnNwZWN0aW9uIn0pCg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKHsiU3ByaW5nSmF2YUF1dG93aXJpbmdJbnNwZWN0aW9uIn0pCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">VXBkYXRlIHd3dzRqIHRvIDIuMy4wLVNOQVBTSE9UCg==</text>
