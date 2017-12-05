@@ -6,6 +6,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1512457449436" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-jpush/pom.xml" timestamp="1512372804539" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/pom.xml" timestamp="1512372791009" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1512460240103">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="20" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/StringBeanHolder.java" timestamp="1512376042304" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/Comparator.java" timestamp="1512457630925" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/pom.xml" timestamp="1512372848568" />
@@ -114,6 +120,7 @@
         <mark key="." line="123" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-web-parent/www4j-notice-manager-webapp/pom.xml" timestamp="1512372981507" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/JavaVersion.java" timestamp="1512459747614" />
       <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/ResponseBody.java" timestamp="1512457152342" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/service/DubboServicePool.java" timestamp="1512379907837">
         <mark key="[" line="55" column="66" />
@@ -183,11 +190,11 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-api/pom.xml" timestamp="1512372904296" />
       <file name="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar!/okio/BufferedSource.class" timestamp="1512457072513" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-api/pom.xml" timestamp="1512369579866" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1512456744844">
-        <mark key="[" line="899" column="29" />
-        <mark key="]" line="899" column="30" />
-        <mark key="." line="899" column="30" />
-        <mark key="^" line="291" column="29" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1512460197442">
+        <mark key="[" line="335" column="25" />
+        <mark key="]" line="341" column="24" />
+        <mark key="." line="341" column="24" />
+        <mark key="^" line="341" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-facility/pom.xml" timestamp="1512372547857" />
     </filemarks>
@@ -223,7 +230,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IElPVXRpbHMudG9TdHJpbmcoYm9keS5ieXRlU3RyZWFtKCksIGNoYXJzZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -235,34 +242,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLXJjMCIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IElPVXRpbHMudG9TdHJpbmcoYm9keS5ieXRlU3RyZWFtKCksIGNoYXJzZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IElPVXRpbHMudG9TdHJpbmcoYm9keS5ieXRlU3RyZWFtKCksIGNoYXJzZXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVnIGZpeAo=</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
+        <text encoding="base64">YnVnIGZpeAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhMiA9IGExOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVVJMRGVjb2Rlci5kZWNvZGUoVVJMRGVjb2Rlci5kZWNvZGUoYSwgIlVURi04IiksICJVVEYtOCIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJpbmdKYXZhSW5qZWN0aW9uUG9pbnRzQXV0b3dpcmluZ0luc3BlY3Rpb24iKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
