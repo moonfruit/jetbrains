@@ -374,10 +374,10 @@
         <mark key="." line="0" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/provider/AbstractFileObject.java" timestamp="1512528271560" />
-      <file name="/Dummy.txt" timestamp="1512542966337">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1512546664338">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" timestamp="1512369013156">
@@ -447,7 +447,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/provider/local/LocalFileSystem.java" timestamp="1512464195570" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/FileSystemManager.java" timestamp="1512530062967" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/provider/local/LocalFileNameParser.java" timestamp="1512530967926" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerChannelRawServiceImpl.java" timestamp="1512469493960">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerChannelRawServiceImpl.java" timestamp="1512546191891">
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
@@ -515,10 +515,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/provider/AbstractFileName.java" timestamp="1512528996759" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/constraints/IsNumberValidator.java" timestamp="1512456498931">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/FileSystem.java" timestamp="1512529556427" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/pom.xml" timestamp="1512121800907">
@@ -910,11 +910,12 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1512460796724">
-        <mark key="[" line="335" column="25" />
-        <mark key="]" line="341" column="24" />
-        <mark key="." line="341" column="24" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1512546516142">
+        <mark key="[" line="451" column="27" />
+        <mark key="]" line="451" column="28" />
+        <mark key="." line="451" column="28" />
         <mark key="^" line="341" column="24" />
+        <mark key="o" line="217" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -949,10 +950,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>for</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>for</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -960,35 +961,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygidHlwZU9mKGZpbGVPYmplY3QpID0ge30iLCBmaWxlT2JqZWN0LmdldENsYXNzKCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IE9yZGVyaW5nLm5hdHVyYWwoKS5vblJlc3VsdE9mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZSAtPiBlID09IG51bGwgPyAwIDogT3JkZXJlZEhlbHBlci5nZXRPcmRlcihlLmdldFZhbHVlKCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">VXBkYXRlIG1hdmVuIGRlcGVuZGVuY3kK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEZpbGUgYmFzZTsKCiAgICAgICAgICAgIGlmIChjb3JlQ29uZmlnICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGJhc2UgPSBjb3JlQ29uZmlnLmdldEhvbWUoKS50b0ZpbGUoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGJhc2UgPSBTeXN0ZW1VdGlscy5nZXRVc2VyRGlyKCk7CiAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">VXBkYXRlIG1hdmVuIGRlcGVuZGVuY3kK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvcmVDb25maWcgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">RW5oYW5jZW1lbnQgZm9yIER1YmJvU2VydmljZVBvb2wgcGVybWFuZW50IHNlcnZpY2UK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkKHJlcXVpcmVkID0gZmFsc2UpCiAgICBwcml2YXRlIENvcmVDb25maWcgY29yZUNvbmZpZzsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IE9yZGVyaW5nLm5hdHVyYWwoKS5vblJlc3VsdE9mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZSAtPiBlID09IG51bGwgPyAwIDogT3JkZXJlZEhlbHBlci5nZXRPcmRlcihlLmdldFZhbHVlKCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEZpbGUgYmFzZTsKCiAgICAgICAgICAgIGlmIChjb3JlQ29uZmlnICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGJhc2UgPSBjb3JlQ29uZmlnLmdldEhvbWUoKS50b0ZpbGUoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGJhc2UgPSBTeXN0ZW1VdGlscy5nZXRVc2VyRGlyKCk7CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvcmVDb25maWcgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlU3lzdGVtTWFuYWdlci5hZGRQcm92aWRlcihlbnRyeS5nZXRLZXkoKSwgZW50cnkuZ2V0VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkKHJlcXVpcmVkID0gZmFsc2UpCiAgICBwcml2YXRlIENvcmVDb25maWcgY29yZUNvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoRW50cnk8U3RyaW5nLCBGaWxlUHJvdmlkZXI+IGVudHJ5IDogbWFwLmVudHJ5U2V0KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hcCAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
