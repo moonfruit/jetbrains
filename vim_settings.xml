@@ -44,11 +44,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1512006914713">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-api/src/main/java/com/gingkoo/www4j/notice/NoticeChannelService.java" timestamp="1512108068412">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -82,11 +77,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="29" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/test.py" timestamp="1512636551940">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="53" />
-        <mark key="^" line="17" column="53" />
-        <mark key="." line="17" column="53" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/test.py" timestamp="1512642348911">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/constraints/IsNumberValidator.java" timestamp="1512456498931">
         <mark key="[" line="16" column="27" />
@@ -147,6 +142,7 @@
         <mark key="." line="57" column="12" />
         <mark key="^" line="57" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/base.py" timestamp="1512642715119" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/resources/configs/logback.xml" timestamp="1512358841984">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="66" />
@@ -185,13 +181,18 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1512634637360">
+      <file name="/Python Console" timestamp="1512642592631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1512634728290">
+      <file name="/fragment.py" timestamp="1512639184438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/jandan.py" timestamp="1512634604764" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/jandan.py" timestamp="1512642854256">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/db/table/bean/DemoTree.java" timestamp="1512616238030">
         <mark key="[" line="80" column="54" />
         <mark key="]" line="80" column="62" />
@@ -223,11 +224,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512543174871">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/vfs/ProxyFileProvider.java" timestamp="1512531434158">
         <mark key="[" line="34" column="42" />
         <mark key="]" line="34" column="53" />
@@ -254,6 +250,11 @@
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/daac0524-48ac-4a2c-bcf0-8f75360386c1/console.sql" timestamp="1512006914713">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenPlugin.java" timestamp="1512611308120">
         <mark key="[" line="4" column="36" />
@@ -298,14 +299,17 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1512543174871">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorPlugin.java" timestamp="1512616203797">
         <mark key="[" line="1338" column="42" />
         <mark key="]" line="1338" column="48" />
         <mark key="." line="1338" column="48" />
         <mark key="^" line="1338" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/job.py" timestamp="1512633827739" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/__init__.py" timestamp="1512636562428" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-rules/www4j-rules-knowledge-parent/www4j-rules-knowledge-demo/pom.xml" timestamp="1512550217673">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="15" />
@@ -389,7 +393,6 @@
         <mark key="." line="44" column="75" />
         <mark key="^" line="44" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/requirements.txt" timestamp="1512628399773" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/datasource/builder/DruidDataSourceBuilder.java" timestamp="1512353401650">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -457,6 +460,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/Django Console" timestamp="1512639526777">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-api/src/main/java/com/gingkoo/www4j/files/exception/Www4jFilesException.java" timestamp="1512121129825">
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="13" />
@@ -485,7 +491,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512633829521">
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/smzdm.py" timestamp="1512641917840" />
+      <file name="/Dummy.txt" timestamp="1512642999254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -505,10 +512,11 @@
       <file name="/manage.py@yysite" timestamp="1512630233659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/jandan.py" timestamp="1512637972566">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/jandan.py" timestamp="1512641829987">
+        <mark key="[" line="58" column="58" />
+        <mark key="]" line="60" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="60" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" timestamp="1512369013156">
         <mark key="[" line="177" column="64" />
@@ -522,11 +530,11 @@
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/static/jandan.js" timestamp="1512637966885">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/static/jandan.js" timestamp="1512641117339">
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/java/com/gingkoo/www4j/demo/db/table/bean/DemoPerson.java" timestamp="1512616227474">
         <mark key="[" line="161" column="15" />
@@ -572,46 +580,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGtleUFmdGVyKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci52YWx1ZU9mKDEpICsgJ3wnICsgIiIpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdFs6MTBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGtleUFmdGVyKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGtleUJlZm9yZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBzcmMuc3RhcnRzd2l0aCgnaHR0cCcpOgogICAgICAgICAgICAgICAgICAgIHNyYyA9ICdodHRwOicgKyBzcmMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBiZWZvcmUgPSBtZDUoa2V5LnN1YnN0cigwLCAxNikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNyYyA9IGltZ1snaHJlZiddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZCA9ICJERUNPREUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGltZyBpbiB0ZXh0LmZpbmRfYWxsKCdhJywgJ3ZpZXdfaW1nX2xpbmsnKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciB0bXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChtZXRob2QgPT09ICJERUNPREUiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB0YWlsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVybCA9IGRlY29kZShpbWcudGV4dCkKICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
