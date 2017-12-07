@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -123,6 +124,27 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value="INFO" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="de878b8d-4f36-4a20-b892-0ebee71d9ab6" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14784869" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="62898db9-4a6f-4b7d-b523-3a03777a71c1" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="cfa26123-d516-4a0b-b013-4977e79e59f3" />
                       <option name="style">
@@ -159,6 +181,23 @@
                           <option name="id" value="569e2cf8-8883-4dbc-a46c-22a0253f7ef7" />
                         </GrepStyle>
                       </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*\[DUBBO].*" />
+                      <option name="id" value="400e35e1-269d-49e6-85e7-e25ebcd5963a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="29750364-cfeb-4a18-8437-2ee0ff7604f8" />
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value="" />
                     </GrepExpressionItem>
                   </list>
                 </option>
