@@ -7,6 +7,14 @@
           <option name="fileName" value="MoreObjects.toStringHelper.omitNullValues()" />
           <option name="template" value="public java.lang.String toString() {&#10;return com.google.common.base.MoreObjects.toStringHelper(this).omitNullValues()&#10;#foreach ($member in $members)&#10;.add(&quot;$member.name&quot;, $member.accessor)&#10;#end&#10;.toString();&#10;}&#10;" />
         </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="MoreObjects.toStringHelper.forParent()" />
+          <option name="template" value="protected com.google.common.base.MoreObjects.ToStringHelper toStringHelper() {&#10;return com.google.common.base.MoreObjects.toStringHelper(this).omitNullValues()&#10;#foreach ($member in $members)&#10;.add(&quot;$member.name&quot;, $member.accessor)&#10;#end&#10;;&#10;}&#10;" />
+        </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="MoreObjects.toStringHelper.forChild()" />
+          <option name="template" value="protected com.google.common.base.MoreObjects.ToStringHelper toStringHelper() {&#10;return super.toStringHelper()&#10;#foreach ($member in $members)&#10;.add(&quot;$member.name&quot;, $member.accessor)&#10;#end&#10;;&#10;}&#10;" />
+        </TemplateResource>
       </list>
     </option>
   </component>
