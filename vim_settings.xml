@@ -61,11 +61,11 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/SecurityRedisTokenRepository.java" timestamp="1513050782017">
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="35" column="73" />
-        <mark key="^" line="35" column="73" />
-        <mark key="." line="35" column="73" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/SecurityRedisTokenRepository.java" timestamp="1513052721097">
+        <mark key="[" line="57" column="74" />
+        <mark key="]" line="57" column="73" />
+        <mark key="^" line="57" column="73" />
+        <mark key="." line="57" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-client/pom.xml" timestamp="1512372824326">
         <mark key="[" line="35" column="0" />
@@ -141,6 +141,7 @@
         <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityTokenConfig.java" timestamp="1513050099806" />
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/23.5-jre/guava-23.5-jre-sources.jar!/com/google/common/collect/ImmutableList.java" timestamp="1513052674551" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-api/src/main/java/com/gingkoo/www4j/files/Www4jFilesRawService.java" timestamp="1512121139323">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -312,10 +313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redisTokenList</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>redisTokenList</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -324,7 +325,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci52YWx1ZU9mKDEpICsgJ3wnICsgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVkaXNUb2tlbkxpc3QgPSBMaXN0cy50cmFuc2Zvcm0ocmVwb3NpdG9yeS5maW5kQnlVc2VySWQodXNlcklkKSwgUmVkaXNUb2tlbjo6Z2V0VG9rZW4pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -333,25 +334,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5L2/55So5oi355qE5omA5pyJIHRva2VuIOWkseaViAogICAgICoKICAgICAqIEBwYXJhbSB1c2VySWQg55So5oi35ZCNCiAgICAgKi8KICAgIHZvaWQgZXZpY3QoU3RyaW5nIHRvKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQoInVyaSIsIHVyaSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFmdGVyUHJvcGVydGllc1NldCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGlmIChlbmFibGUpIHsKICAgICAgICAgICAgQXNzZXJ0Lm5vdE51bGwodXJpLCAiQW4gVVJJIG11c3QgYmUgc2V0Iik7CiAgICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5L2/55So5oi355qE5omA5pyJIHRva2VuIOWkseaViAogICAgICoKICAgICAqIEBwYXJhbSB1c2VySWQg55So5oi35ZCNCiAgICAgKi8KICAgIHZvaWQgZXZpY3QoU3RyaW5nIHRvKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQoInVyaSIsIHVyaSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGFmdGVyUHJvcGVydGllc1NldCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGlmIChlbmFibGUpIHsKICAgICAgICAgICAgQXNzZXJ0Lm5vdE51bGwodXJpLCAiQW4gVVJJIG11c3QgYmUgc2V0Iik7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXJpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVUkkgZ2V0VXJpKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXJpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
