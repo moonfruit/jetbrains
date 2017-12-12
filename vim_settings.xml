@@ -19,11 +19,11 @@
         <mark key="." line="57" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesRawServiceImpl.java" timestamp="1513063787559" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513069103521">
-        <mark key="[" line="368" column="27" />
-        <mark key="]" line="368" column="27" />
-        <mark key="." line="368" column="27" />
-        <mark key="^" line="368" column="27" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513071975984">
+        <mark key="[" line="367" column="17" />
+        <mark key="]" line="367" column="23" />
+        <mark key="." line="367" column="23" />
+        <mark key="^" line="367" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-para/src/main/java/com/gingkoo/www4j/base/para/ParaServiceImpl.java" timestamp="1513060464498" />
       <file name="$MAVEN_REPOSITORY$/com/github/ben-manes/caffeine/caffeine/2.6.0/caffeine-2.6.0-sources.jar!/com/github/benmanes/caffeine/cache/Caffeine.java" timestamp="1513067283868" />
@@ -127,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>SECONDS</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>SECONDS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -139,34 +139,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigia2V5ID0gIiArIGtleSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFBhdGggbG9nID0gUGF0aHMuZ2V0KCJsb2ciKTsKICAgICAgICAgICAgbG9nLnJlZ2lzdGVyKHdhdGNoU2VydmljZSwgRU5UUllfQ1JFQVRFLCBFTlRSWV9ERUxFVEUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBydW5uYWJsZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgYm9vbGVhbiBydW5uYWJsZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVubmFibGUgPSBmYWxzZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3YXRjaFRlc3QoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2F0Y2hLZXkgbG9nS2V5Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBydW5uYWJsZSA9IHRydWU7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgYm9vbGVhbiBydW5uYWJsZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcnVubmFibGUgPSBmYWxzZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB3YXRjaFRlc3QoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgV2F0Y2hLZXkgbG9nS2V5Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uYWJsZSA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
