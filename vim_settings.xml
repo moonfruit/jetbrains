@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/repository/token/RedisTokenRepository.java" timestamp="1513050174369" />
-      <file name="/a.dummy" timestamp="1513066646706">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1513068228705" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE-sources.jar!/org/springframework/core/task/SimpleAsyncTaskExecutor.java" timestamp="1513068695633" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/AbstractTokenRepository.java" timestamp="1513050559448" />
@@ -18,7 +15,7 @@
         <mark key="^" line="57" column="73" />
         <mark key="." line="57" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesRawServiceImpl.java" timestamp="1513063787559" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesRawServiceImpl.java" timestamp="1513146264267" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513071975984">
         <mark key="[" line="367" column="17" />
         <mark key="]" line="367" column="23" />
@@ -30,6 +27,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2-sources.jar!/org/apache/commons/vfs2/impl/DefaultFileMonitor.java" timestamp="1513069356108" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/resources/com/gingkoo/spring/www4j-dubbo.xml" timestamp="1512979251938" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/lock/RedisLockManager.java" timestamp="1512982496250" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-api/src/main/java/com/gingkoo/www4j/files/FilesServiceImpl.java" timestamp="1513146074697">
+        <mark key="[" line="50" column="78" />
+        <mark key="]" line="50" column="78" />
+        <mark key="." line="50" column="78" />
+        <mark key="^" line="49" column="93" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/WatchServiceFactoryBean.java" timestamp="1513066313916">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="9" />
@@ -85,6 +88,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/spring/SecurityWebConfig.java" timestamp="1513048640966" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/TokenAuthenticationFilter.java" timestamp="1513050038297" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/config/FilesServiceConfig.java" timestamp="1513146362161" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/atomic/LongAdder.java" timestamp="1513066381117" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesDirectoryGenerator.java" timestamp="1513066665080" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/NoticeTaskRunner.java" timestamp="1512982239284" />
@@ -93,7 +97,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/file/StandardWatchEventKinds.java" timestamp="1513067815955" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/TokenAuthenticationProvider.java" timestamp="1513050027825" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1512977842021" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/file/Path.java" timestamp="1513064788329" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/file/Path.java" timestamp="1513146433626" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
