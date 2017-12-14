@@ -2,7 +2,6 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="HideActiveWindow" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
