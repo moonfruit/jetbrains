@@ -14,6 +14,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/.idea/biheaven-frontend.iml" timestamp="1513233264499" />
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/api/bean/ViewCfgBean.java" timestamp="1513239053443" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/dao/AppDao.java" timestamp="1513232475860" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/libraries/servlet.xml" timestamp="1513233314866">
         <mark key="[" line="4" column="45" />
@@ -21,6 +22,7 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/api/controller/BiDsConfigController.java" timestamp="1513239113298" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/out/artifacts/biheaven_backend_Web_exploded/WEB-INF/classes/log4j.properties" timestamp="1513235778452">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="20" />
@@ -60,6 +62,7 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/service/impl/BiDsConfigServiceImpl.java" timestamp="1513239191975" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/inspectionProfiles/Project_Default.xml" timestamp="1513232036427" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/ehcache.xml" timestamp="1513232431322" />
     </filemarks>
