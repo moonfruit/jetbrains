@@ -5,37 +5,15 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1513232087296" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/applicationContext.xml" timestamp="1513232410954" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/__init__.py" timestamp="1513219649737">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/util/GoogleAuth.java" timestamp="1513236961447" />
       <file name="/Python Console" timestamp="1513219665398">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesCounter.java" timestamp="1513070488584">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="77" column="50" />
-        <mark key="^" line="77" column="50" />
-        <mark key="." line="77" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/TokenRepository.java" timestamp="1513050695067">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/WebRoot/WEB-INF/web.xml" timestamp="1513232228375" />
       <file name="/a.dummy" timestamp="1513218401360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/.idea/biheaven-frontend.iml" timestamp="1513233264499" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/__init__.py" timestamp="1513218434496">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/dao/AppDao.java" timestamp="1513232475860" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/libraries/servlet.xml" timestamp="1513233314866">
         <mark key="[" line="4" column="45" />
@@ -49,33 +27,12 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/base.py" timestamp="1513219663070">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/util/GoogleAuthenticator.java" timestamp="1513237009932" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-server/src/main/resources/configs/dubbo.yaml" timestamp="1513236690127" />
       <file name="/Django Console" timestamp="1513219678206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/src/com/ruizton/main/service/admin/VirtualWalletService.java" timestamp="1513233223317" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/fetcher.py" timestamp="1513219323385">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/CachedTokenRepository.java" timestamp="1513050751989">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="29" />
-        <mark key="^" line="67" column="29" />
-        <mark key="." line="67" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-api/src/main/java/com/gingkoo/www4j/files/FilesServiceImpl.java" timestamp="1513146074697">
-        <mark key="[" line="50" column="78" />
-        <mark key="]" line="50" column="78" />
-        <mark key="." line="50" column="78" />
-        <mark key="^" line="49" column="93" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.gitignore" timestamp="1513231581579">
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="14" />
@@ -88,26 +45,11 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/feed/__init__.py" timestamp="1513217570428">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/WatchServiceFactoryBean.java" timestamp="1513066313916">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/SecurityRedisTokenRepository.java" timestamp="1513052721097">
-        <mark key="[" line="57" column="74" />
-        <mark key="]" line="57" column="73" />
-        <mark key="^" line="57" column="73" />
-        <mark key="." line="57" column="73" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513235801997">
+      <file name="/Dummy.txt" timestamp="1513236916929">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/qqconnectconfig.properties" timestamp="1513236890199" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/ruizton.properties" timestamp="1513236916213" />
       <file name="/manage.py@yysite" timestamp="1513218570634">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,23 +59,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513217145770">
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="367" column="23" />
-        <mark key="." line="367" column="23" />
-        <mark key="^" line="367" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1513049863144">
-        <mark key="[" line="136" column="16" />
-        <mark key="]" line="137" column="16" />
-        <mark key="^" line="137" column="16" />
-        <mark key="." line="137" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/settings.py" timestamp="1513219282664">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/inspectionProfiles/Project_Default.xml" timestamp="1513232036427" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/ehcache.xml" timestamp="1513232431322" />
