@@ -1,6 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ Mine" parent="Mac OS X 10.5+">
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="GuiDesigner.IncreaseIndent">
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
