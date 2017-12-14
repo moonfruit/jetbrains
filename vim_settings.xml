@@ -9,6 +9,14 @@
         <mark key="^" line="77" column="50" />
         <mark key="." line="77" column="50" />
       </file>
+      <file name="/a.dummy" timestamp="1513218401360">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/__init__.py" timestamp="1513218434496">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/CachedTokenRepository.java" timestamp="1513050751989">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="29" />
@@ -33,11 +41,39 @@
         <mark key="^" line="137" column="16" />
         <mark key="." line="137" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/settings.py" timestamp="1513219282664">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/__init__.py" timestamp="1513219649737">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="/Python Console" timestamp="1513219665398">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/TokenRepository.java" timestamp="1513050695067">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="16" column="31" />
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/base.py" timestamp="1513219663070">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+      </file>
+      <file name="/Django Console" timestamp="1513219678206">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/fetcher.py" timestamp="1513219323385">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-api/src/main/java/com/gingkoo/www4j/files/FilesServiceImpl.java" timestamp="1513146074697">
         <mark key="[" line="50" column="78" />
@@ -56,10 +92,15 @@
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513217526392">
+      <file name="/Dummy.txt" timestamp="1513218600337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/logging.py" timestamp="1513217577037" />
+      <file name="/manage.py@yysite" timestamp="1513218570634">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/models.py" timestamp="1513218758425" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/admin.py" timestamp="1513218799368" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/logging.py" timestamp="1513218252193" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -92,11 +133,11 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>SECONDS</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -105,34 +146,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigia2V5ID0gIiArIGtleSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB5eWZlZWQubW9kZWxzLmZldGNoZXIgaW1wb3J0IGZldGNoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHl5ZmVlZC5tb2RlbHMuZmV0Y2hlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFBhdGggbG9nID0gUGF0aHMuZ2V0KCJsb2ciKTsKICAgICAgICAgICAgbG9nLnJlZ2lzdGVyKHdhdGNoU2VydmljZSwgRU5UUllfQ1JFQVRFLCBFTlRSWV9ERUxFVEUpOwo=</text>
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaChmZWVkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBydW5uYWJsZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ZnJvbSB5eWZlZWQubW9kZWxzLmZldGNoZXIgaW1wb3J0IGZldGNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9sYXRpbGUgYm9vbGVhbiBydW5uYWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2goZmVlZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVubmFibGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">ZnJvbSB5eWZlZWQuZmV0Y2hlciBpbXBvcnQgRmV0Y2hlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3YXRjaFRlc3QoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2F0Y2hLZXkgbG9nS2V5Owo=</text>
+        <text encoding="base64">ICAgIEZFVENIRVIgPSBGZXRjaGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
