@@ -3,15 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/SecurityRedisTokenRepository.java" timestamp="1513052721097">
-        <mark key="[" line="57" column="74" />
-        <mark key="]" line="57" column="73" />
-        <mark key="^" line="57" column="73" />
-        <mark key="." line="57" column="73" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513218600337">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/inspectionProfiles/profiles_settings.xml" timestamp="1513232087296" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/applicationContext.xml" timestamp="1513232410954" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/util/GoogleAuth.java" timestamp="1513236961447" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/__init__.py" timestamp="1513219649737">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="26" />
@@ -33,48 +27,38 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/WebRoot/WEB-INF/web.xml" timestamp="1513232228375" />
       <file name="/a.dummy" timestamp="1513218401360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/manage.py@yysite" timestamp="1513566078213">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/.idea/biheaven-frontend.iml" timestamp="1513233264499" />
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/api/bean/ViewCfgBean.java" timestamp="1513239053443" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/dao/AppDao.java" timestamp="1513232475860" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/libraries/servlet.xml" timestamp="1513233314866">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/__init__.py" timestamp="1513218434496">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/api/controller/BiDsConfigController.java" timestamp="1513239113298" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/out/artifacts/biheaven_backend_Web_exploded/WEB-INF/classes/log4j.properties" timestamp="1513235778452">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513217145770">
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="367" column="23" />
-        <mark key="." line="367" column="23" />
-        <mark key="^" line="367" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1513049863144">
-        <mark key="[" line="136" column="16" />
-        <mark key="]" line="137" column="16" />
-        <mark key="^" line="137" column="16" />
-        <mark key="." line="137" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/base.py" timestamp="1513566050491">
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/base.py" timestamp="1513219663070">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="46" />
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/settings.py" timestamp="1513219282664">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1513566061390">
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/util/GoogleAuthenticator.java" timestamp="1513240171335" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-server/src/main/resources/configs/dubbo.yaml" timestamp="1513236690127" />
+      <file name="/Django Console" timestamp="1513219678206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/fetcher.py" timestamp="1513219323385">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/src/com/ruizton/main/service/admin/VirtualWalletService.java" timestamp="1513233223317" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/CachedTokenRepository.java" timestamp="1513050751989">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="29" />
@@ -87,16 +71,71 @@
         <mark key="." line="50" column="78" />
         <mark key="^" line="49" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/feed/__init__.py" timestamp="1513217570428">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.gitignore" timestamp="1513231581579">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/log4j.properties" timestamp="1513235799692">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/WatchServiceFactoryBean.java" timestamp="1513066313916">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/SecurityRedisTokenRepository.java" timestamp="1513052721097">
+        <mark key="[" line="57" column="74" />
+        <mark key="]" line="57" column="73" />
+        <mark key="^" line="57" column="73" />
+        <mark key="." line="57" column="73" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513561748457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/qqconnectconfig.properties" timestamp="1513236890199" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/ruizton.properties" timestamp="1513236916213" />
+      <file name="/manage.py@yysite" timestamp="1513218570634">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/.idea/libraries/servlet.xml" timestamp="1513233318866" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/resource/log4j.properties" timestamp="1513235815256">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/oms-server/oms-manager-web-parent/oms-manager-web/src/main/java/com/gingkoo/oms/manager/web/service/impl/BiDsConfigServiceImpl.java" timestamp="1513239191975" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513217145770">
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="367" column="23" />
+        <mark key="." line="367" column="23" />
+        <mark key="^" line="367" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1513561502725">
+        <mark key="[" line="136" column="16" />
+        <mark key="]" line="137" column="16" />
+        <mark key="^" line="137" column="16" />
+        <mark key="." line="137" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/inspectionProfiles/Project_Default.xml" timestamp="1513232036427" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" timestamp="1513562408500">
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="41" column="69" />
+        <mark key="^" line="41" column="69" />
+        <mark key="." line="41" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/ehcache.xml" timestamp="1513232431322" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1513561926873">
+        <mark key="[" line="430" column="31" />
+        <mark key="]" line="430" column="32" />
+        <mark key="." line="430" column="32" />
+        <mark key="^" line="430" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -130,47 +169,47 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiZG1yIikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigia2V5ID0gIiArIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLU0xIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB5eWZlZWQubW9kZWxzLmZldGNoZXIgaW1wb3J0IGZldGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiZG1yIikpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHl5ZmVlZC5tb2RlbHMuZmV0Y2hlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5tYXRjaGVzKCIuKlsuLV0oYnxyY3xNKVxcZCsiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlVbnJlc29sdmVkUmVmZXJlbmNlcwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbHRlcihhcnRpZmFjdCAtPiAhYXJ0aWZhY3QuZ2V0VmVyc2lvbigpLmNvbnRhaW5zKCIudCIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5mZXRjaChmZWVkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLXJldiIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB5eWZlZWQubW9kZWxzLmZldGNoZXIgaW1wb3J0IGZldGNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLnQiKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2goZmVlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLXJldiIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB5eWZlZWQuZmV0Y2hlciBpbXBvcnQgRmV0Y2hlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiZG1yIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLWJldGEiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZFVENIRVIgPSBGZXRjaGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLXJjMSIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
