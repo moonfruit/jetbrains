@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesCounter.java" timestamp="1513668982701">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesCounter.java" timestamp="1513676618259">
         <mark key="[" line="112" column="15" />
         <mark key="]" line="114" column="23" />
         <mark key="." line="114" column="23" />
@@ -12,12 +12,6 @@
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-job/src/main/java/com/gingkoo/www4j/base/job/BaseJobScheduleConfigurer.java" timestamp="1513584523327" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/commquery/process/call/BaseAlterActionProcess.java" timestamp="1513664786321" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/schema-oracle.sql" timestamp="1513582546555" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/out/artifacts/biheaven_backend_Web_exploded/WEB-INF/classes/log4j.properties" timestamp="1513235778452">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1513587714860">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -32,18 +26,6 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/webapp/WEB-INF/views/demo/home.ftl" timestamp="1513675638577" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/security/GlobalInfoAuthenticationFilter.java" timestamp="1513665097746" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/CachedTokenRepository.java" timestamp="1513050751989">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="29" />
-        <mark key="^" line="67" column="29" />
-        <mark key="." line="67" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/log4j.properties" timestamp="1513235799692">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/python/jython-standalone/2.7.1/jython-standalone-2.7.1.jar!/org/python/version.properties" timestamp="1513587525493" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/src/spring/security.xml" timestamp="1513664997103" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/platform/user/ftl/UserMngRoleInfo.ftl" timestamp="1513672860241">
@@ -52,12 +34,6 @@
         <mark key="." line="3" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/python/jython-standalone/2.7.1/jython-standalone-2.7.1.jar!/org/python/util/JLineConsole.class" timestamp="1513587675893" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/SecurityRedisTokenRepository.java" timestamp="1513052721097">
-        <mark key="[" line="57" column="74" />
-        <mark key="]" line="57" column="73" />
-        <mark key="^" line="57" column="73" />
-        <mark key="." line="57" column="73" />
-      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/operation/OPCaller.java" timestamp="1513664938744" />
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-pipeline/Jenkinsfile" timestamp="1513580092721">
         <mark key="[" line="25" column="16" />
@@ -69,18 +45,6 @@
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/lib/shiro-all-1.2.1.jar!/org/apache/shiro/web/filter/authc/AuthenticationFilter.class" timestamp="1513665046093" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE.pom" timestamp="1513581024625" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/commquery/process/base/_SaveOrUpdateProcess.java" timestamp="1513664772303" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1513583557519">
-        <mark key="[" line="361" column="41" />
-        <mark key="]" line="365" column="34" />
-        <mark key="^" line="365" column="34" />
-        <mark key="." line="365" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1513561502725">
-        <mark key="[" line="136" column="16" />
-        <mark key="]" line="137" column="16" />
-        <mark key="^" line="137" column="16" />
-        <mark key="." line="137" column="16" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/python/jython-standalone/2.7.1/jython-standalone-2.7.1.jar!/org/python/util/jython.class" timestamp="1513587619708" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" timestamp="1513583544493">
         <mark key="[" line="42" column="25" />
@@ -89,69 +53,23 @@
         <mark key="." line="42" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/FileUtils.java" timestamp="1513669631058" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/__init__.py" timestamp="1513219649737">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-security/src/main/java/com/gingkoo/www4j/security/token/TokenRepository.java" timestamp="1513050695067">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/dwr.xml" timestamp="1513664762585" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/jandan.py" timestamp="1513568967104">
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="70" column="34" />
-        <mark key="." line="70" column="34" />
-        <mark key="^" line="70" column="34" />
-      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/entity/EntityProxy.java" timestamp="1513676128578" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-schedule/src/main/java/com/gingkoo/spring/ScheduleAppConfig.java" timestamp="1513584465281" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/libraries/servlet.xml" timestamp="1513233314866">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="52" />
-        <mark key="." line="4" column="52" />
-        <mark key="^" line="4" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/base.py" timestamp="1513219663070">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="46" />
-        <mark key="^" line="18" column="46" />
-        <mark key="." line="18" column="46" />
-      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/lib/spring-session-1.3.1.RELEASE.jar!/org/springframework/session/jdbc/schema-oracle.sql" timestamp="1513581764029" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/operation/orm/HQLDAO.java" timestamp="1513580479436" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/entity/EntityServiceImpl.java" timestamp="1513676277791" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/templets/commonQuery/CommonQueryTagMacro.ftl" timestamp="1513672603214" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/commquery/process/call/BaseAlterAction.java" timestamp="1513664799236" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/web.xml" timestamp="1513665128835" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/fetcher.py" timestamp="1513567942325">
-        <mark key="[" line="33" column="77" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="15" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/nio/file/FileSystem.java" timestamp="1513668995191" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-api/src/main/java/com/gingkoo/www4j/files/FilesServiceImpl.java" timestamp="1513146074697">
-        <mark key="[" line="50" column="78" />
-        <mark key="]" line="50" column="78" />
-        <mark key="." line="50" column="78" />
-        <mark key="^" line="49" column="93" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.gitignore" timestamp="1513231581579">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/WatchServiceFactoryBean.java" timestamp="1513584631340">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
         <mark key="^" line="8" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513664968845">
+      <file name="/Dummy.txt" timestamp="1513675977767">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,35 +78,18 @@
       <file name="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/monitor/FileAlterationObserver.java" timestamp="1513669201856" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-geoip/src/bin/update.sh" timestamp="1513582596920" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-para/src/main/java/com/gingkoo/www4j/base/para/BaseParaRepository.java" timestamp="1513584510501" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/resource/log4j.properties" timestamp="1513235815256">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/templets/commonQuery/BankCommonQueryEditType.ftl" timestamp="1513672452935" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/admin.py" timestamp="1513568104011">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="82" />
-        <mark key="." line="26" column="82" />
-        <mark key="^" line="26" column="82" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-webapp/src/main/resources/configs/multiJdbc.yaml" timestamp="1513585682634">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="24" />
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/common/CommonBaseService.java" timestamp="1513676521810" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/filter/UrlAuthorizationFilter.java" timestamp="1513665190125">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1513587722671">
-        <mark key="[" line="850" column="0" />
-        <mark key="]" line="850" column="0" />
-        <mark key="." line="850" column="0" />
-        <mark key="^" line="997" column="29" />
       </file>
     </filemarks>
     <jumps>
