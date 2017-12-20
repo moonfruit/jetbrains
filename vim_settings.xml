@@ -3,27 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/ebank/business/management/service/UserMgrService.java" timestamp="1513739679514" />
+      <file name="/Dummy.txt" timestamp="1513737490573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-files/www4j-files-service-parent/www4j-files-ri/src/main/java/com/gingkoo/www4j/files/FilesCounter.java" timestamp="1513741126426">
+        <mark key="q" line="79" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="l" line="80" column="10" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1513587714860">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/hibernate-core-3.6.10.Final.jar!/org/hibernate/transaction/JDBCTransaction.class" timestamp="1513738531744" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/bin/framework/com/gingkoo/spring/applicationContext.xml" timestamp="1513737685815" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/filter/UrlAuthorizationFilter.java" timestamp="1513665190125">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/platform/user/ftl/UserMngRoleInfo.ftl" timestamp="1513736940847">
         <mark key="[" line="3" column="63" />
         <mark key="]" line="3" column="64" />
         <mark key="." line="3" column="64" />
         <mark key="^" line="3" column="66" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/hibernate-core-3.6.10.Final.jar!/org/hibernate/impl/SessionImpl.class" timestamp="1513738751639" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/hibernate-core-3.6.10.Final.jar!/org/hibernate/event/def/DefaultFlushEventListener.class" timestamp="1513738953041" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/operator/PswdValidteOP.java" timestamp="1513737416010" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/operation/SingleOPCaller.java" timestamp="1513737711642" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/init.properties" timestamp="1513736102011" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/operator/LoginManagerOP.java" timestamp="1513736716102" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/hibernate-core-3.6.10.Final.jar!/org/hibernate/engine/ActionQueue.class" timestamp="1513739226698" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/resources/com/gingkoo/views/demo/layout.ftl" timestamp="1513680692573">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -31,19 +38,6 @@
       </file>
       <file name="/dummy.sql" timestamp="1513739450935">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513737490573">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ideaLibSources/spring-tx-4.3.4.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java" timestamp="1513738148553" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1513736417300" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/hibernate-core-3.6.10.Final.jar!/org/hibernate/event/def/AbstractFlushingEventListener.class" timestamp="1513738972287" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/filter/UrlAuthorizationFilter.java" timestamp="1513665190125">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1513739224274">
         <mark key="[" line="0" column="0" />
@@ -80,8 +74,11 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCMtLW5vaW5zcGVjdGlvbiBIdG1sVW5rbm93blRhcmdldC0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHdhdGNoKCkgewogICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgIFdhdGNoS2V5IGtleTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGtleSA9IHdhdGNoU2VydmljZS50YWtlKCk7Cg==</text>
+      </register>
+      <register name="k" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -92,23 +89,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoYXJ0aWZhY3QgLT4gIWFydGlmYWN0LmdldFZlcnNpb24oKS5jb250YWlucygiLU0xIikpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PCMtLW5vaW5zcGVjdGlvbiBIdG1sVW5rbm93blRhcmdldC0tPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHdhdGNoKCkgewogICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgIFdhdGNoS2V5IGtleTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGtleSA9IHdhdGNoU2VydmljZS50YWtlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0LS0+Cg==</text>
+        <text encoding="base64">PCMtLW5vaW5zcGVjdGlvbiBIdG1sVW5rbm93blRhcmdldC0tPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCMtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0LS0+Cg==</text>
+        <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0IC0tPgo=</text>
+        <text encoding="base64">PCMtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0LS0+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0IC0tPgo=</text>
@@ -117,7 +114,7 @@
         <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0IC0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS1zdXBwcmVzcyBIdG1sVW5rbm93blRhcmdldCAtLT4K</text>
+        <text encoding="base64">PCEtLXN1cHByZXNzIEh0bWxVbmtub3duVGFyZ2V0IC0tPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDwhLS1zdXBwcmVzcyBIdG1sVW5rbm93blRhcmdldCAtLT4K</text>
