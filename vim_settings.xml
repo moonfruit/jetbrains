@@ -4,12 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/java/tools/tools-pdf/src/main/java/com/gingkoo/tools/pdf/Main.java" timestamp="1513841822708" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/build.xml" timestamp="1513762364304">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/operator/LoginManagerOP.java" timestamp="1513841248398" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1513836868000" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1513587714860">
@@ -24,6 +18,7 @@
         <mark key="." line="1618" column="23" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1513836880301" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/aspect/DubboLogAspect.java" timestamp="1513843397847" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/platform/user/ftl/UserMngRoleInfo.ftl" timestamp="1513840405709">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="4" column="63" />
@@ -35,18 +30,15 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerQueryRawServiceImpl.java" timestamp="1513843336422" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/pom.xml" timestamp="1513843235448" />
       <file name="/Dummy.txt" timestamp="1513842103241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/web.xml" timestamp="1513839595620" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/entity/view/ExtensBean.java" timestamp="1513760081613">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="47" />
-        <mark key="^" line="13" column="47" />
-        <mark key="." line="13" column="47" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.8.4/dubbo-2.8.4-sources.jar!/com/alibaba/dubbo/rpc/RpcContext.java" timestamp="1513843523829" />
       <file name="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.5.12/itextpdf-5.5.12.jar!/com/itextpdf/text/pdf/ColumnText.class" timestamp="1513842982929" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/runConfigurations/backend.xml" timestamp="1513762462159">
         <mark key="[" line="11" column="48" />
@@ -68,18 +60,6 @@
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/commQuery/WebAlterAction.java" timestamp="1513841303887" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal/gal-orm-api/src/main/java/com/gingkoo/gal/api/orm/mybatis/template/IMyBatisSessionTemplate.java" timestamp="1513841891999" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/BaseGlobalData.java" timestamp="1513755058856">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/build.xml" timestamp="1513758561697">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1513755574563">
         <mark key="[" line="334" column="29" />
         <mark key="]" line="334" column="30" />
