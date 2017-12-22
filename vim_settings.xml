@@ -3,51 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/build.xml" timestamp="1513762364304">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-      </file>
-      <file name="/Python Console" timestamp="1513913030635">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/jandan.py" timestamp="1513913417827">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iapps.py" timestamp="1513913406594">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/commquery/result/databus/HttpSessionDataBusMng.java" timestamp="1513846225890" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/gpms/service/system/GnoDAOServer.java" timestamp="1513845259676" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/dwr.xml" timestamp="1513845455355" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/SessionFilter.java" timestamp="1513847414183">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="35" column="66" />
+        <mark key="." line="35" column="66" />
+        <mark key="^" line="35" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/pom.xml" timestamp="1513587714860">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/platform/user/ftl/UserMngRoleInfo.ftl" timestamp="1513736940847">
-        <mark key="[" line="3" column="63" />
-        <mark key="]" line="3" column="64" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="66" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-client/src/main/java/com/gingkoo/spring/NoticeChannelClientConfig.java" timestamp="1513843831741" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/aspect/DubboLogAspect.java" timestamp="1513843397847" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/platform/user/ftl/UserMngRoleInfo.ftl" timestamp="1513840405709">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="63" />
+        <mark key="." line="4" column="63" />
+        <mark key="^" line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/resources/com/gingkoo/views/demo/layout.ftl" timestamp="1513680692573">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513913431089">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/url.py" timestamp="1513913094468">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-manager-parent/www4j-notice-manager-ri/src/main/java/com/gingkoo/www4j/notice/manager/NoticeManagerQueryRawServiceImpl.java" timestamp="1513843336422" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/jdbc/JdbcOperationsSessionRepository.java" timestamp="1513846052625" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/web.xml" timestamp="1513847919931">
+        <mark key="[" line="408" column="0" />
+        <mark key="]" line="408" column="0" />
+        <mark key="^" line="403" column="66" />
+        <mark key="." line="408" column="0" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/entity/view/ExtensBean.java" timestamp="1513760081613">
         <mark key="[" line="13" column="24" />
@@ -55,27 +39,78 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/runConfigurations/backend.xml" timestamp="1513762462159">
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iyingdi.py" timestamp="1513913066209" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/filter/UrlAuthorizationFilter.java" timestamp="1513665190125">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/templets/ui/js/uiextend.js" timestamp="1513845620728" />
+      <file name="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.5.12/itextpdf-5.5.12.jar!/com/itextpdf/text/pdf/ColumnText.class" timestamp="1513842982929" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal/gal-report-ri/src/main/java/com/gingkoo/gal/report/print/Writer.java" timestamp="1513842624291" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/GlobalInfo.java" timestamp="1513847156725">
+        <mark key="[" line="139" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/.idea/runConfigurations/frontend.xml" timestamp="1513761541333">
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="48" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/BaseGlobalData.java" timestamp="1513755058856">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/login/index.jsp" timestamp="1513846840196" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/GetTlrIntNoGenerator.java" timestamp="1513851808608" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/login/index.jsp" timestamp="1513845644904" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/java/tools/tools-pdf/src/main/java/com/gingkoo/tools/pdf/Main.java" timestamp="1513841822708" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/build.xml" timestamp="1513762364304">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/gpms/service/common/AuthSqlRetriever.java" timestamp="1513850796411">
+        <mark key="[" line="94" column="27" />
+        <mark key="]" line="94" column="37" />
+        <mark key="." line="94" column="37" />
+        <mark key="^" line="94" column="37" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/operator/LoginManagerOP.java" timestamp="1513841248398" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/GlobalInfoFilter.java" timestamp="1513846579662" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1513836868000" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/templets/commonQuery/CommonQueryTagMacro.ftl" timestamp="1513840449624">
+        <mark key="[" line="1618" column="19" />
+        <mark key="]" line="1618" column="23" />
+        <mark key="^" line="1618" column="23" />
+        <mark key="." line="1618" column="23" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/web.xml" timestamp="1513846516258" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1513836880301" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/sql/ParamSqlService.java" timestamp="1513845109659" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/main/resources/com/gingkoo/views/demo/layout.ftl" timestamp="1513680692573">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/pom.xml" timestamp="1513843235448" />
+      <file name="/Dummy.txt" timestamp="1513846396271">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.8.4/dubbo-2.8.4-sources.jar!/com/alibaba/dubbo/rpc/RpcContext.java" timestamp="1513843523829" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/lib/servlet-api-2.5.jar!/javax/servlet/http/HttpSession.class" timestamp="1513846083947" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/.idea/runConfigurations/backend.xml" timestamp="1513762462159">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="48" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/dwr/DwrFunctions.java" timestamp="1513845868389" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/SessionFIlter.java" timestamp="1513846617048">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE.jar!/org/springframework/session/jdbc/schema-oracle.sql" timestamp="1513842303677" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/commQuery/WebAlterAction.java" timestamp="1513841303887" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal/gal-orm-api/src/main/java/com/gingkoo/gal/api/orm/mybatis/template/IMyBatisSessionTemplate.java" timestamp="1513841891999" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/BaseGlobalData.java" timestamp="1513847676825">
+        <mark key="[" line="160" column="4" />
+        <mark key="]" line="160" column="9" />
+        <mark key="^" line="160" column="9" />
+        <mark key="." line="160" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/build.xml" timestamp="1513758561697">
         <mark key="[" line="14" column="0" />
@@ -88,6 +123,9 @@
         <mark key="]" line="334" column="30" />
         <mark key="." line="334" column="30" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal/gal-report-ri/src/main/java/com/gingkoo/gal/report/print/PrintData.java" timestamp="1513842666018" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/commquery/process/call/AbstractQueryAction.java" timestamp="1513845165686" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/java/gal/gal-report-ri/src/main/java/com/gingkoo/gal/report/print/Builder.java" timestamp="1513841954215" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -121,13 +159,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U3VwcG9ydCBjb250ZW50IHR5cGUgZGVja0NvZGUgYW5kIGluc2VydFVzZXIgZm9yIElZaW5nRGlGZXRjaGVyCg==</text>
+        <text encoding="base64">CQk8ZGlzcGF0Y2hlcj5FUlJPUjwvZGlzcGF0Y2hlcj4K</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">PC8=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTTVNfRVJST1JcPg==</text>
@@ -136,34 +174,34 @@
         <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJzcmMuZGlyIiBsb2NhdGlvbj0ic3JjIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U3VwcG9ydCBjb250ZW50IHR5cGUgZGVja0NvZGUgYW5kIGluc2VydFVzZXIgZm9yIElZaW5nRGlGZXRjaGVyCg==</text>
+        <text encoding="base64">CQk8ZGlzcGF0Y2hlcj5FUlJPUjwvZGlzcGF0Y2hlcj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZmV0Y2hlci53YWl0ID0gMgo=</text>
+        <text encoding="base64">CQk8ZGlzcGF0Y2hlcj5SRVFVRVNUPC9kaXNwYXRjaGVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kaWZ5IGZvciBsb2cK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ2xvYmFsSW5mbykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJ3YXIubmFtZSIgdmFsdWU9ImZyb250ZW5kLndhciIvPgogICAgPHByb3BlcnR5IG5hbWU9ImJ1aWxkLnRhZyIgdmFsdWU9InVua25vd24iLz4KICAgIDxwcm9wZXJ0eSBuYW1lPSJidWlsZC5yZXZpc2lvbiIgdmFsdWU9InVua25vd24iLz4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlc3Npb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2NvcHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgPG1rZGlyIGRpcj0iJHtqYXIuZGlyfSIvPgogICAgICAgIDxjb3B5IHRvZGlyPSIke2phci5kaXJ9IiBwcmVzZXJ2ZWxhc3Rtb2RpZmllZD0idHJ1ZSIgaW5jbHVkZWVtcHR5ZGlycz0iZmFsc2UiPgogICAgICAgICAgICA8ZmlsZXNldCBkaXI9IiR7Y2xhc3Nlcy5kaXJ9Ij4KICAgICAgICAgICAgICAgIDxpbmNsdWRlIG5hbWU9ImNvbS8qKiIvPgogICAgICAgICAgICA8L2ZpbGVzZXQ+CiAgICAgICAgPC9jb3B5PgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -205,6 +243,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
