@@ -9,6 +9,7 @@
         <mark key="^" line="136" column="62" />
         <mark key="." line="136" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/push/PushClient.java" timestamp="1514269037294" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorComment.java" timestamp="1513934073642">
         <mark key="[" line="103" column="12" />
         <mark key="]" line="103" column="12" />
@@ -32,6 +33,7 @@
         <mark key="." line="119" column="74" />
         <mark key="^" line="119" column="74" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/APIRequestException.java" timestamp="1514269125231" />
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/iii_conventions/MyDate.kt" timestamp="1514186096836" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorPlugin.java" timestamp="1513931984187">
         <mark key="[" line="58" column="66" />
@@ -51,7 +53,9 @@
         <mark key="^" line="150" column="42" />
         <mark key="." line="150" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1514269688969" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1514189039283" />
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/connection/NativeHttpClient.java" timestamp="1514269167583" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/redis.properties" timestamp="1514185262329">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="0" />
@@ -69,6 +73,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/BaseResult.java" timestamp="1514268962706" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorHelper.java" timestamp="1513931791702">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="31" />
@@ -104,6 +109,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/ResponseWrapper.java" timestamp="1514269214910" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1513927091621">
         <mark key="[" line="405" column="25" />
         <mark key="]" line="411" column="24" />
