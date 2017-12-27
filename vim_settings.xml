@@ -3,102 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/applicationContext.xml" timestamp="1514185224554">
-        <mark key="[" line="136" column="61" />
-        <mark key="]" line="136" column="62" />
-        <mark key="^" line="136" column="62" />
-        <mark key="." line="136" column="62" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.3.3/jpush-client-3.3.3-sources.jar!/cn/jpush/api/push/PushClient.java" timestamp="1514269037294" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorComment.java" timestamp="1513934073642">
-        <mark key="[" line="103" column="12" />
-        <mark key="]" line="103" column="12" />
-        <mark key="." line="103" column="12" />
-        <mark key="^" line="105" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/test/java/com/gingkoo/www4j/core/db/.gitignore" timestamp="1513932320988">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/spring-kotlin-fullstack/frontend/src/main/web/index.html" timestamp="1514284267575" />
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-job/src/main/java/com/gingkoo/www4j/base/job/BaseJobRepository.java" timestamp="1513936667906">
-        <mark key="[" line="119" column="72" />
-        <mark key="]" line="119" column="74" />
-        <mark key="." line="119" column="74" />
-        <mark key="^" line="119" column="74" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/APIRequestException.java" timestamp="1514269125231" />
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/iii_conventions/MyDate.kt" timestamp="1514186096836" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorPlugin.java" timestamp="1513931984187">
-        <mark key="[" line="58" column="66" />
-        <mark key="]" line="59" column="57" />
-        <mark key="^" line="59" column="57" />
-        <mark key="." line="59" column="57" />
-      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/spring-kotlin-fullstack/backend/build.gradle.kts" timestamp="1514284176712" />
+      <file name="$USER_HOME$/Documents/Workspace/java/spring-kotlin-fullstack/common/build.gradle.kts" timestamp="1514284192537" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/resource/applicationContext.xml" timestamp="1514193501711">
         <mark key="[" line="44" column="98" />
         <mark key="]" line="45" column="33" />
         <mark key="^" line="45" column="33" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorConstants.java" timestamp="1513931907749">
-        <mark key="[" line="150" column="36" />
-        <mark key="]" line="150" column="42" />
-        <mark key="^" line="150" column="42" />
-        <mark key="." line="150" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-jpush/src/main/java/com/gingkoo/www4j/notice/channel/jpush/JPushNoticeChannel.java" timestamp="1514275439620" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1514189039283" />
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/connection/NativeHttpClient.java" timestamp="1514269167583" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/resource/applicationContext-shiro.xml" timestamp="1514275788929" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/resource/redis.properties" timestamp="1514185262329">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/generator.xml" timestamp="1513929275600">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1514185313436">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/BaseResult.java" timestamp="1514268962706" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/GeneratorHelper.java" timestamp="1513931791702">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/resource/redis.properties" timestamp="1514184325839">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/test/java/com/gingkoo/www4j/core/db/TestTableTest.java" timestamp="1513932722609">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="16" column="96" />
-        <mark key="^" line="16" column="96" />
-        <mark key="." line="16" column="96" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/test/resources/configs/generator.yaml" timestamp="1513932161672">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/.idea/runConfigurations/frontend.xml" timestamp="1514276351015" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-client/src/test/java/com/gingkoo/www4j/demo/DemoTest.java" timestamp="1514266747877">
         <mark key="[" line="221" column="47" />
@@ -112,20 +43,8 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/cn/jpush/api/jiguang-common/1.0.8/jiguang-common-1.0.8-sources.jar!/cn/jiguang/common/resp/ResponseWrapper.java" timestamp="1514269214910" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1513927091621">
-        <mark key="[" line="405" column="25" />
-        <mark key="]" line="411" column="24" />
-        <mark key="." line="411" column="24" />
-        <mark key="^" line="411" column="24" />
-      </file>
       <file name="/fragment.java" timestamp="1514189527849">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/BaseGeneratorPlugin.java" timestamp="1513930689118">
-        <mark key="[" line="171" column="71" />
-        <mark key="]" line="175" column="68" />
-        <mark key="." line="175" column="68" />
-        <mark key="^" line="175" column="68" />
       </file>
     </filemarks>
     <jumps>
