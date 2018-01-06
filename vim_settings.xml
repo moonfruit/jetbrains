@@ -3,36 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerInterceptor.java" timestamp="1515145019098" />
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/context/request/WebRequestInterceptor.java" timestamp="1515146804533" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE-sources.jar!/org/springframework/util/PathMatcher.java" timestamp="1515146195478" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE-sources.jar!/org/springframework/web/servlet/handler/MappedInterceptor.java" timestamp="1515149023412" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515146492160">
-        <mark key="." line="238" column="60" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.java" timestamp="1515243320118" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/ContextHelper.java" timestamp="1515243449419" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515243975491">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="246" column="77" />
+        <mark key="." line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/support/WebInterceptorHelper.java" timestamp="1515149208969">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="35" column="28" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/support/WebInterceptorHelper.java" timestamp="1515243696068">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="29" column="73" />
+        <mark key="^" line="29" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java" timestamp="1515147300365" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.13.RELEASE/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/NoSuchBeanDefinitionException.java" timestamp="1515147062588" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/WebRoot/WEB-INF/lib/org.springframework.web.servlet-3.1.2.RELEASE.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.class" timestamp="1515144878245" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/ClassCastException.java" timestamp="1515147576254" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.3.xsd" timestamp="1515145585821" />
       <file name="/Dummy.txt" timestamp="1515145295938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/annotation/WithDataSource.java" timestamp="1515146512434" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-frontend/WebRoot/WEB-INF/lib/org.springframework.web.servlet-3.1.2.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class" timestamp="1515145291945" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514884065353">
         <mark key="[" line="0" column="48" />
         <mark key="]" line="0" column="48" />
@@ -43,21 +37,16 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/context/request/Log4jNestedDiagnosticContextInterceptor.java" timestamp="1515145801112" />
-      <file name="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1-sources.jar!/okhttp3/Interceptor.java" timestamp="1515145881241" />
       <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1515032164349">
         <mark key="[" line="938" column="0" />
         <mark key="]" line="938" column="0" />
         <mark key="." line="938" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/context/request/AsyncWebRequestInterceptor.java" timestamp="1515145767744" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1515147808371">
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="367" column="0" />
-        <mark key="." line="367" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1515243306515">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/aspect/WithDataSourceAspect.java" timestamp="1515146642288" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/context/request/WebRequest.java" timestamp="1515145820991" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/annotation/WebInterceptor.java" timestamp="1515146521505">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="24" />
@@ -69,10 +58,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java" timestamp="1515146056717" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-db.xml" timestamp="1515145450951" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/reflect/ReflectionHelper.java" timestamp="1515146713018" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class" timestamp="1515144982281" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -106,13 +91,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBjbGFzcyBJbnRlcmNlcHRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>mappedInterceptor</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
@@ -121,34 +106,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbWFwcGVkSW50ZXJjZXB0b3IgPSBuZXcgTWFwcGVkSW50ZXJjZXB0b3IoYW5ub3RhdGlvbi5pbmNsdWRlKCksIGFubm90YXRpb24uZXhjbHVkZSgpLAogICAgICAgICAgICAgICAgICAgIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IpIGludGVyY2VwdG9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBjbGFzcyBJbnRlcmNlcHRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy50dXBsZS5UcmlwbGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBNYXBwZWRJbnRlcmNlcHRvcikgewogICAgICAgICAgICByZXR1cm4gaW50ZXJjZXB0b3I7CiAgICAgICAgfQoKICAgICAgICBUcmlwbGU8U3RyaW5nW10sIFN0cmluZ1tdLCBQYXRoTWF0Y2hlcj4gYXR0cmlidXRlcyA9IGdldEF0dHJpYnV0ZXMoaW50ZXJjZXB0b3IpOwogICAgICAgIGlmIChhdHRyaWJ1dGVzID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGludGVyY2VwdG9yOwogICAgICAgIH0KCiAgICAgICAgTWFwcGVkSW50ZXJjZXB0b3IgbWFwcGVkSW50ZXJjZXB0b3IgPQogICAgICAgICAgICAgICAgbmV3IE1hcHBlZEludGVyY2VwdG9yKGF0dHJpYnV0ZXMuZ2V0TGVmdCgpLCBhdHRyaWJ1dGVzLmdldE1pZGRsZSgpLCBpbnRlcmNlcHRvcik7CiAgICAgICAgaWYgKGF0dHJpYnV0ZXMuZ2V0UmlnaHQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIG1hcHBlZEludGVyY2VwdG9yLnNldFBhdGhNYXRjaGVyKGF0dHJpYnV0ZXMuZ2V0UmlnaHQoKSk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">CgogICAgICAgIExpc3Q8SGFuZGxlckludGVyY2VwdG9yPiBsaXN0ID0KICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8PihhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbnNPZlR5cGUoSGFuZGxlckludGVyY2VwdG9yLmNsYXNzKS52YWx1ZXMoKSk7CgogICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGludGVyY2VwdG9yIC0+ICEoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBIYW5kbGVySW50ZXJjZXB0b3IpKQogICAgICAgICAgICAgICAgLm1hcChXZWJSZXF1ZXN0SGFuZGxlckludGVyY2VwdG9yQWRhcHRlcjo6bmV3KQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIGZvciAoV2ViUmVxdWVzdEludGVyY2VwdG9yIGludGVyY2VwdG9yIDoKICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChpbnRlcmNlcHRvciBpbnN0YW5jZW9mIEhhbmRsZXJJbnRlcmNlcHRvcikgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgbGlzdC5hZGQobmV3IFdlYlJlcXVlc3RIYW5kbGVySW50ZXJjZXB0b3JBZGFwdGVyKGludGVyY2VwdG9yKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXBwZWRJbnRlcmNlcHRvciBtYXBwZWRJbnRlcmNlcHRvciA9IAogICAgICAgIGlmCgo=</text>
+        <text encoding="base64">CgoKICAgICAgICBMaXN0PEhhbmRsZXJJbnRlcmNlcHRvcj4gaGFuZGxlckludGVyY2VwdG9ycyA9CiAgICAgICAgICAgICAgICBnZXRCZWFuTGlzdChhcHBsaWNhdGlvbkNvbnRleHQsIEhhbmRsZXJJbnRlcmNlcHRvci5jbGFzcyk7CiAgICAgICAgZm9yIChIYW5kbGVySW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiBoYW5kbGVySW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZEludGVyY2VwdG9yKGludGVyY2VwdG9yKTsKICAgICAgICB9CgogICAgICAgIExpc3Q8V2ViUmVxdWVzdEludGVyY2VwdG9yPiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzID0KICAgICAgICAgICAgICAgIGdldEJlYW5MaXN0KGFwcGxpY2F0aW9uQ29udGV4dCwgV2ViUmVxdWVzdEludGVyY2VwdG9yLmNsYXNzKTsKCiAgICAgICAgZm9yIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZFdlYlJlcXVlc3RJbnRlcmNlcHRvcihpbnRlcmNlcHRvcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmlwbGU8U3RyaW5nW10sIFN0cmluZ1tdLCBQYXRoTWF0Y2hlcj4gYXR0cmlidXRlcyA9IGdldEF0dHJpYnV0ZXMoaW50ZXJjZXB0b3IpOwogICAgICAgIGlmIChhdHRyaWJ1dGVzID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQoKICAgICAgICBNYXBwZWRJbnRlcmNlcHRvciBtYXBwZWRJbnRlcmNlcHRvciA9CiAgICAgICAgICAgICAgICBuZXcgTWFwcGVkSW50ZXJjZXB0b3IoYXR0cmlidXRlcy5nZXRMZWZ0KCksIGF0dHJpYnV0ZXMuZ2V0TWlkZGxlKCksIGludGVyY2VwdG9yKTsKICAgICAgICBpZiAoYXR0cmlidXRlcy5nZXRSaWdodCgpICE9IG51bGwpIHsKICAgICAgICAgICAgbWFwcGVkSW50ZXJjZXB0b3Iuc2V0UGF0aE1hdGNoZXIoYXR0cmlidXRlcy5nZXRSaWdodCgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBXZWJSZXF1ZXN0SW50ZXJjZXB0b3IpIHsKICAgICAgICAgICAgaW50ZXJjZXB0b3IgPSBuZXcgV2ViUmVxdWVzdEhhbmRsZXJJbnRlcmNlcHRvckFkYXB0ZXIoKFdlYlJlcXVlc3RJbnRlcmNlcHRvcikgaW50ZXJjZXB0b3IpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBIYW5kbGVySW50ZXJjZXB0b3Igd3JhcChIYW5kbGVySW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IpIHsKICAgICAgICBNYXBwZWRJbnRlcmNlcHRvciBtYXBwZWRJbnRlcmNlcHRvciA9IHdyYXAoKE9iamVjdCkgaW50ZXJjZXB0b3IpOwogICAgICAgIHJldHVybiBtYXBwZWRJbnRlcmNlcHRvciA9PSBudWxsID8gaW50ZXJjZXB0b3IgOiBtYXBwZWRJbnRlcmNlcHRvcjsKICAgIH0KCiAgICBwdWJsaWMgTWFwcGVkSW50ZXJjZXB0b3Igd3JhcChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IpIHsKICAgICAgICByZXR1cm4gd3JhcCgoT2JqZWN0KSBpbnRlcmNlcHRvcik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
