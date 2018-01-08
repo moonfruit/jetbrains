@@ -3,29 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.java" timestamp="1515243320118" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/ContextHelper.java" timestamp="1515243449419" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515244240301">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="^" line="246" column="77" />
-        <mark key="." line="246" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/support/WebInterceptorHelper.java" timestamp="1515243696068">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="73" />
-        <mark key="." line="29" column="73" />
-        <mark key="^" line="29" column="73" />
-      </file>
       <file name="/Dummy.txt" timestamp="1515145295938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1515383411009" />
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514884065353">
         <mark key="[" line="0" column="48" />
@@ -46,6 +33,18 @@
         <mark key="[" line="364" column="0" />
         <mark key="]" line="364" column="0" />
         <mark key="." line="364" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515244240301">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="246" column="77" />
+        <mark key="." line="246" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/support/WebInterceptorHelper.java" timestamp="1515243696068">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="29" column="73" />
+        <mark key="^" line="29" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/annotation/WebInterceptor.java" timestamp="1515146521505">
         <mark key="[" line="9" column="24" />
