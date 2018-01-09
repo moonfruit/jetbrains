@@ -37,19 +37,29 @@
       </file>
       <file name="/Django Console" timestamp="1515479145267" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/cache/memcache.py" timestamp="1515468602948" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/migrations/0005_auto_20180109_1505.py" timestamp="1515481843584" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/cache/mem.py" timestamp="1515468639085" />
-      <file name="/dummy.sql" timestamp="1515479098193">
+      <file name="/dummy.sql" timestamp="1515481486726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515479169272">
+      <file name="/Dummy.txt" timestamp="1515481570267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/test.py" timestamp="1515468692356" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/models.py" timestamp="1515481953812">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+      </file>
+      <file name="/manage.py@yysite" timestamp="1515481538246">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/base.py" timestamp="1515478639897">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -106,14 +116,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">T3B0aW1pemVkIGZvciBSb3NpeXlGZXRjaGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>128</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
