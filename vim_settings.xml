@@ -52,6 +52,12 @@
         <mark key="]" line="938" column="0" />
         <mark key="." line="938" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1515477368059">
+        <mark key="[" line="1007" column="27" />
+        <mark key="]" line="1007" column="28" />
+        <mark key="." line="1007" column="28" />
+        <mark key="^" line="615" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1515243306515">
         <mark key="[" line="364" column="0" />
         <mark key="]" line="364" column="0" />
@@ -89,14 +95,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
