@@ -3,15 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="/Python Console" timestamp="1515469580991">
+      <file name="/Python Console" timestamp="1515478657828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514884065353">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1515479022879">
         <mark key="[" line="0" column="48" />
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
@@ -19,9 +14,15 @@
       <file name="/a.dummy" timestamp="1515469380616">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/var/test.html" timestamp="1515469675909" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iapps.py" timestamp="1515467279196" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/var/test.html" timestamp="1515477785577" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iapps.py" timestamp="1515478604310" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/job.py" timestamp="1515470091322" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/rosiyy.py" timestamp="1515479149455">
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515243975491">
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="0" />
@@ -34,36 +35,27 @@
         <mark key="." line="29" column="73" />
         <mark key="^" line="29" column="73" />
       </file>
+      <file name="/Django Console" timestamp="1515479145267" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/cache/memcache.py" timestamp="1515468602948" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/cache/mem.py" timestamp="1515468639085" />
-      <file name="/Dummy.txt" timestamp="1515470093881">
+      <file name="/dummy.sql" timestamp="1515479098193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1515479169272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/test.py" timestamp="1515468692356" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iyingdi.py" timestamp="1514883535796">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/base.py" timestamp="1515478639897">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1515032164349">
-        <mark key="[" line="938" column="0" />
-        <mark key="]" line="938" column="0" />
-        <mark key="." line="938" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1515243306515">
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="0" />
-        <mark key="." line="364" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/base.py" timestamp="1515469945710">
-        <mark key="[" line="143" column="23" />
-        <mark key="]" line="143" column="24" />
-        <mark key="^" line="142" column="85" />
-        <mark key="." line="143" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/ttrss.py" timestamp="1515469983374">
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/ttrss.py" timestamp="1515477405192">
         <mark key="[" line="49" column="12" />
         <mark key="]" line="49" column="12" />
         <mark key="." line="49" column="12" />
@@ -75,11 +67,6 @@
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/iii_conventions/n25Comparison.kt" timestamp="1514186120981">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/views/feed.py" timestamp="1515470034643">
         <mark key="[" line="25" column="62" />
@@ -120,13 +107,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U2V0IE9veHhKb2IgUlVOX0VWRVJZX01JTlMgdG8gNTkK</text>
+        <text encoding="base64">T3B0aW1pemVkIGZvciBSb3NpeXlGZXRjaGVyCg==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
@@ -135,34 +122,34 @@
         <text encoding="base64">ICAgICAgICBvcmlnaW5hbF9pZCA9IHJlc3VsdFsnaWQnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U2V0IE9veHhKb2IgUlVOX0VWRVJZX01JTlMgdG8gNTkK</text>
+        <text encoding="base64">T3B0aW1pemVkIGZvciBSb3NpeXlGZXRjaGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXYgPSBjb250ZW50LmRpdgogICAgICAgICAgICAgICAgICAgIGlmIGRpdjoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudCA9IHNlbGYucmV0cmlldmUoZGl2KQogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRzLmFwcGVuZChjb250ZW50KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzLmFwcGVuZChzZWxmLnJldHJpZXZlKGFydGljbGUpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCApOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oKQogICAgICAgIHNlbGYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICAgICAgIGNvbnRlbnQgPSBzb3VwLmZpbmQoc2VsZi5GSUxURVJfQ09OVEVOVCkKICAgICAgICBjb250ZW50ID0gc2VsZi5yZXRyaWV2ZShjb250ZW50KQogICAgICAgIHJlc3VsdHMuYXBwZW5kKGNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFsnaWQnXSA9ICIlcyslZCIgJSAob3JpZ2luYWxfaWQsIGluZGV4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgICAgIHd1bWlpID0gY29udGVudC5maW5kKCdkaXYnLCAnd3VtaWktaG9vaycpCiAgICAgICAgaWYgd3VtaWk6CiAgICAgICAgICAgIHd1bWlpLmRlY29tcG9zZSgpCgogICAgICAgIGZvciBpbWcgaW4gY29udGVudC5maW5kX2FsbCgnaW1nJyk6CiAgICAgICAgICAgIGRlbCBpbWdbJ2hlaWdodCddCiAgICAgICAgICAgIGRlbCBpbWdbJ3dpZHRoJ10KICAgICAgICAgICAgaW1nWydzcmMnXSA9IGltZ1snc3JjJ10ucmVwbGFjZSgnaHR0cDovLzcwLm90Mi5wdy9wLnBocD91cmw9JywgJycpCgogICAgICAgIHJldHVybiBzdHIoY29udGVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdWlkID0gIiVzKyVkIiAlIChvcmlnaW5hbF9pZCwgaW5kZXgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cy5hcHBlbmQoaW1nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW1nIGluIGFydGljbGUuZmluZF9hbGwoJ2ltZycpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyKGFydGljbGUuZmluZF8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb24gPSBzZWxmLmRlc2NyaXB0aW9uKGxpbmspCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
