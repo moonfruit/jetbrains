@@ -3,59 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/usr/local/lib/python3.6/site-packages/execjs/__init__.py" timestamp="1515463639285" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iapps.py" timestamp="1515403577454">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="22" column="37" />
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/job.py" timestamp="1515464461446">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.java" timestamp="1515243320118" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/spring/ContextHelper.java" timestamp="1515243449419" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515243975491">
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="246" column="77" />
+        <mark key="." line="246" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/execjs/_external_runtime.py" timestamp="1515464232799" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/test.py" timestamp="1515403746641">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/support/WebInterceptorHelper.java" timestamp="1515243696068">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="29" column="73" />
+        <mark key="^" line="29" column="73" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/execjs/_runner_sources.py" timestamp="1515463895821" />
-      <file name="/usr/local/Cellar/python3/3.6.4_2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py" timestamp="1515403679905" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/base.py" timestamp="1515464879993" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/ttrss.py" timestamp="1515405278344">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="/job.py" timestamp="1515464481722" />
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1437855905/builtins.py" timestamp="1515397517374" />
-      <file name="/usr/local/lib/python3.6/site-packages/execjs/_runtimes.py" timestamp="1515463941819" />
-      <file name="/Python Console" timestamp="1515405287522">
+      <file name="/Dummy.txt" timestamp="1515145295938">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/var/test.html" timestamp="1515405477652" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/jandan.py" timestamp="1515403595161">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="24" column="37" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514884065353">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="48" />
+        <mark key="." line="0" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515464472205">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iyingdi.py" timestamp="1514883535796">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyutil/url.py" timestamp="1515404034917">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1515032164349">
+        <mark key="[" line="938" column="0" />
+        <mark key="]" line="938" column="0" />
+        <mark key="." line="938" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/bs4/__init__.py" timestamp="1515403524745" />
-      <file name="/usr/local/lib/python3.6/site-packages/fake_useragent/fake.py" timestamp="1515403325489" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1515243306515">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/annotation/WebInterceptor.java" timestamp="1515146521505">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/iii_conventions/n25Comparison.kt" timestamp="1514186120981">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -89,7 +91,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Rml4IGZvciBJQXBwcyBicm93c2VyIGNoZWNrCg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -101,37 +103,37 @@
         <text encoding="base64">XDxDbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZJTFRFUiA9IFNvdXBTdHJhaW5lcignZGl2JywgaWQ9J2FydGljbGVMZWZ0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwcGVkSW50ZXJjZXB0b3IgPSBuZXcgTWFwcGVkSW50ZXJjZXB0b3IoYW5ub3RhdGlvbi5pbmNsdWRlKCksIGFubm90YXRpb24uZXhjbHVkZSgpLAogICAgICAgICAgICAgICAgICAgIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IpIGludGVyY2VwdG9yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rml4IGZvciBJQXBwcyBicm93c2VyIGNoZWNrCg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZJTFRFUl9DT05URU5UID0gU291cFN0cmFpbmVyKCdkaXYnLCBpZD0ncG9zdF9jb250ZW50JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Rml4IGZvciBJQXBwcyBicm93c2VyIGNoZWNrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgICAgIExpc3Q8SGFuZGxlckludGVyY2VwdG9yPiBsaXN0ID0KICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8PihhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbnNPZlR5cGUoSGFuZGxlckludGVyY2VwdG9yLmNsYXNzKS52YWx1ZXMoKSk7CgogICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGludGVyY2VwdG9yIC0+ICEoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBIYW5kbGVySW50ZXJjZXB0b3IpKQogICAgICAgICAgICAgICAgLm1hcChXZWJSZXF1ZXN0SGFuZGxlckludGVyY2VwdG9yQWRhcHRlcjo6bmV3KQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIGZvciAoV2ViUmVxdWVzdEludGVyY2VwdG9yIGludGVyY2VwdG9yIDoKICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChpbnRlcmNlcHRvciBpbnN0YW5jZW9mIEhhbmRsZXJJbnRlcmNlcHRvcikgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgbGlzdC5hZGQobmV3IFdlYlJlcXVlc3RIYW5kbGVySW50ZXJjZXB0b3JBZGFwdGVyKGludGVyY2VwdG9yKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlQcm90ZWN0ZWRNZW1iZXIK</text>
+        <text encoding="base64">CgoKICAgICAgICBMaXN0PEhhbmRsZXJJbnRlcmNlcHRvcj4gaGFuZGxlckludGVyY2VwdG9ycyA9CiAgICAgICAgICAgICAgICBnZXRCZWFuTGlzdChhcHBsaWNhdGlvbkNvbnRleHQsIEhhbmRsZXJJbnRlcmNlcHRvci5jbGFzcyk7CiAgICAgICAgZm9yIChIYW5kbGVySW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiBoYW5kbGVySW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZEludGVyY2VwdG9yKGludGVyY2VwdG9yKTsKICAgICAgICB9CgogICAgICAgIExpc3Q8V2ViUmVxdWVzdEludGVyY2VwdG9yPiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzID0KICAgICAgICAgICAgICAgIGdldEJlYW5MaXN0KGFwcGxpY2F0aW9uQ29udGV4dCwgV2ViUmVxdWVzdEludGVyY2VwdG9yLmNsYXNzKTsKCiAgICAgICAgZm9yIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZFdlYlJlcXVlc3RJbnRlcmNlcHRvcihpbnRlcmNlcHRvcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB5eXV0aWwudXJsIGltcG9ydCB1c2VyX2FnZW50Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBXZWJSZXF1ZXN0SW50ZXJjZXB0b3IpIHsKICAgICAgICAgICAgaW50ZXJjZXB0b3IgPSBuZXcgV2ViUmVxdWVzdEhhbmRsZXJJbnRlcmNlcHRvckFkYXB0ZXIoKFdlYlJlcXVlc3RJbnRlcmNlcHRvcikgaW50ZXJjZXB0b3IpOwogICAgICAgIH0KCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZldGNoZXIuYnJvd3NlciA9IAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBIYW5kbGVySW50ZXJjZXB0b3Igd3JhcChIYW5kbGVySW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IpIHsKICAgICAgICBNYXBwZWRJbnRlcmNlcHRvciBtYXBwZWRJbnRlcmNlcHRvciA9IHdyYXAoKE9iamVjdCkgaW50ZXJjZXB0b3IpOwogICAgICAgIHJldHVybiBtYXBwZWRJbnRlcmNlcHRvciA9PSBudWxsID8gaW50ZXJjZXB0b3IgOiBtYXBwZWRJbnRlcmNlcHRvcjsKICAgIH0KCiAgICBwdWJsaWMgTWFwcGVkSW50ZXJjZXB0b3Igd3JhcChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IpIHsKICAgICAgICByZXR1cm4gd3JhcCgoT2JqZWN0KSBpbnRlcmNlcHRvcik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
