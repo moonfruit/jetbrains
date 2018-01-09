@@ -17,10 +17,10 @@
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/var/test.html" timestamp="1515477785577" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iapps.py" timestamp="1515478604310" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/cron/job.py" timestamp="1515470091322" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/rosiyy.py" timestamp="1515484595082">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/rosiyy.py" timestamp="1515489048014">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515243975491">
@@ -45,7 +45,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515484846510">
+      <file name="/Dummy.txt" timestamp="1515489053256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -117,13 +117,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>.</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
