@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="logging.Logger.trace" />
+        <option value="memcache" />
       </list>
     </option>
   </inspection_tool>
