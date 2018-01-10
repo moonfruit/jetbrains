@@ -51,17 +51,24 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515556511934">
+      <file name="/Dummy.txt" timestamp="1515570240187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/test/test.py" timestamp="1515468692356" />
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/models.py" timestamp="1515484575421">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="/usr/local/lib/python3.6/site-packages/django/db/models/fields/__init__.py" timestamp="1515569778558" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fixtures/feed.json" timestamp="1515570219869">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/models/models.py" timestamp="1515569966400">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="/manage.py@yysite" timestamp="1515481538246">
         <mark key="[" line="0" column="0" />
@@ -96,11 +103,11 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/views/feed.py" timestamp="1515484829291">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-        <mark key="." line="25" column="57" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/views/feed.py" timestamp="1515569993433">
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="79" />
+        <mark key="^" line="25" column="79" />
+        <mark key="." line="25" column="79" />
       </file>
     </filemarks>
     <jumps>
@@ -134,14 +141,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnVnIGZpeAo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
