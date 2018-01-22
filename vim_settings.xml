@@ -3,34 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-job/src/main/java/com/gingkoo/www4j/base/job/db/table/bean/BaseJob.java" timestamp="1516603039579" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/spring/WebAppConfig.java" timestamp="1515244240301">
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="^" line="245" column="77" />
-        <mark key="." line="245" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/Generator.java" timestamp="1516602830740">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/Generator.java" timestamp="1516604467110">
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="33" />
         <mark key="." line="43" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/support/WebInterceptorHelper.java" timestamp="1515243696068">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="73" />
-        <mark key="." line="28" column="73" />
-        <mark key="^" line="28" column="73" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/internal/ObjectFactory.java" timestamp="1516604864484" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlMapperGenerator.java" timestamp="1516604290054" />
       <file name="/Dummy.txt" timestamp="1516603096834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/internal/util/ClassloaderUtility.java" timestamp="1516604622352" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1516591953124">
         <mark key="[" line="124" column="65" />
         <mark key="]" line="132" column="8" />
@@ -38,38 +24,9 @@
         <mark key="^" line="132" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/auto/AutoDealMaking.java" timestamp="1516595293565" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1514884065353">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="48" />
-        <mark key="." line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iyingdi.py" timestamp="1514883535796">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/versioneye-www4j/pom.xml" timestamp="1515032164349">
-        <mark key="[" line="938" column="0" />
-        <mark key="]" line="938" column="0" />
-        <mark key="." line="938" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1515243306515">
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="0" />
-        <mark key="." line="364" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/annotation/WebInterceptor.java" timestamp="1515146521505">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/api/MyBatisGenerator.java" timestamp="1516604854377" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/IntrospectedTableMyBatis3DynamicSqlImpl.java" timestamp="1516604280702" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlSupportClassGenerator.class" timestamp="1516603289014" />
-      <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/iii_conventions/n25Comparison.kt" timestamp="1514186120981">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlSupportClassGenerator.java" timestamp="1516603325666" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1516601188435">
         <mark key="[" line="1022" column="28" />
