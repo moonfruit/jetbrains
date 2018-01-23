@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/model/Fentrust.java" timestamp="1516606474068" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-base-parent/www4j-base-job/src/main/java/com/gingkoo/www4j/base/job/db/table/bean/BaseJob.java" timestamp="1516603039579" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java" timestamp="1516677185714" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/pom.xml" timestamp="1516691642340">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/Generator.java" timestamp="1516604467110">
         <mark key="[" line="43" column="32" />
         <mark key="]" line="43" column="33" />
@@ -21,13 +27,34 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/internal/util/ClassloaderUtility.java" timestamp="1516604622352" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1516591953124">
+        <mark key="[" line="124" column="65" />
+        <mark key="]" line="132" column="8" />
+        <mark key="." line="132" column="8" />
+        <mark key="^" line="132" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/auto/AutoDealMaking.java" timestamp="1516687387793" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/api/MyBatisGenerator.java" timestamp="1516604854377" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPool.java" timestamp="1516691763662">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/auto/RealTimeData.java" timestamp="1516678263051" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/IntrospectedTableMyBatis3DynamicSqlImpl.java" timestamp="1516604280702" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderQueue.java" timestamp="1516691769469">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlSupportClassGenerator.class" timestamp="1516603289014" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java" timestamp="1516677319259" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlSupportClassGenerator.java" timestamp="1516603325666" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1516601188435">
+        <mark key="[" line="1022" column="28" />
+        <mark key="]" line="1022" column="29" />
+        <mark key="." line="1022" column="29" />
+        <mark key="^" line="615" column="31" />
+      </file>
       <file name="/fragment.java" timestamp="1516602930927">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,49 +91,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Mybatis generator support for runtime MyBatis3DynamicSQL</text>
+        <text>class</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Mybatis generator support for runtime MyBatis3DynamicSQL</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwcGVkSW50ZXJjZXB0b3IgPSBuZXcgTWFwcGVkSW50ZXJjZXB0b3IoYW5ub3RhdGlvbi5pbmNsdWRlKCksIGFubm90YXRpb24uZXhjbHVkZSgpLAogICAgICAgICAgICAgICAgICAgIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IpIGludGVyY2VwdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPmJpdG1hcC10cmFkZS1wYXJlbnQ8L21vZHVsZT4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">VXBkYXRlIGRlcGVuZGVuY3kgdmVyc2lvbgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdpbmdrb28uYml0bWFwPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Yml0bWFwLXRyYWRlLXNlcnZlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7Yml0bWFwLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgImphIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
+        <text encoding="base64">VXBkYXRlIGRlcGVuZGVuY3kgdmVyc2lvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgImphIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlcmVkSGVscGVyLnNvcnQobGlzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgICAgIExpc3Q8SGFuZGxlckludGVyY2VwdG9yPiBsaXN0ID0KICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8PihhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbnNPZlR5cGUoSGFuZGxlckludGVyY2VwdG9yLmNsYXNzKS52YWx1ZXMoKSk7CgogICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGludGVyY2VwdG9yIC0+ICEoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBIYW5kbGVySW50ZXJjZXB0b3IpKQogICAgICAgICAgICAgICAgLm1hcChXZWJSZXF1ZXN0SGFuZGxlckludGVyY2VwdG9yQWRhcHRlcjo6bmV3KQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIGZvciAoV2ViUmVxdWVzdEludGVyY2VwdG9yIGludGVyY2VwdG9yIDoKICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChpbnRlcmNlcHRvciBpbnN0YW5jZW9mIEhhbmRsZXJJbnRlcmNlcHRvcikgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgbGlzdC5hZGQobmV3IFdlYlJlcXVlc3RIYW5kbGVySW50ZXJjZXB0b3JBZGFwdGVyKGludGVyY2VwdG9yKSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoKICAgICAgICBMaXN0PEhhbmRsZXJJbnRlcmNlcHRvcj4gaGFuZGxlckludGVyY2VwdG9ycyA9CiAgICAgICAgICAgICAgICBnZXRCZWFuTGlzdChhcHBsaWNhdGlvbkNvbnRleHQsIEhhbmRsZXJJbnRlcmNlcHRvci5jbGFzcyk7CiAgICAgICAgZm9yIChIYW5kbGVySW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiBoYW5kbGVySW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZEludGVyY2VwdG9yKGludGVyY2VwdG9yKTsKICAgICAgICB9CgogICAgICAgIExpc3Q8V2ViUmVxdWVzdEludGVyY2VwdG9yPiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzID0KICAgICAgICAgICAgICAgIGdldEJlYW5MaXN0KGFwcGxpY2F0aW9uQ29udGV4dCwgV2ViUmVxdWVzdEludGVyY2VwdG9yLmNsYXNzKTsKCiAgICAgICAgZm9yIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZFdlYlJlcXVlc3RJbnRlcmNlcHRvcihpbnRlcmNlcHRvcik7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgogICAgICAgIExpc3Q8SGFuZGxlckludGVyY2VwdG9yPiBsaXN0ID0KICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8PihhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbnNPZlR5cGUoSGFuZGxlckludGVyY2VwdG9yLmNsYXNzKS52YWx1ZXMoKSk7CgogICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKGludGVyY2VwdG9yIC0+ICEoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBIYW5kbGVySW50ZXJjZXB0b3IpKQogICAgICAgICAgICAgICAgLm1hcChXZWJSZXF1ZXN0SGFuZGxlckludGVyY2VwdG9yQWRhcHRlcjo6bmV3KQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIGZvciAoV2ViUmVxdWVzdEludGVyY2VwdG9yIGludGVyY2VwdG9yIDoKICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuc09mVHlwZShXZWJSZXF1ZXN0SW50ZXJjZXB0b3IuY2xhc3MpLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChpbnRlcmNlcHRvciBpbnN0YW5jZW9mIEhhbmRsZXJJbnRlcmNlcHRvcikgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgbGlzdC5hZGQobmV3IFdlYlJlcXVlc3RIYW5kbGVySW50ZXJjZXB0b3JBZGFwdGVyKGludGVyY2VwdG9yKSk7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW50ZXJjZXB0b3IgaW5zdGFuY2VvZiBXZWJSZXF1ZXN0SW50ZXJjZXB0b3IpIHsKICAgICAgICAgICAgaW50ZXJjZXB0b3IgPSBuZXcgV2ViUmVxdWVzdEhhbmRsZXJJbnRlcmNlcHRvckFkYXB0ZXIoKFdlYlJlcXVlc3RJbnRlcmNlcHRvcikgaW50ZXJjZXB0b3IpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">CgoKICAgICAgICBMaXN0PEhhbmRsZXJJbnRlcmNlcHRvcj4gaGFuZGxlckludGVyY2VwdG9ycyA9CiAgICAgICAgICAgICAgICBnZXRCZWFuTGlzdChhcHBsaWNhdGlvbkNvbnRleHQsIEhhbmRsZXJJbnRlcmNlcHRvci5jbGFzcyk7CiAgICAgICAgZm9yIChIYW5kbGVySW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiBoYW5kbGVySW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZEludGVyY2VwdG9yKGludGVyY2VwdG9yKTsKICAgICAgICB9CgogICAgICAgIExpc3Q8V2ViUmVxdWVzdEludGVyY2VwdG9yPiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzID0KICAgICAgICAgICAgICAgIGdldEJlYW5MaXN0KGFwcGxpY2F0aW9uQ29udGV4dCwgV2ViUmVxdWVzdEludGVyY2VwdG9yLmNsYXNzKTsKCiAgICAgICAgZm9yIChXZWJSZXF1ZXN0SW50ZXJjZXB0b3IgaW50ZXJjZXB0b3IgOiB3ZWJSZXF1ZXN0SW50ZXJjZXB0b3JzKSB7CiAgICAgICAgICAgIHJlZ2lzdHJ5LmFkZFdlYlJlcXVlc3RJbnRlcmNlcHRvcihpbnRlcmNlcHRvcik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
