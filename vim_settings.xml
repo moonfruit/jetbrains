@@ -110,6 +110,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/internal/ObjectFactory.java" timestamp="1516604864484" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlMapperGenerator.java" timestamp="1516604290054" />
+      <file name="/dummy.sql" timestamp="1516701992953">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="src:table:/4a29eea/daac0524-48ac-4a2c-bcf0-8f75360386c1/zootest.notice_template" timestamp="1516702020971" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/AbstractOrder.java" timestamp="1516697927769">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
