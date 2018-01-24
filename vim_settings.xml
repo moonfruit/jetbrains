@@ -17,13 +17,17 @@
         <mark key="." line="28" column="29" />
         <mark key="^" line="28" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/db/mybatis/dbsvr/generator/Generator.java" timestamp="1516604467110">
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/service/comm/listener/RedisMQHandler.java" timestamp="1516616281468" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-trade-parent/bitmap-trade-db/src/main/java/com/gingkoo/bitmap/trade/db/table/bean/Fentrust.java" timestamp="1516689642358" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapOrder.java" timestamp="1516703526836">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapOrder.java" timestamp="1516759842646">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/internal/util/ClassloaderUtility.java" timestamp="1516604622352" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1516591953124">
@@ -110,10 +114,15 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/internal/ObjectFactory.java" timestamp="1516604864484" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6-sources.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlMapperGenerator.java" timestamp="1516604290054" />
-      <file name="/dummy.sql" timestamp="1516701992953">
+      <file name="/dummy.sql" timestamp="1516759831077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="src:table:/4a29eea/daac0524-48ac-4a2c-bcf0-8f75360386c1/zootest.notice_template" timestamp="1516702020971" />
+      <file name="/Dummy.txt" timestamp="1516603096834">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/AbstractOrder.java" timestamp="1516697927769">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -153,11 +162,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.6/mybatis-generator-core-1.3.6.jar!/org/mybatis/generator/runtime/dynamic/sql/DynamicSqlSupportClassGenerator.class" timestamp="1516603289014" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java" timestamp="1516677319259" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1516601188435">
-        <mark key="[" line="1022" column="28" />
-        <mark key="]" line="1022" column="29" />
-        <mark key="." line="1022" column="29" />
-        <mark key="^" line="615" column="31" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1516759888790">
+        <mark key="[" line="861" column="30" />
+        <mark key="]" line="861" column="31" />
+        <mark key="." line="861" column="31" />
+        <mark key="^" line="991" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1516697729261">
         <mark key="[" line="0" column="0" />
@@ -194,14 +203,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGlyZWN0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgZGlyZWN0aW9uID0gRGlyZWN0aW9uLkJVWTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gRGlyZWN0aW9uLkJVWTs=</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -210,34 +219,34 @@
         <text encoding="base64">ICAgICAgICA8bW9kdWxlPmJpdG1hcC10cmFkZS1wYXJlbnQ8L21vZHVsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGlyZWN0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgZGlyZWN0aW9uID0gRGlyZWN0aW9uLkJVWTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgVGhyZWFkKCkud2FpdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5sb25nOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGlyZWN0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgZGlyZWN0aW9uID0gRGlyZWN0aW9uLkJVWTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5sb25nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCaXRtYXBPcmRlckRpcmVjdGlvbiBnZXREaXJlY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuIGRpcmVjdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREaXJlY3Rpb24oQml0bWFwT3JkZXJEaXJlY3Rpb24gZGlyZWN0aW9uKSB7CiAgICAgICAgdGhpcy5kaXJlY3Rpb24gPSBkaXJlY3Rpb247Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBCaXRtYXBPcmRlckRpcmVjdGlvbiBnZXREaXJlY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuIGRpcmVjdGlvbjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXREaXJlY3Rpb24oQml0bWFwT3JkZXJEaXJlY3Rpb24gZGlyZWN0aW9uKSB7CiAgICAgICAgdGhpcy5kaXJlY3Rpb24gPSBkaXJlY3Rpb247Cg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuIE1vcmVPYmplY3RzLnRvU3RyaW5nSGVscGVyKHRoaXMpLm9taXROdWxsVmFsdWVzKCkKICAgICAgICAgICAgICAgIC5hZGQoImlkIiwgaWQpCiAgICAgICAgICAgICAgICAuYWRkKCJjb3VudCIsIGNvdW50KQogICAgICAgICAgICAgICAgLmFkZCgibGVmdENvdW50IiwgbGVmdENvdW50KQogICAgICAgICAgICAgICAgLmFkZCgicHJpY2UiLCBwcmljZSkKICAgICAgICAgICAgICAgIC50b1N0cmluZygpOw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEJ1eU9yZGVyCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJ1eU9yZGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
