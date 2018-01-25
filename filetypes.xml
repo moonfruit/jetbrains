@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <removed_mapping ext="jam" type="PLAIN_TEXT" />
       <removed_mapping ext="opts" type="PLAIN_TEXT" />
