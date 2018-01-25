@@ -16,11 +16,11 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/desktoppr/spiders/wallpapers.py" timestamp="1516873763062">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/desktoppr/spiders/wallpapers.py" timestamp="1516875979802">
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="25" column="53" />
         <mark key="^" line="17" column="27" />
-        <mark key="." line="17" column="0" />
+        <mark key="." line="25" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/MarketSellOrder.java" timestamp="1516696993037">
         <mark key="[" line="5" column="0" />
@@ -246,14 +246,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmFrZS11c2VyYWdlbnQK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
