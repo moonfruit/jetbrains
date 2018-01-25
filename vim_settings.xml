@@ -16,7 +16,7 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/desktoppr/spiders/wallpapers.py" timestamp="1516869913550">
+      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/desktoppr/spiders/wallpapers.py" timestamp="1516873763062">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="27" />
@@ -100,6 +100,12 @@
         <mark key="." line="132" column="8" />
         <mark key="^" line="132" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/requirements.txt" timestamp="1516874544336">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/AbstractOrder.java" timestamp="1516697927769">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -153,11 +159,11 @@
       <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/run_wallpapers.py" timestamp="1516352767439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/desktoppr/settings.py" timestamp="1516870140469">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Documents/Workspace/python/desktoppr/desktoppr/settings.py" timestamp="1516873940426">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="72" column="17" />
+        <mark key="^" line="72" column="17" />
+        <mark key="." line="72" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/base.py" timestamp="1516353579969">
         <mark key="[" line="142" column="72" />
@@ -241,7 +247,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFrZS11c2VyYWdlbnQK</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -256,42 +262,34 @@
         <text encoding="base64">ICAgICAgICA8bW9kdWxlPmJpdG1hcC10cmFkZS1wYXJlbnQ8L21vZHVsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmFrZS11c2VyYWdlbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZFRURfRVhQT1JUX0ZJRUxEUyA9IFsnaWQnLCAnY3JlYXRlZF9hdCcsICd1cmwnLCAnaGVpZ2h0JywgJ3dpZHRoJywgJ3VzZXJfY291bnQnLCAnbGlrZXNfY291bnQnXQo=</text>
+        <text encoding="base64">UHlZQU1MCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNwZWNpZmllcyBleHBvcnRlZCBmaWVsZHMgYW5kIG9yZGVyCg==</text>
+        <text encoding="base64">cHlsaWJtYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHlFeGVjSlMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RkVFRF9FWFBPUlRfRklFTERTPQo=</text>
+        <text encoding="base64">bXlzcWxjbGllbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0ganNvbi5sb2FkcyhyZXNwb25zZS50ZXh0KQo=</text>
+        <text encoding="base64">bHhtbAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Wallpaper(
-                id=item['id'],
-                created_at=datetime.strptime(item['created_at'], self.DATE_FORMAT),
-                url=item['image']['url'],
-                height=item['height'],
-                width=item['width'],
-                user_count=item['user_count'],
-                likes_count=item['likes_count'],
-            )</text>
+      <register name="7" type="2">
+        <text encoding="base64">aXB5dGhvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlX3dhbGxwYXBlcihyZXNwb25zZSkK</text>
+        <text encoding="base64">ZmVlZHBhcnNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnP3BhZ2U9JyBub3QgaW4gcmVzcG9uc2UudXJsOgo=</text>
+        <text encoding="base64">ZGphbmdvLWpldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
