@@ -62,7 +62,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1516591953124">
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenVersionChecker.java" timestamp="1517192928525">
         <mark key="[" line="124" column="65" />
         <mark key="]" line="132" column="8" />
         <mark key="." line="132" column="8" />
@@ -134,6 +134,12 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/maven/MavenCentralAccessor.java" timestamp="1517192969539">
+        <mark key="[" line="41" column="97" />
+        <mark key="]" line="41" column="98" />
+        <mark key="^" line="41" column="98" />
+        <mark key="." line="41" column="98" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/src/iii_conventions/n25Comparison.kt" timestamp="1514186120981">
         <mark key="[" line="17" column="51" />
         <mark key="]" line="18" column="0" />
@@ -186,14 +192,14 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YnVnIGZpeAo=</text>
+      <register name="&quot;" type="4">
+        <text>|</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
