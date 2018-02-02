@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/lib/applicationContext-duubo.xml" timestamp="1517562656336">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/1.7.6.RELEASE/spring-rabbit-1.7.6.RELEASE.pom" timestamp="1517566185581" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/.gitignore" timestamp="1517555692024" />
       <file name="$USER_HOME$/Documents/Workspace/java/java9/java9-test/src/com/github/moonfruit/java9/Test.java" timestamp="1517556476197">
         <mark key="[" line="2" column="19" />
@@ -198,7 +199,7 @@
         <mark key="." line="42" column="34" />
         <mark key="^" line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/resource/applicationContext.xml" timestamp="1517564201138">
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/resource/applicationContext.xml" timestamp="1517566239954">
         <mark key="[" line="177" column="95" />
         <mark key="]" line="178" column="73" />
         <mark key="^" line="178" column="73" />
@@ -285,6 +286,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/WebRoot/WEB-INF/lib/commons-lang-2.6.jar!/META-INF/MANIFEST.MF" timestamp="1517559804017" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/WebRoot/WEB-INF/lib/commons-lang.jar!/META-INF/MANIFEST.MF" timestamp="1517559809614" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/src/com/ruizton/main/service/comm/listener/MessageSubscriptor.java" timestamp="1517566277141" />
       <file name="$USER_HOME$/Documents/Workspace/java/java9/java9-alpha/src/main/java/module-info.java" timestamp="1517558253525">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
