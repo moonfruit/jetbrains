@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/24.0-jre/guava-24.0-jre.jar!/com/google/common/util/concurrent/Futures.class" timestamp="1517538437869" />
       <file name="$USER_HOME$/Documents/Workspace/java/kotlin-koans/build.gradle" timestamp="1514185521947">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="31" />
@@ -147,6 +148,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/24.0-jre/guava-24.0-jre-sources.jar!/com/google/common/util/concurrent/Futures.java" timestamp="1517538538350" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1517537933499">
         <mark key="[" line="353" column="28" />
         <mark key="]" line="353" column="29" />
