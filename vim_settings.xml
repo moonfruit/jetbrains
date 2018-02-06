@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-core.xml" timestamp="1517826608339" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-core.xml" timestamp="1517903677404" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/pom.xml" timestamp="1517824157664" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo-simple/src/main/java/com/gingkoo/www4j/core/config/CoreConfig.java" timestamp="1517826396734">
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="48" column="97" />
-        <mark key="." line="48" column="97" />
-        <mark key="^" line="48" column="97" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo-simple/src/main/java/com/gingkoo/www4j/core/config/CoreConfig.java" timestamp="1517903688267">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/WebRoot/WEB-INF/lib/bitmap-act-api-0.1.0-SNAPSHOT.jar!/com/gingkoo/bitmap/act/BitmapActService.class" timestamp="1517824972534" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/support/ConversionServiceFactoryBean.class" timestamp="1517826625007" />
@@ -109,10 +109,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/config/CoreConfig.java" timestamp="1517825239349" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/WebRoot/WEB-INF/lib/bitmap-act-api-0.1.0-SNAPSHOT.jar!/com/gingkoo/bitmap/act/BitmapActServiceImpl.class" timestamp="1517825044688" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/resource/applicationContext.xml" timestamp="1517826703098">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-admin/resource/applicationContext.xml" timestamp="1517903595086">
+        <mark key="[" line="177" column="10" />
+        <mark key="]" line="177" column="10" />
+        <mark key="." line="177" column="10" />
+        <mark key="^" line="177" column="106" />
       </file>
       <file name="/Dummy.txt" timestamp="1517825663525">
         <mark key="[" line="0" column="0" />
@@ -168,20 +169,20 @@
       <jump line="117" column="0" filename="$USER_HOME$/Documents/Workspace/java/www4j/www4j-facility/src/main/java/com/gingkoo/www4j/facility/io/UrlHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuc3VwcG9ydC5Db252ZXJzaW9uU2VydmljZUZhY3RvcnlCZWFuIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHt3d3c0ai5kZWJ1Zzp9IikK</text>
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJjb252ZXJzaW9uU2VydmljZSIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5zdXBwb3J0LkNvbnZlcnNpb25TZXJ2aWNlRmFjdG9yeUJlYW4iLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuc3VwcG9ydC5Db252ZXJzaW9uU2VydmljZUZhY3RvcnlCZWFuIi8+Cg==</text>
