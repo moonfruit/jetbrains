@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/math/BigDecimal.java" timestamp="1518165455526" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/math/BigDecimal.java" timestamp="1518171460101" />
       <file name="$USER_HOME$/Documents/Workspace/java/java9/java9-alpha/src/main/java/com/github/moonfruit/java9/common/Output.java" timestamp="1517556424446">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -35,16 +35,11 @@
         <mark key="^" line="92" column="50" />
         <mark key="." line="98" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapEntrustPool.java" timestamp="1518167363673">
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/ThreadTest.java" timestamp="1518168123996">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="14" column="73" />
-        <mark key="." line="15" column="45" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/ThreadTest.java" timestamp="1518171915017">
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo-simple/src/main/java/com/gingkoo/www4j/core/config/CoreConfig.java" timestamp="1517903688267">
         <mark key="[" line="32" column="29" />
@@ -70,6 +65,7 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java" timestamp="1518147512873" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/auto/AutoDealMaking.java" timestamp="1518166578348" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1518171976409" />
       <file name="$USER_HOME$/Documents/Workspace/python/yysite/yyfeed/fetcher/iyingdi.py" timestamp="1514883535796">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -193,6 +189,17 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapOrder.java" timestamp="1518172102443">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapOrderLog.java" timestamp="1518171360524">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="67" column="17" />
+        <mark key="." line="67" column="17" />
+        <mark key="^" line="67" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/java9/java9-test/src/main/java/module-info.java" timestamp="1517557800757">
         <mark key="[" line="1" column="49" />
         <mark key="]" line="2" column="47" />
@@ -203,11 +210,6 @@
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapEntrustMatcher.java" timestamp="1518167332092">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1518163124248" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherServiceImpl.java" timestamp="1518167496004">
@@ -238,6 +240,7 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="0" column="48" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/math/BigInteger.java" timestamp="1518170864443" />
       <file name="$USER_HOME$/Documents/Workspace/java/java9/java9-alpha/src/main/java/module-info.java" timestamp="1517558253525">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -305,12 +308,12 @@
         <mark key="." line="132" column="8" />
         <mark key="^" line="132" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderMatcher.java" timestamp="1518167324702">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="197" column="15" />
-        <mark key="." line="11" column="19" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderMatcher.java" timestamp="1518172093519">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapRealOrder.java" timestamp="1518171216055" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherService.java" timestamp="1518167489411">
         <mark key="[" line="7" column="74" />
         <mark key="]" line="7" column="84" />
@@ -329,11 +332,10 @@
         <mark key="." line="37" column="17" />
         <mark key="^" line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPoolImpl.java" timestamp="1518168400926">
-        <mark key="[" line="33" column="92" />
-        <mark key="]" line="30" column="90" />
-        <mark key="^" line="30" column="90" />
-        <mark key="." line="30" column="90" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPoolImpl.java" timestamp="1518170964238">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/zoo-server/zoo-web-parent/zoo-webapp/src/main/resources/configs/application.yaml" timestamp="1518165151977" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo-simple/pom.xml" timestamp="1517982352990">
@@ -413,7 +415,7 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="1000" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1518167561741">
+      <file name="/fragment.java" timestamp="1518171060841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -451,13 +453,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBDb21wYXJhdG9yPEJpdG1hcFJlYWxPcmRlcj4gT1JERVJfQ09NUEFSQVRPUiA9IG5ldyBCaXRtYXBCdXlDb21wYXJhdG9yPD4oKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENvbXBhcmF0b3I8Qml0bWFwUmVhbE9yZGVyPiBSRVZFUlNFRF9DT01QQVJBVE9SID0gT1JERVJfQ09NUEFSQVRPUi5yZXZlcnNlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>UnitPrice</text>
+        <text>10000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -466,34 +468,34 @@
         <text encoding="base64">ICAgICAgICBxdWV1ZS5vZmZlcihuZXcgT3JkZXIoQmlnRGVjaW1hbC5PTkUsIG5ldyBEYXRlKCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBDb21wYXJhdG9yPEJpdG1hcFJlYWxPcmRlcj4gT1JERVJfQ09NUEFSQVRPUiA9IG5ldyBCaXRtYXBCdXlDb21wYXJhdG9yPD4oKTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIENvbXBhcmF0b3I8Qml0bWFwUmVhbE9yZGVyPiBSRVZFUlNFRF9DT01QQVJBVE9SID0gT1JERVJfQ09NUEFSQVRPUi5yZXZlcnNlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bml0UHJpY2UudG9CaWdJbnRlZ2VyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbkNvbXBhcmluZyhCaXRtYXBSZWFsT3JkZXI6OmdldE9yZGVyVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIChPcmRlciBvcmRlciA9IHF1ZXVlLnBvbGwoKTsgb3JkZXIgIT0gbnVsbDsgb3JkZXIgPSBxdWV1ZS5wb2xsKCkpIHsKCgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5wbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5wb3coMTAsIDEwKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRJZChTdHJpbmcgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGEgPSBuZXcgQmlnRGVjaW1hbCgiMS4wIik7CiAgICAgICAgQmlnRGVjaW1hbCBiID0gbmV3IEJpZ0RlY2ltYWwoIjEuMDAiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5lcXVhbHMoYikpOwoKICAgICAgICBJbnRIb2xkZXIgaG9sZGVyID0gbmV3IEludEhvbGRlcigpOwoKICAgICAgICBUaHJlYWQgdGhyZWFkID0gbmV3IFRocmVhZCgoKSAtPiB7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwMDAwMDAgJiYgIVRocmVhZC5pbnRlcnJ1cHRlZCgpOyBpKyspIHsKICAgICAgICAgICAgICAgIGhvbGRlci52YWx1ZSA9IGk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKCiAgICAgICAgdGhyZWFkLnN0YXJ0KCk7CiAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnNsZWVwKDEpOwogICAgICAgIHRocmVhZC5pbnRlcnJ1cHQoKTsKICAgICAgICB0aHJlYWQuam9pbigpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaG9sZGVyID0gIiArIGhvbGRlci52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgSW50SG9sZGVyIHsKICAgICAgICBwcml2YXRlIGludCB2YWx1ZSA9IC0xOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBidXk7CiAgICBwcml2YXRlIGJvb2xlYW4gbGltaXQ7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
