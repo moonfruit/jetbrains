@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/math/BigDecimal.java" timestamp="1519637485999" />
@@ -27,10 +27,10 @@
         <mark key="^" line="18" column="54" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapSubOrder.java" timestamp="1519726091102">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapSubOrder.java" timestamp="1519796757788">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapStatisticsSaver.java" timestamp="1519720989469">
         <mark key="[" line="2" column="39" />
@@ -45,26 +45,33 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherWorkspace.java" timestamp="1519725884913">
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherWorkspace.java" timestamp="1519800610364">
         <mark key="'" line="44" column="7" />
-        <mark key="[" line="62" column="49" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="63" column="21" />
+        <mark key="[" line="61" column="84" />
+        <mark key="]" line="61" column="92" />
+        <mark key="^" line="61" column="92" />
+        <mark key="." line="61" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/test/java/com/gingkoo/bitmap/matcher/BitmapMatcherTest.java" timestamp="1519727431091">
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="46" />
-        <mark key="." line="56" column="46" />
-        <mark key="^" line="40" column="31" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/test/java/com/gingkoo/bitmap/matcher/BitmapMatcherTest.java" timestamp="1519801227188">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-backend/src/com/ruizton/main/auto/AutoDealMaking.java" timestamp="1519721278276" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java" timestamp="1519713368988" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPool.java" timestamp="1519726968197">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPool.java" timestamp="1519799182381">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="40" />
+        <mark key="^" line="42" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1519797378804">
+        <mark key="[" line="390" column="40" />
+        <mark key="]" line="390" column="55" />
+        <mark key="." line="390" column="55" />
+        <mark key="^" line="390" column="55" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.14.RELEASE/spring-core-4.3.14.RELEASE-sources.jar!/org/springframework/core/env/ConfigurableEnvironment.java" timestamp="1519800857006" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1519715943282" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderMatcherImpl.java" timestamp="1519717152161">
         <mark key="[" line="18" column="31" />
@@ -74,10 +81,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.6.RELEASE/spring-amqp-1.7.6.RELEASE.jar!/org/springframework/amqp/core/AbstractExchange.class" timestamp="1519722130622" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/config/PropertyPlaceholderBeanDefinitionParser.java" timestamp="1519725418482" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderWorker.java" timestamp="1519724473210">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderWorker.java" timestamp="1519798298029">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
+        <mark key="^" line="47" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapOrder.java" timestamp="1519726109425">
         <mark key="[" line="125" column="34" />
@@ -112,36 +120,38 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.6.RELEASE/spring-amqp-1.7.6.RELEASE-sources.jar!/org/springframework/amqp/core/TopicExchange.java" timestamp="1519722148714" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java" timestamp="1519699817316" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-env.xml" timestamp="1519797148215" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherRawServiceImpl.java" timestamp="1519698827468">
         <mark key="[" line="11" column="108" />
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapStatisticsSaverImpl.java" timestamp="1519725927588">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapStatisticsSaverImpl.java" timestamp="1519799186591">
+        <mark key="[" line="22" column="75" />
+        <mark key="]" line="22" column="74" />
+        <mark key="." line="22" column="74" />
+        <mark key="^" line="22" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-rabbit/src/test/java/com/gingkoo/www4j/rabbit/RabbitTest.java" timestamp="1519722753628" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1519715108139" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java" timestamp="1519724662070" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-trade-parent/bitmap-trade-server/src/main/resources/configs/jdbc.yaml" timestamp="1519701241947" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderMatcher.java" timestamp="1519727640067">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderMatcher.java" timestamp="1519800585607">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapRealOrder.java" timestamp="1519639008729">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/resources/com/gingkoo/bitmap/matcher/bitmap-workspace.xml" timestamp="1519723701454">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/resources/com/gingkoo/bitmap/matcher/bitmap-workspace.xml" timestamp="1519801525740">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherService.java" timestamp="1519641048309">
         <mark key="[" line="7" column="74" />
@@ -149,25 +159,27 @@
         <mark key="^" line="7" column="84" />
         <mark key="." line="7" column="84" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" timestamp="1519801048221" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-client/pom.xml" timestamp="1519722839785">
         <mark key="[" line="27" column="21" />
         <mark key="]" line="21" column="35" />
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPoolImpl.java" timestamp="1519727127410">
-        <mark key="[" line="51" column="19" />
-        <mark key="]" line="51" column="24" />
-        <mark key="." line="51" column="24" />
-        <mark key="^" line="51" column="24" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPoolImpl.java" timestamp="1519800330772">
+        <mark key="[" line="177" column="48" />
+        <mark key="]" line="177" column="54" />
+        <mark key="^" line="177" column="54" />
+        <mark key="." line="177" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/SimpleBitmapTransSaver.java" timestamp="1519726509299">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/SimpleBitmapTransSaver.java" timestamp="1519800457429">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/config/spring-context-4.3.xsd" timestamp="1519725255694" />
+      <file name="/www4j-db-env.xml" timestamp="1519801510349" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapMatcherWorkspace.java" timestamp="1519723595257">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="7" column="0" />
@@ -182,7 +194,8 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/SmartLifecycle.java" timestamp="1519724370273" />
       <file name="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ThreadGroup.java" timestamp="1519699458585" />
-      <file name="/Dummy.txt" timestamp="1519724967960">
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java" timestamp="1519799928404" />
+      <file name="/Dummy.txt" timestamp="1519797209502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -207,10 +220,16 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java" timestamp="1519799493116" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/SortedMap.java" timestamp="1519721400754" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java" timestamp="1519715067958" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.java" timestamp="1519725211518" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.7.6.RELEASE/spring-amqp-1.7.6.RELEASE.jar!/org/springframework/amqp/core/TopicExchange.class" timestamp="1519722138823" />
+      <file name="/fragment.java" timestamp="1519797919604">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -252,13 +271,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>offer</text>
+        <text>SECONDS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgcG9vbC5vZmZlcihCaXRtYXBPcmRlci5uZXdMaW1pdFNlbGwoIjMiLCBuZXcgRGF0ZSgpLAogICAgICAgICAgICAgICAgbmV3IEJpZ0RlY2ltYWwoIjEwNS4wMCIpLCBuZXcgQmlnRGVjaW1hbCgiNTAiKSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmVnYXRpdmVTY2FsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -270,25 +289,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ29udmVyc2lvblNlcnZpY2UgY29udmVyc2lvblNlcnZpY2UoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3T3JkZXJTaWduID0gdHJ1ZTsKICAgICAgICAgICAgbmV3T3JkZXIuc2lnbmFsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaXRtYXBPcmRlclBvb2wgcG9vbCA9IGNvbnRleHQuZ2V0QmVhbihCaXRtYXBPcmRlclBvb2wuY2xhc3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVuaXRQcmljZS5zY2FsZSgpID4gMCkgewogICAgICAgICAgICAgICAgdW5pdFByaWNlID0gdW5pdFByaWNlLnN0cmlwVHJhaWxpbmdaZXJvcygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmlzUnVubmluZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lVW5pdC5TRUNPTkRTLnNsZWVwKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldEVudmlyb25tZW50KCkuc2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsLgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udGV4dCBpbnN0YW5jZW9mIEVudmlyb25tZW50KSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJPcmRlci5zZXRVbml0UHJpY2Uoc3ViT3JkZXIuZ2V0VW5pdFByaWNlKCkuc3RyaXBUcmFpbGluZ1plcm9zKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
