@@ -32,11 +32,11 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="33" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapStatisticsSaver.java" timestamp="1519804233677">
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="55" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapStatisticsSaver.java" timestamp="1519875464856">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="55" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/OrdersPair.java" timestamp="1519869003489">
         <mark key="[" line="4" column="13" />
@@ -58,13 +58,6 @@
         <mark key="]" line="4" column="24" />
         <mark key="^" line="16" column="4" />
         <mark key="." line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherWorkspace.java" timestamp="1519804463129">
-        <mark key="'" line="46" column="7" />
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/test/java/com/gingkoo/bitmap/matcher/BitmapMatcherTest.java" timestamp="1519872287094">
         <mark key="[" line="77" column="32" />
@@ -90,11 +83,11 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPool.java" timestamp="1519872297262">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="67" />
-        <mark key="^" line="26" column="67" />
-        <mark key="." line="26" column="67" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPool.java" timestamp="1519874447697">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-demo-parent/www4j-demo-web/src/test/java/com/gingkoo/www4j/test/MyTest.java" timestamp="1519797378804">
         <mark key="[" line="390" column="40" />
@@ -102,12 +95,13 @@
         <mark key="." line="390" column="55" />
         <mark key="^" line="390" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPoolImpl.java" timestamp="1519873580673">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="34" />
-        <mark key="." line="235" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPoolImpl.java" timestamp="1519875370770">
+        <mark key="[" line="281" column="58" />
+        <mark key="]" line="281" column="68" />
+        <mark key="^" line="281" column="68" />
+        <mark key="." line="281" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/SimpleBitmapTransSaver.java" timestamp="1519805715622">
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/SimpleBitmapTransSaver.java" timestamp="1519875508913">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="25" />
         <mark key="." line="13" column="25" />
@@ -139,6 +133,12 @@
         <mark key="^" line="5" column="48" />
       </file>
       <file name="/BitmapOrderPoolImpl.java" timestamp="1519809675486" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderCancelerImpl.java" timestamp="1519875520521">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" timestamp="1519871195449" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderWorker.java" timestamp="1519798298029">
         <mark key="[" line="39" column="5" />
@@ -197,10 +197,16 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="7" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1519872020649">
+      <file name="/fragment.java" timestamp="1519875437216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderCanceler.java" timestamp="1519875456836">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="5" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -237,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -252,34 +258,34 @@
         <text encoding="base64">ICAgIGJvb2xlYW4gb2ZmZXIoQml0bWFwT3JkZXIgb3JkZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yPEJpdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgKGNhbmNlbElkU2V0LmNvbnRhaW5zKGJ1eU9yZGVyLmdldElkKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgcmVtb3ZlKGJ1eVF1ZXVlLnBvbGwoKSk7CiAgICAgICAgICAgICAgICAgICAgYnV5T3JkZXIgPSBudWxsOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfSB3aGlsZSAoYnV5T3JkZXIgPT0gbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFyUXVldWUub2ZmZXIoY2xlYXJRdWV1ZShjbGVhclF1ZXVlLnBvbGwoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgYnV5T3JkZXIgPSBidXlRdWV1ZS5wZWVrKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKICAgICAgICBCaXRtYXBTdWJPcmRlciBidXlPcmRlcjsKICAgICAgICBkbyB7CiAgICAgICAgICAgIGJ1eU9yZGVyID0gYnV5UXVldWUucGVlaygpOwogICAgICAgICAgICBpZiAoYnV5T3JkZXIgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChjYW5jZWxJZFNldC5jb250YWlucyhidXlPcmRlci5nZXRJZCgpKSkgewogICAgICAgICAgICAgICAgcmVtb3ZlKGJ1eVF1ZXVlLnBvbGwoKSk7CiAgICAgICAgICAgICAgICBidXlPcmRlciA9IG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgfSB3aGlsZSAoYnV5T3JkZXIgPT0gbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFF1ZXVlPEJpdG1hcFN1Yk9yZGVyPiBxdWV1ZSA9IGNsZWFyUXVldWUucG9sbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFyUXVldWUocXVldWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
