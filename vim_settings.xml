@@ -8,12 +8,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderMatcher.java" timestamp="1520214087425">
-        <mark key="'" line="76" column="25" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/SimpleBitmapTransSaver.java" timestamp="1520229331818">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="15" column="55" />
@@ -43,6 +37,7 @@
         <mark key="." line="32" column="32" />
         <mark key="^" line="32" column="32" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/business/management/bean/LoginForm.java" timestamp="1520242844583" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherWorkerService.java" timestamp="1519976440245">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -55,13 +50,15 @@
       </file>
       <file name="$USER_HOME$/.ideaLibSources/struts2-core-2.3.34-sources.jar!/org/apache/struts2/dispatcher/FilterDispatcher.java" timestamp="1520240606173" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/struts-config/commQuery.xml" timestamp="1520240757654" />
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-client/src/test/java/com/gingkoo/bitmap/matcher/BitmapMatcherTest.java" timestamp="1520216875257">
-        <mark key="]" line="42" column="4" />
-        <mark key="^" line="42" column="4" />
-        <mark key="." line="42" column="4" />
-      </file>
       <file name="$USER_HOME$/.ideaLibSources/struts2-core-2.3.34-sources.jar!/org/apache/struts2/dispatcher/ng/filter/StrutsPrepareAndExecuteFilter.java" timestamp="1520240667265" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/struts/HTBaseForm.java" timestamp="1520242162910" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/common/error.jsp" timestamp="1520243107036">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/login/login.jsp" timestamp="1520243134600" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/web.xml" timestamp="1520240612148">
         <mark key="[" line="183" column="52" />
         <mark key="]" line="183" column="54" />
@@ -69,12 +66,17 @@
         <mark key="^" line="183" column="54" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/struts-config.xml" timestamp="1520241530477" />
-      <file name="/Dummy.txt" timestamp="1520239490567">
+      <file name="/Dummy.txt" timestamp="1520242881237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/struts-bean.tld" timestamp="1520240241346" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/common/expired.jsp" timestamp="1520242938300">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherConfigProviderImpl.java" timestamp="1520229165016">
         <mark key="[" line="23" column="35" />
         <mark key="]" line="23" column="37" />
@@ -134,14 +136,14 @@
       <jump line="76" column="25" filename="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderMatcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
+      <register name="&quot;" type="4">
+        <text>bean</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>gf4j</text>
+        <text>bean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -150,31 +152,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
+        <text encoding="base64">ICAgIDxzOmJhc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1odG1sLnRsZCIgcHJlZml4PSJodG1sIiAlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Z2xvYmFsLWV4Y2VwdGlvbi1tYXBwaW5ncz4KICAgICAgICAgICAgPGV4Y2VwdGlvbi1tYXBwaW5nIGV4Y2VwdGlvbj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIgcmVzdWx0PSJlcnJvcnMuZ2VuZXJhbCI+CiAgICAgICAgICAgICAgICBjb20uZ2luZ2tvby5lYmFuay5mcmFtZXdvcmsud2ViLnN0cnV0cy5BY3Rpb25FeGNlcHRpb25IYW5kbGVyCiAgICAgICAgICAgIDwvZXhjZXB0aW9uLW1hcHBpbmc+CiAgICAgICAgPC9nbG9iYWwtZXhjZXB0aW9uLW1hcHBpbmdzPgo=</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1iZWFuLnRsZCIgcHJlZml4PSIiICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgPGdsb2JhbC1yZXN1bHRzPgogICAgICAgICAgICA8cmVzdWx0PjwvcmVzdWx0PgogICAgICAgIDwvZ2xvYmFsLXJlc3VsdHM+Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1sb2dpYy50bGQiIHByZWZpeD0ibG9naWMiICU+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9ImluZGV4Ij4KICAgICAgICAgICAgPHJlc3VsdD4vaW5kZXguanNwPC9yZXN1bHQ+CiAgICAgICAgPC9hY3Rpb24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZmlsdGVyLWNsYXNzPgoJCQlvcmcuYXBhY2hlLnN0cnV0cy5hY3Rpb24yLmRpc3BhdGNoZXIuRmlsdGVyRGlzcGF0Y2hlcgoJCTwvZmlsdGVyLWNsYXNzPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Z2xvYmFsLWV4Y2VwdGlvbi1tYXBwaW5ncz4KICAgICAgICAgICAgPGV4Y2VwdGlvbi1tYXBwaW5nIGV4Y2VwdGlvbj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIgcmVzdWx0PSJlcnJvcnMuZ2VuZXJhbCI+CiAgICAgICAgICAgICAgICBjb20uZ2luZ2tvby5lYmFuay5mcmFtZXdvcmsud2ViLnN0cnV0cy5BY3Rpb25FeGNlcHRpb25IYW5kbGVyCiAgICAgICAgICAgIDwvZXhjZXB0aW9uLW1hcHBpbmc+CiAgICAgICAgPC9nbG9iYWwtZXhjZXB0aW9uLW1hcHBpbmdzPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPGdsb2JhbC1yZXN1bHRzPgogICAgICAgICAgICA8cmVzdWx0PjwvcmVzdWx0PgogICAgICAgIDwvZ2xvYmFsLXJlc3VsdHM+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
