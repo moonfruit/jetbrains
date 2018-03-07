@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-trade-parent/bitmap-trade-api/src/main/java/com/gingkoo/bitmap/trade/bean/BitmapTransInfo.java" timestamp="1520408636929" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderComparators.java" timestamp="1519871880463">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/SimpleBitmapTransSaver.java" timestamp="1520229331818">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="15" column="55" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/SimpleBitmapTransSaver.java" timestamp="1520408617813">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-commons/src/main/java/com/gingkoo/bitmap/commons/redis/RedisConstant.java" timestamp="1520229270831" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-commons/src/main/java/com/gingkoo/bitmap/commons/redis/RedisConstant.java" timestamp="1520408622004" />
       <file name="$USER_HOME$/.ideaLibSources/struts2-core-2.3.34-sources.jar!/struts-2.3.dtd" timestamp="1520242106391" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapStatisticsSaver.java" timestamp="1519900030497">
         <mark key="[" line="2" column="39" />
@@ -47,6 +47,12 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/constant/BitmapOrderComparators.java" timestamp="1520408715433">
+        <mark key="[" line="31" column="71" />
+        <mark key="]" line="31" column="81" />
+        <mark key="^" line="31" column="81" />
+        <mark key="." line="31" column="81" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/struts2-core-2.3.34-sources.jar!/org/apache/struts2/dispatcher/FilterDispatcher.java" timestamp="1520240606173" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/struts-config/commQuery.xml" timestamp="1520240757654" />
@@ -100,6 +106,7 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Comparator.java" timestamp="1520408743113" />
     </filemarks>
     <jumps>
       <jump line="101" column="7" filename="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-ri/src/main/java/com/gingkoo/www4j/notice/channel/NoticeChannelRunner.java" />
@@ -136,8 +143,8 @@
       <jump line="76" column="25" filename="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderMatcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi5Lqk5piT5oiQ5Yqf5ZCO57ut5aSE55CG5aSx6LSlIiwgZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="k" type="4">
         <text />
@@ -152,34 +159,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzOmJhc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi5Lqk5piT5oiQ5Yqf5ZCO57ut5aSE55CG5aSx6LSlIiwgZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1odG1sLnRsZCIgcHJlZml4PSJodG1sIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrRXhlY3V0b3IuZXhlY3V0ZSgoKSAtPiB7CiAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1iZWFuLnRsZCIgcHJlZml4PSIiICU+Cg==</text>
+        <text encoding="base64">ICAgIDxzOmJhc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1sb2dpYy50bGQiIHByZWZpeD0ibG9naWMiICU+Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1odG1sLnRsZCIgcHJlZml4PSJodG1sIiAlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1iZWFuLnRsZCIgcHJlZml4PSIiICU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1sb2dpYy50bGQiIHByZWZpeD0ibG9naWMiICU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Z2xvYmFsLWV4Y2VwdGlvbi1tYXBwaW5ncz4KICAgICAgICAgICAgPGV4Y2VwdGlvbi1tYXBwaW5nIGV4Y2VwdGlvbj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIgcmVzdWx0PSJlcnJvcnMuZ2VuZXJhbCI+CiAgICAgICAgICAgICAgICBjb20uZ2luZ2tvby5lYmFuay5mcmFtZXdvcmsud2ViLnN0cnV0cy5BY3Rpb25FeGNlcHRpb25IYW5kbGVyCiAgICAgICAgICAgIDwvZXhjZXB0aW9uLW1hcHBpbmc+CiAgICAgICAgPC9nbG9iYWwtZXhjZXB0aW9uLW1hcHBpbmdzPgo=</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uIG5hbWU9IiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgPGdsb2JhbC1yZXN1bHRzPgogICAgICAgICAgICA8cmVzdWx0PjwvcmVzdWx0PgogICAgICAgIDwvZ2xvYmFsLXJlc3VsdHM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Z2xvYmFsLWV4Y2VwdGlvbi1tYXBwaW5ncz4KICAgICAgICAgICAgPGV4Y2VwdGlvbi1tYXBwaW5nIGV4Y2VwdGlvbj0iamF2YS5sYW5nLkV4Y2VwdGlvbiIgcmVzdWx0PSJlcnJvcnMuZ2VuZXJhbCI+CiAgICAgICAgICAgICAgICBjb20uZ2luZ2tvby5lYmFuay5mcmFtZXdvcmsud2ViLnN0cnV0cy5BY3Rpb25FeGNlcHRpb25IYW5kbGVyCiAgICAgICAgICAgIDwvZXhjZXB0aW9uLW1hcHBpbmc+CiAgICAgICAgPC9nbG9iYWwtZXhjZXB0aW9uLW1hcHBpbmdzPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
