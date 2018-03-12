@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/entity/data/mng/FunctionInfo.java" timestamp="1520502552606" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/ebank/business/common/MessageResourceUtil.java" timestamp="1520842581416">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/business/remote/PageBackServlet.java" timestamp="1520498146677" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/mvc/struts/utils/ActionMappingUtils.java" timestamp="1520578425055">
         <mark key="[" line="35" column="0" />
@@ -37,7 +42,13 @@
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/lib/struts.jar!/org/apache/struts/util/MessageResources.class" timestamp="1520586030474" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/message/MessageSourceFactory.java" timestamp="1520839546668">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="45" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="27" column="45" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/lib/struts.jar!/org/apache/struts/util/MessageResources.class" timestamp="1520841466217" />
       <file name="$USER_HOME$/.ideaLibSources/spring-web-4.3.4.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestPart.java" timestamp="1520494810709" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/src/spring/security.xml" timestamp="1520562748306">
         <mark key="[" line="121" column="38" />
@@ -72,7 +83,7 @@
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/error.jsp" timestamp="1520835124975" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/error.jsp" timestamp="1520837933817" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/config/SpringMvcConfig.java" timestamp="1520503140576">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="6" column="13" />
@@ -91,6 +102,7 @@
         <mark key="." line="46" column="28" />
         <mark key="^" line="144" column="31" />
       </file>
+      <file name="$USER_HOME$/.ideaLibSources/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/support/MessageSourceSupport.java" timestamp="1520839026432" />
       <file name="$USER_HOME$/.ideaLibSources/spring-webmvc-4.3.4.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/ViewResolverRegistry.java" timestamp="1520492492140" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/pageqryexp/action/FileDownloadAction.java" timestamp="1520578973491" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/404.jsp" timestamp="1520582988563">
@@ -98,6 +110,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.ideaLibSources/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/MessageSource.java" timestamp="1520840407320" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/system/pageqryexp/ftl/mydownload.ftl" timestamp="1520581675589">
         <mark key="[" line="32" column="116" />
         <mark key="]" line="32" column="116" />
@@ -123,6 +136,14 @@
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/commquery/servlet/CommQueryInterfaceServlet.java" timestamp="1520582617154" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/struts/ActionExceptionHandler.java" timestamp="1520491748011" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-redis/src/main/java/com/gingkoo/www4j/redis/lock/RedisLockManager.java" timestamp="1520564665373" />
+      <file name="$USER_HOME$/.ideaLibSources/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/support/ResourceBundleMessageSource.java" timestamp="1520842161765" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/CommonFunctions.java" timestamp="1520842041000" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/form/LoginForm.java" timestamp="1520577537339">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/web.xml" timestamp="1520582595088">
         <mark key="[" line="183" column="52" />
         <mark key="]" line="183" column="54" />
@@ -144,7 +165,14 @@
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/src/init.properties" timestamp="1520495909668" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/lock/AbstractLockManager.java" timestamp="1520564609130" />
-      <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/util/MessageResources.java" timestamp="1520586011381" />
+      <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/util/MessageResources.java" timestamp="1520841570419" />
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherConfigProviderImpl.java" timestamp="1520229165016">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/i18n/LocaleContextHolder.java" timestamp="1520840960369" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/framework/spring/config/MvcConfig.java" timestamp="1520503359735">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="51" column="27" />
@@ -161,36 +189,47 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/taglib/bean/MessageTag.java" timestamp="1520585769724" />
+      <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/taglib/bean/MessageTag.java" timestamp="1520839905753" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/shiro-all-1.2.1.jar!/org/apache/shiro/subject/support/DelegatingSubject.class" timestamp="1520565698578" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/struts.jar!/org/apache/struts/action/Action.class" timestamp="1520503733596" />
-      <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/taglib/TagUtils.java" timestamp="1520586633853" />
+      <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/taglib/TagUtils.java" timestamp="1520841646170" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/message/MessageSupport.java" timestamp="1520840224044">
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="63" />
+        <mark key="^" line="50" column="63" />
+        <mark key="." line="50" column="63" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/spring-webmvc-4.3.4.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java" timestamp="1520565520755" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/ebank/business/management/service/UserMgrService.java" timestamp="1520575820452" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/i18n/LocaleContextHolder.java" timestamp="1520826934728" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/business/management/bean/LogoutForm.java" timestamp="1520498232151" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/util/ResourceBundle.java" timestamp="1520842185141" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/spring-context-4.3.4.RELEASE.jar!/org/springframework/context/support/MessageSourceResourceBundle.class" timestamp="1520588883686" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/mvc/struts/action/BaseAction.java" timestamp="1520578290988" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/lib/jsp-api-2.2.jar!/javax/servlet/jsp/tagext/TagSupport.class" timestamp="1520839848728" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/struts/BaseAction.java" timestamp="1520562338882" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/util/ApplicationContextUtils.java" timestamp="1520839594408" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1520567821521" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/business/management/action/LogoutAction.java" timestamp="1520498251045" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/util/MessageResources.java" timestamp="1520585364907" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/resources/errorcode.properties" timestamp="1520838411592" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/authority/UserAuthority.java" timestamp="1520502572246" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/MessageResourceUtil.java" timestamp="1520587625745" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/MessageResourceUtil.java" timestamp="1520842024451" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/login/index.jsp" timestamp="1520566079275">
         <mark key="[" line="430" column="90" />
         <mark key="]" line="430" column="90" />
         <mark key="^" line="430" column="90" />
         <mark key="." line="430" column="90" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/web.xml" timestamp="1520583581778">
-        <mark key="[" line="150" column="38" />
-        <mark key="]" line="155" column="21" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/web.xml" timestamp="1520841354349">
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="0" />
         <mark key="^" line="155" column="21" />
-        <mark key="." line="155" column="21" />
+        <mark key="." line="430" column="0" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/action/ActionForm.java" timestamp="1520562388026" />
       <file name="$USER_HOME$/.ideaLibSources/struts-1.2.9-sources.jar!/org/apache/struts/config/MessageResourcesConfig.java" timestamp="1520586163917" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/framework/config/Config.java" timestamp="1520838145170" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/ebank/business/management/action/SwitchLanuageAction.java" timestamp="1520587790983" />
       <file name="$USER_HOME$/.ideaLibSources/spring-webmvc-4.3.4.RELEASE-sources.jar!/org/springframework/web/servlet/i18n/SessionLocaleResolver.java" timestamp="1520589361645" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/fpages/dataquery/ftl/BiQuartzJobLog.ftl" timestamp="1520584057803">
@@ -208,6 +247,18 @@
         <mark key="]" line="32" column="116" />
         <mark key="^" line="33" column="27" />
         <mark key="." line="32" column="116" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/struts-bean.tld" timestamp="1520840695557">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+        <mark key="^" line="10" column="60" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/struts.xml" timestamp="1520243954441">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/lib/struts.jar!/META-INF/MANIFEST.MF" timestamp="1520561116419" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherWorkerService.java" timestamp="1519976440245">
@@ -240,6 +291,12 @@
         <mark key="." line="50" column="59" />
         <mark key="^" line="50" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/constant/BitmapOrderComparators.java" timestamp="1520408715433">
+        <mark key="[" line="31" column="71" />
+        <mark key="]" line="31" column="81" />
+        <mark key="^" line="31" column="81" />
+        <mark key="." line="31" column="81" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/init.properties" timestamp="1520499757244" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/fpages/basis/ftl/BiNationregionEntry.ftl" timestamp="1520583924766">
         <mark key="[" line="1" column="0" />
@@ -264,6 +321,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/taglib/MessageTag.java" timestamp="1520842460097">
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="27" column="11" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/spring-context-4.3.4.RELEASE-sources.jar!/org/springframework/context/support/AbstractMessageSource.java" timestamp="1520842506560" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/operation/orm/HQLDAO.java" timestamp="1520502372537" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/org/apache/struts/util/MessageResourcesFactory.java" timestamp="1520587455412" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/mvc/struts/action/ErrorForm.java" timestamp="1520585927912">
@@ -289,7 +353,7 @@
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/common/SystemConstant.java" timestamp="1520577151441" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/struts-config.xml" timestamp="1520498375166" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/login/loginBctl.jsp" timestamp="1520576566015" />
-      <file name="/Dummy.txt" timestamp="1520835108406">
+      <file name="/Dummy.txt" timestamp="1520841631900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -297,9 +361,16 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java" timestamp="1520582515657" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/ebank/business/management/bean/LoginForm.java" timestamp="1520577487328" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/org/apache/struts/MessageResourcesFactory.java" timestamp="1520586171795" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/resources/UIi18n.properties" timestamp="1520838706310" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/session/SessionManager.java" timestamp="1520498668136" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/templets/commonQuery/BankCommonQueryEditType.ftl" timestamp="1520835030826" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/templets/commonQuery/BankCommonQueryEditType.ftl" timestamp="1520837675863" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/templets/include/BaseConfigParam.xml" timestamp="1520582481988" />
+      <file name="$USER_HOME$/Documents/Workspace/java/struts-export/pom.xml" timestamp="1520239480464">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="52" column="11" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="11" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/src/orm/hbm/FunctionInfo.hbm.xml" timestamp="1520502564334" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/fpages/management/ftl/ChangePwd.ftl" timestamp="1520562802315">
         <mark key="[" line="144" column="30" />
@@ -308,12 +379,19 @@
         <mark key="^" line="144" column="29" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/gf4j.base/com/gingkoo/mvc/struts/action/SafeAction.java" timestamp="1520578657123" />
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/MessageSourceFactoryBean.java" timestamp="1520834876240" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/MessageSourceFactoryBean.java" timestamp="1520838446987" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/org/apache/struts/MessageResources.java" timestamp="1520585534364" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.mng/com/gingkoo/ebank/business/management/action/LoginAction.java" timestamp="1520587733856" />
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/login/login.jsp" timestamp="1520583406740">
+        <mark key="[" line="161" column="95" />
+        <mark key="]" line="162" column="97" />
+        <mark key="^" line="162" column="97" />
+        <mark key="." line="162" column="97" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/web/advice/MethodArgumentTranslator.java" timestamp="1520838452361" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/ebank/framework/web/struts/QryExpAction.java" timestamp="1520578638838" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/struts/util/PropertyMessageResourcesExt.java" timestamp="1520587480283" />
-      <file name="/fragment.java" timestamp="1520586124281">
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/struts/util/PropertyMessageResourcesExt.java" timestamp="1520841749028" />
+      <file name="/fragment.java" timestamp="1520842105582">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -360,49 +438,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3RydXRzLmFjdGlvbmQqOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTwhLS0gUmVwbGFjZSBTdHJ1dHMgQWN0aW9uIHt7eyAtLT4K</text>
+        <text encoding="base64">CQkJcmV0dXJuIG51bGxhYmxlID8gbWVzcyA6IG1zZ0NvZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3RydXRzLmFjdGlvbmQqOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCNhc3NpZ24gYmVhbj1Kc3BUYWdsaWJzWyIvV0VCLUlORi9zdHJ1dHMtYmVhbi50bGQiXSAvPgo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCNhc3NpZ24gYmVhbj1Kc3BUYWdsaWJzWyIvV0VCLUlORi9zdHJ1dHMtYmVhbi50bGQiXSAvPgo=</text>
+        <text encoding="base64">CQlpZiAobWVzcyA9PSBudWxsKSB7CgkJCXJldHVybiBudWxsYWJsZSA/IG1lc3MgOiBtc2dDb2RlOwoJCX0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCNhc3NpZ24gPUpzcFRhZ2xpYnNbIi9XRUItSU5GL3N0cnV0cy1iZWFuLnRsZCJdIC8+Cg==</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCNhc3NpZ24gYmVhbj1Kc3BUYWdsaWJzWyIvV0VCLUlORi9zdHJ1dHMtYmVhbi50bGQiXSAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1odG1sLnRsZCIgcHJlZml4PSJodG1sIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdsb2JhbEluZm8gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1iZWFuLnRsZCIgcHJlZml4PSJiZWFuIiAlPgo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCVAIHRhZ2xpYiB1cmk9Ii9XRUItSU5GL3N0cnV0cy1sb2dpYy50bGQiIHByZWZpeD0ibG9naWMiICU+Cg==</text>
+      <register name="8" type="4">
+        <text>\n&quot; +
+				&quot;/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/resources/errorcode_en_US.properties\n&quot; +
+				&quot;/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/resources/errorcode_zh_CN.properties\n&quot; +
+				&quot;/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/resources/errorcode_zh_TW.propertie</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLmdldE1lc3NhZ2VSZXNvdXJjZXMoInJlc291cmNlcy5lcnJvcmNvZGUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
