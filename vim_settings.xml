@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/message/MessageSupport.java" timestamp="1520840224044">
+        <mark key="[" line="50" column="15" />
+        <mark key="]" line="50" column="63" />
+        <mark key="^" line="50" column="63" />
+        <mark key="." line="50" column="63" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/ebank/business/common/MessageResourceUtil.java" timestamp="1520844659301">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -46,6 +52,12 @@
         <mark key="^" line="123" column="35" />
         <mark key="." line="123" column="35" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/login/index.jsp" timestamp="1520566079275">
+        <mark key="[" line="430" column="90" />
+        <mark key="]" line="430" column="90" />
+        <mark key="^" line="430" column="90" />
+        <mark key="." line="430" column="90" />
+      </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/CommonController.java" timestamp="1520582928801">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -63,6 +75,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/web.xml" timestamp="1520841354349">
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="0" />
+        <mark key="^" line="155" column="21" />
+        <mark key="." line="430" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-server/src/main/resources/configs/redis.yaml" timestamp="1519899937646">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="10" />
@@ -74,100 +92,15 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1520217815382">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1520587750863">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="28" />
-        <mark key="." line="46" column="28" />
-        <mark key="^" line="144" column="31" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" timestamp="1520928969261" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/404.jsp" timestamp="1520582988563">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/system/pageqryexp/ftl/mydownload.ftl" timestamp="1520581675589">
-        <mark key="[" line="32" column="116" />
-        <mark key="]" line="32" column="116" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="32" column="116" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/login/index.jsp" timestamp="1520562932292">
-        <mark key="[" line="340" column="89" />
-        <mark key="]" line="340" column="89" />
-        <mark key="." line="340" column="93" />
-        <mark key="^" line="340" column="88" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/expired.jsp" timestamp="1520583504230">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/system/check/ftl/CheckConfigMng.ftl" timestamp="1520584084282">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/web.xml" timestamp="1520582595088">
-        <mark key="[" line="183" column="52" />
-        <mark key="]" line="183" column="54" />
-        <mark key="." line="183" column="54" />
-        <mark key="^" line="183" column="54" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1520498725503">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="157" column="36" />
-        <mark key="." line="159" column="0" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/common/expired.jsp" timestamp="1520242938300">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520576426926">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/framework/spring/config/MvcConfig.java" timestamp="1520503359735">
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="51" column="27" />
-        <mark key="." line="51" column="27" />
-        <mark key="^" line="51" column="31" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/success.jsp" timestamp="1520583037326">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/message/MessageSupport.java" timestamp="1520840224044">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="63" />
-        <mark key="^" line="50" column="63" />
-        <mark key="." line="50" column="63" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/login/index.jsp" timestamp="1520566079275">
-        <mark key="[" line="430" column="90" />
-        <mark key="]" line="430" column="90" />
-        <mark key="^" line="430" column="90" />
-        <mark key="." line="430" column="90" />
-      </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/web.xml" timestamp="1520841354349">
-        <mark key="[" line="430" column="0" />
-        <mark key="]" line="430" column="0" />
-        <mark key="^" line="155" column="21" />
-        <mark key="." line="430" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/db445688-63b5-468e-9311-d492be00a82b/console.sql" timestamp="1520575931629">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1520217815382">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/fpages/dataquery/ftl/BiQuartzJobLog.ftl" timestamp="1520584057803">
         <mark key="[" line="1" column="0" />
@@ -185,6 +118,12 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="32" column="116" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1520587750863">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="144" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherWorkerService.java" timestamp="1519976440245">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -194,6 +133,23 @@
         <mark key="[" line="422" column="0" />
         <mark key="]" line="422" column="0" />
         <mark key="." line="422" column="0" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/404.jsp" timestamp="1520582988563">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/system/pageqryexp/ftl/mydownload.ftl" timestamp="1520581675589">
+        <mark key="[" line="32" column="116" />
+        <mark key="]" line="32" column="116" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="32" column="116" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/login/index.jsp" timestamp="1520562932292">
+        <mark key="[" line="340" column="89" />
+        <mark key="]" line="340" column="89" />
+        <mark key="." line="340" column="93" />
+        <mark key="^" line="340" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderWorker.java" timestamp="1519895329135">
         <mark key="[" line="83" column="0" />
@@ -212,6 +168,16 @@
         <mark key="^" line="50" column="66" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/fpages/basis/ftl/BiNationregionEntry.ftl" timestamp="1520583924766">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/expired.jsp" timestamp="1520583504230">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/pages/gpms/system/check/ftl/CheckConfigMng.ftl" timestamp="1520584084282">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -255,16 +221,44 @@
         <mark key="." line="175" column="4" />
         <mark key="^" line="175" column="4" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/WEB-INF/web.xml" timestamp="1520582595088">
+        <mark key="[" line="183" column="52" />
+        <mark key="]" line="183" column="54" />
+        <mark key="." line="183" column="54" />
+        <mark key="^" line="183" column="54" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1520498725503">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="157" column="36" />
+        <mark key="." line="159" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1520841631900">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/common/expired.jsp" timestamp="1520242938300">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1520576426926">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/fpages/management/ftl/ChangePwd.ftl" timestamp="1520562802315">
         <mark key="[" line="144" column="30" />
         <mark key="]" line="144" column="30" />
         <mark key="." line="144" column="30" />
         <mark key="^" line="144" column="29" />
+      </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/framework/com/gingkoo/framework/spring/config/MvcConfig.java" timestamp="1520503359735">
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="." line="51" column="27" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/MessageSourceFactoryBean.java" timestamp="1520850250994">
         <mark key="[" line="46" column="12" />
@@ -277,15 +271,21 @@
         <mark key="]" line="58" column="26" />
         <mark key="." line="58" column="26" />
       </file>
+      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/success.jsp" timestamp="1520583037326">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1520845058334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1520322181359">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1520993266967">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="742" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -324,13 +324,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>5</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
