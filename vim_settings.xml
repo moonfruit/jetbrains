@@ -170,7 +170,6 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yyscript/picture.py" timestamp="1521084265651" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/404.jsp" timestamp="1520582988563">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -194,7 +193,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="27" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1521096286106">
+      <file name="/Python Console" timestamp="1521099344105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderMatcherImpl.java" timestamp="1519717152161">
@@ -658,11 +657,11 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yyscript/huobi.py" timestamp="1521096284492">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="55" column="23" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yyscript/huobi.py" timestamp="1521100658267">
+        <mark key="[" line="61" column="70" />
+        <mark key="]" line="61" column="71" />
+        <mark key="." line="61" column="71" />
+        <mark key="^" line="64" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1520845058334">
         <mark key="[" line="0" column="0" />
@@ -712,13 +711,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -727,34 +726,34 @@
         <text encoding="base64">CQkJcmV0dXJuIG51bGxhYmxlID8gbWVzcyA6IG1zZ0NvZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHJhZGUgPj0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBwcmljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGF2ZXJhZ2VfcmVzdWx0IDwgZmlyc3RfcmVzdWx0OgogICAgICAgIHByaW50KGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdHJhZGUgPj0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBwcmljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICBjb3VudCA9IGxlbihkYXRhKQogICAgc3VtbWFyeSA9IHN1bShbaXRlbVsnZml4ZWRQcmljZSddIGZvciBpdGVtIGluIGRhdGFdKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGF2ZXJhZ2VfcmVzdWx0IDwgZmlyc3RfcmVzdWx0OgogICAgICAgIHByaW50KGRhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICBjb3VudCA9IGxlbihkYXRhKQogICAgc3VtbWFyeSA9IHN1bShbaXRlbVsnZml4ZWRQcmljZSddIGZvciBpdGVtIGluIGRhdGFdKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -804,6 +803,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
