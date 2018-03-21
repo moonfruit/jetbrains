@@ -67,7 +67,7 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/struts-config.xml" timestamp="1521616874191" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.pom" timestamp="1521623715697" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/FileDownloadController.java" timestamp="1521616022519">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -141,6 +141,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.0.1/curator-client-4.0.1.jar!/META-INF/maven/org.apache.curator/curator-client/pom.xml" timestamp="1521623747511" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderPool.java" timestamp="1519874447697">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="18" column="50" />
@@ -159,6 +160,7 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistry.class" timestamp="1521623046014" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1521616923996">
         <mark key="]" line="47" column="95" />
         <mark key="." line="47" column="95" />
@@ -170,7 +172,6 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/fp.common/com/gingkoo/ebank/business/pageqryexp/action/FileDownloadAction.java" timestamp="1521616025102" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/common/404.jsp" timestamp="1520582988563">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -234,6 +235,12 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/resources/com/gingkoo/spring/www4j-dubbo.xml" timestamp="1521624618279">
+        <mark key="[" line="12" column="95" />
+        <mark key="]" line="12" column="95" />
+        <mark key="^" line="12" column="111" />
+        <mark key="." line="12" column="95" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderWorker.java" timestamp="1519798298029">
         <mark key="[" line="39" column="5" />
         <mark key="]" line="47" column="4" />
@@ -269,6 +276,12 @@
         <mark key="]" line="159" column="0" />
         <mark key="^" line="157" column="36" />
         <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/pom.xml" timestamp="1521623486007">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherServiceImpl.java" timestamp="1519969852024">
         <mark key="[" line="25" column="31" />
@@ -351,6 +364,12 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="33" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo-simple/src/main/resources/com/gingkoo/www4j/dubbo/simple/spring/www4j-dubbo-simple.xml" timestamp="1521624607458">
+        <mark key="[" line="14" column="95" />
+        <mark key="]" line="14" column="111" />
+        <mark key="^" line="14" column="111" />
+        <mark key="." line="14" column="111" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/support/StatusReporter.java" timestamp="1519895671149">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -363,8 +382,7 @@
         <mark key="^" line="334" column="53" />
         <mark key="." line="205" column="29" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/resources/errorcode.properties" timestamp="1521615506771" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/org/apache/struts/action/Action.java" timestamp="1521615969150" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/zookeeper/ZookeeperTransporter.class" timestamp="1521623053660" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/bean/BitmapOrderPair.java" timestamp="1519978200179">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="29" />
@@ -464,6 +482,11 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="32" column="116" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo-simple/pom.xml" timestamp="1521624589705">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherRawService.java" timestamp="1519969006329">
         <mark key="[" line="7" column="95" />
         <mark key="]" line="8" column="11" />
@@ -498,6 +521,7 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.0/dubbo-2.6.0-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/ZookeeperTransporter.java" timestamp="1521623226846" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/config/BitmapMatcherConfig.java" timestamp="1519980346921">
         <mark key="[" line="107" column="75" />
         <mark key="]" line="107" column="75" />
@@ -581,7 +605,6 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/webapp/WEB-INF/struts-config/commQuery.xml" timestamp="1521615562904" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapOrderCancelerRunner.java" timestamp="1519876305097">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="59" />
@@ -594,7 +617,7 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521614468650">
+      <file name="/Dummy.txt" timestamp="1521624666367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -664,16 +687,17 @@
         <mark key="." line="56" column="25" />
         <mark key="^" line="56" column="25" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/apache-curator/4.0.1/apache-curator-4.0.1.pom" timestamp="1521623772062" />
       <file name="/fragment.java" timestamp="1520845058334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1521614278510">
-        <mark key="[" line="987" column="0" />
-        <mark key="]" line="987" column="0" />
-        <mark key="^" line="980" column="28" />
-        <mark key="." line="987" column="0" />
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/pom.xml" timestamp="1521624304471">
+        <mark key="[" line="975" column="54" />
+        <mark key="]" line="976" column="46" />
+        <mark key="^" line="976" column="46" />
+        <mark key="." line="976" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -712,13 +736,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -727,34 +751,34 @@
         <text encoding="base64">CQkJcmV0dXJuIG51bGxhYmxlID8gbWVzcyA6IG1zZ0NvZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuaG9tZSIpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY3VyYXRvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y3VyYXRvci1mcmFtZXdvcms8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVnIGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLjEwMXRlYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+emtjbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjA8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zbGY0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2xmNGotbG9nNGoxMjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS4xMDF0ZWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnprY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVzaW9ucz4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGV4Y2x1c2lvbj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxncm91cElkPmxvZzRqPC9ncm91cElkPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTwvZXhjbHVzaW9uPi0tPgogICAgICAgICAgICAgICAgPCEtLTwvZXhjbHVzaW9ucz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHJhZGUgPj0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBwcmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBab29LZWVwZXIgLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmN1cmF0b3I8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jdXJhdG9yLXJlY2lwZXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj40LjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
