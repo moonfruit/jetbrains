@@ -14,6 +14,12 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/extension/SpringZookeeperClient.java" timestamp="1521627408517">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/resources/com/gingkoo/spring/www4j-core.xml" timestamp="1519725473194">
         <mark key="[" line="14" column="54" />
         <mark key="]" line="14" column="78" />
@@ -32,6 +38,8 @@
         <mark key="^" line="37" column="23" />
         <mark key="." line="37" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/support/AbstractZookeeperClient.java" timestamp="1521627556605" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/common/extension/Adaptive.java" timestamp="1521626976863" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherConfigProvider.java" timestamp="1519899973194">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="6" />
@@ -73,6 +81,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/ZookeeperTransporter.java" timestamp="1521627007713" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderCanceler.java" timestamp="1519979302052">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="53" />
@@ -114,6 +123,7 @@
         <mark key="^" line="224" column="6" />
         <mark key="." line="224" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistry.java" timestamp="1521627080267" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/test/java/com/gingkoo/bitmap/matcher/BitmapMatcherTest.java" timestamp="1519969951447">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="28" column="50" />
@@ -136,6 +146,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.14.RELEASE/spring-beans-4.3.14.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java" timestamp="1521628504855" />
       <file name="$USER_HOME$/Documents/Workspace/java/www4j-notice/www4j-notice-service-parent/www4j-notice-chan-dubbo/src/main/java/com/gingkoo/www4j/notice/channel/dubbo/DubboNoticeChannelFactory.java" timestamp="1520217815382">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -161,11 +172,6 @@
         <mark key="." line="26" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/registry/zookeeper/ZookeeperRegistry.class" timestamp="1521623046014" />
-      <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1521616923996">
-        <mark key="]" line="47" column="95" />
-        <mark key="." line="47" column="95" />
-        <mark key="^" line="47" column="95" />
-      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/support/RunnableLifecycle.java" timestamp="1519957639851">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="51" />
@@ -265,6 +271,12 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="50" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/ContextListener.java" timestamp="1521628107032">
+        <mark key="[" line="42" column="71" />
+        <mark key="]" line="42" column="71" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="42" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/runner/BitmapStatisticsSaverRunner.java" timestamp="1519885837265">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="59" />
@@ -283,6 +295,7 @@
         <mark key="^" line="26" column="27" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.0.1/curator-client-4.0.1.jar!/org/apache/curator/retry/RetryNTimes.class" timestamp="1521626532632" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherServiceImpl.java" timestamp="1519969852024">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="48" />
@@ -376,6 +389,12 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/extension/ProvidedCuratorZookeeperClient.java" timestamp="1521627993156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderPoolImpl.java" timestamp="1519981867068">
         <mark key="[" line="205" column="29" />
         <mark key="]" line="205" column="29" />
@@ -401,6 +420,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperClient.java" timestamp="1521627679712" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/app_root/login/index.jsp" timestamp="1520566079275">
         <mark key="[" line="430" column="90" />
         <mark key="]" line="430" column="90" />
@@ -442,6 +462,7 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/common/extension/SPI.java" timestamp="1521626865400" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapWorkspace.java" timestamp="1520213953938">
         <mark key="[" line="82" column="99" />
         <mark key="]" line="82" column="99" />
@@ -487,6 +508,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1.jar!/com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperClient.class" timestamp="1521626462156" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-api/src/main/java/com/gingkoo/bitmap/matcher/BitmapMatcherRawService.java" timestamp="1519969006329">
         <mark key="[" line="7" column="95" />
         <mark key="]" line="8" column="11" />
@@ -497,6 +519,18 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/extension/SpringZookeeperTransporter.java" timestamp="1521628757903">
+        <mark key="[" line="32" column="87" />
+        <mark key="]" line="32" column="93" />
+        <mark key="." line="32" column="93" />
+        <mark key="^" line="32" column="93" />
+      </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-core/src/main/java/com/gingkoo/www4j/core/spring/ContextHolder.java" timestamp="1521628442536">
+        <mark key="[" line="42" column="42" />
+        <mark key="]" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+        <mark key="^" line="42" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/support/BitmapMatcherHelper.java" timestamp="1519962621299">
         <mark key="[" line="15" column="0" />
@@ -509,6 +543,8 @@
         <mark key="]" line="422" column="0" />
         <mark key="." line="422" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/common/URL.java" timestamp="1521627606649" />
+      <file name="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.1/dubbo-2.6.1-sources.jar!/com/alibaba/dubbo/remoting/zookeeper/curator/CuratorZookeeperTransporter.java" timestamp="1521626798365" />
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapMatcherWorkspace.java" timestamp="1519897873002">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -567,6 +603,7 @@
         <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="17" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE-sources.jar!/org/springframework/context/ApplicationContextException.java" timestamp="1521628292117" />
       <file name="$USER_HOME$/Documents/Workspace/python/geoip/update.sh" timestamp="1520232660049">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -628,6 +665,11 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/java/www4j/www4j-dubbo/src/main/java/com/gingkoo/www4j/dubbo/extension/CuratorZookeeperTransporter.java" timestamp="1521627114207">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-client/src/main/java/com/gingkoo/bitmap/matcher/ProxyBitmapMatcherRawService.java" timestamp="1519981233674">
         <mark key="[" line="56" column="23" />
         <mark key="]" line="53" column="4" />
@@ -688,7 +730,8 @@
         <mark key="^" line="56" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/curator/apache-curator/4.0.1/apache-curator-4.0.1.pom" timestamp="1521623772062" />
-      <file name="/fragment.java" timestamp="1520845058334">
+      <file name="$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.0.1/curator-framework-4.0.1.jar!/org/apache/curator/framework/CuratorFramework.class" timestamp="1521627777991" />
+      <file name="/fragment.java" timestamp="1521627522617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -735,14 +778,14 @@
       <jump line="76" column="25" filename="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/BitmapOrderMatcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -751,34 +794,34 @@
         <text encoding="base64">CQkJcmV0dXJuIG51bGxhYmxlID8gbWVzcyA6IG1zZ0NvZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY3VyYXRvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Y3VyYXRvci1mcmFtZXdvcms8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLjEwMXRlYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+emtjbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEN1cmF0b3Jab29rZWVwZXJDbGllbnQodXJsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi41LjA8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS4xMDF0ZWM8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnprY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3VyYXRvckZyYW1ld29yayBjbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NC4wLjE8L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXBwbGljYXRpb25Db250ZXh0IGdldENvbnRleHROb25OdWxsKCkgewogICAgICAgIHJldHVybiBnZXRJbnN0YW5jZSgpLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBBcHBsaWNhdGlvbkNvbnRleHQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBab29LZWVwZXIgLS0+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDb250ZXh0SG9sZGVyKCkgewogICAgICAgIHRoaXMobnVsbCk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmN1cmF0b3I8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jdXJhdG9yLXJlY2lwZXM8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj40LjAuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
