@@ -11,6 +11,69 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*Send stat.*" />
+                      <option name="id" value="b94fa49f-7ade-4157-bb41-a42c5366547c" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14784869" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="569e2cf8-8883-4dbc-a46c-22a0253f7ef7" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*\[DUBBO].*" />
+                      <option name="id" value="400e35e1-269d-49e6-85e7-e25ebcd5963a" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="29750364-cfeb-4a18-8437-2ee0ff7604f8" />
+                        </GrepStyle>
+                      </option>
+                      <option name="unlessGrepExpression" value="" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="dubbo" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*environment:(java|os|user).*" />
+                      <option name="id" value="b3bbf70c-d09d-4c6a-83dd-a8dc70b27098" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="611c86b5-294b-4fd9-a0fb-514fb7541bdb" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="zookeeper" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="id" value="e46592f2-6fd8-44e1-8df8-0f8e7699915b" />
                       <option name="style">
@@ -162,46 +225,6 @@
                   </list>
                 </option>
                 <option name="name" value="default" />
-              </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
-                    <GrepExpressionItem>
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*Send stat.*" />
-                      <option name="id" value="b94fa49f-7ade-4157-bb41-a42c5366547c" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-14784869" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="569e2cf8-8883-4dbc-a46c-22a0253f7ef7" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="fold" value="true" />
-                      <option name="grepExpression" value=".*\[DUBBO].*" />
-                      <option name="id" value="400e35e1-269d-49e6-85e7-e25ebcd5963a" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-8355712" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="29750364-cfeb-4a18-8437-2ee0ff7604f8" />
-                        </GrepStyle>
-                      </option>
-                      <option name="unlessGrepExpression" value="" />
-                    </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="dubbo" />
               </GrepExpressionGroup>
             </list>
           </option>
