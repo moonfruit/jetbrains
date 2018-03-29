@@ -55,11 +55,10 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/production.py" timestamp="1522304796433">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="9" column="63" />
-        <mark key="." line="9" column="63" />
-        <mark key="^" line="9" column="63" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/production.py" timestamp="1522306509562">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/SimpleBitmapTransSaver.java" timestamp="1520408617813">
         <mark key="[" line="28" column="0" />
@@ -164,7 +163,6 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/settings.py" timestamp="1522304857712" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1521616923996">
         <mark key="]" line="47" column="95" />
         <mark key="." line="47" column="95" />
@@ -567,6 +565,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/etc/nginx.conf" timestamp="1522306788339" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/FlowPower_Master/WebContent/login/login.jsp" timestamp="1520564674557">
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="4" />
@@ -591,10 +590,10 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521614468650">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1522306608169">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/runner/BitmapOrderCancelerRunnerImpl.java" timestamp="1519885685487">
         <mark key="[" line="7" column="13" />
@@ -714,13 +713,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>23.226.78.111</text>
+        <text>host</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>23.226.78.111</text>
+        <text>host</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
@@ -729,34 +728,34 @@
         <text encoding="base64">CQkJcmV0dXJuIG51bGxhYmxlID8gbWVzcyA6IG1zZ0NvZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuaG9tZSIpOwo=</text>
+        <text encoding="base64">U0VDVVJFX0hTVFNfUFJFTE9BRCA9IFRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YnVnIGZpeAo=</text>
+        <text encoding="base64">YnVnIGZpeCBmb3IgamFuZGFuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhvbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuaG9tZSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zbGY0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2xmNGotbG9nNGoxMjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
+        <text encoding="base64">YnVnIGZpeAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVzaW9ucz4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGV4Y2x1c2lvbj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxncm91cElkPmxvZzRqPC9ncm91cElkPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTwvZXhjbHVzaW9uPi0tPgogICAgICAgICAgICAgICAgPCEtLTwvZXhjbHVzaW9ucz4tLT4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zbGY0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c2xmNGotbG9nNGoxMjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5sb2c0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08ZXhjbHVzaW9ucz4tLT4KICAgICAgICAgICAgICAgICAgICA8IS0tPGV4Y2x1c2lvbj4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxncm91cElkPmxvZzRqPC9ncm91cElkPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGFydGlmYWN0SWQ+bG9nNGo8L2FydGlmYWN0SWQ+LS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLTwvZXhjbHVzaW9uPi0tPgogICAgICAgICAgICAgICAgPCEtLTwvZXhjbHVzaW9ucz4tLT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdHJhZGUgPj0gMDoKICAgICAgICAgICAgICAgIHJldHVybiBwcmljZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
