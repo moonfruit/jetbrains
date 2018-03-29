@@ -55,10 +55,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/production.py" timestamp="1522289185639">
-        <mark key="[" line="58" column="17" />
-        <mark key="]" line="58" column="17" />
-        <mark key="." line="58" column="17" />
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/production.py" timestamp="1522304796433">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="63" />
+        <mark key="." line="9" column="63" />
+        <mark key="^" line="9" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/Workspace/java/biheaven-server/bitmap-matcher-parent/bitmap-matcher-ri/src/main/java/com/gingkoo/bitmap/matcher/workspace/SimpleBitmapTransSaver.java" timestamp="1520408617813">
         <mark key="[" line="28" column="0" />
@@ -163,6 +164,7 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/Workspace/python/yysite/yysite/settings.py" timestamp="1522304857712" />
       <file name="/Volumes/Transcend/moon/Documents/Workspace/fp/workspace/gpms2/src/com/gingkoo/framework/web/controller/LoginController.java" timestamp="1521616923996">
         <mark key="]" line="47" column="95" />
         <mark key="." line="47" column="95" />
@@ -712,13 +714,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>23.226.78.111</text>
       </register>
       <register name="k" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>23.226.78.111</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXJlY3Rpb25cPg==</text>
